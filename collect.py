@@ -146,6 +146,9 @@ def main():
         prev = status.get(sid, {})
         try:
             found = PARSERS[src["type"]](src, fetch(src["url"]))
+            if src.get("title_pattern"):
+                keep = re.compile(src["title_pattern"])
+                found = [f for f in found if keep.search(f["title"])]
         except Exception as e:  # 1 つの情報源の失敗で全体を止めない
             status[sid] = {**prev, "name": src["name"], "ok": False, "error": f"{type(e).__name__}: {e}"[:300],
                            "checked_at": now.isoformat()}
@@ -181,8 +184,9 @@ def main():
 
     # 古い項目を整理し、sources.json から消えた情報源の状態も消す
     keep_after = now - timedelta(days=KEEP_DAYS)
-    items = {k: v for k, v in items.items() if datetime.fromisoformat(v["first_seen"]) >= keep_after}
     ids = {s["id"] for s in sources}
+    items = {k: v for k, v in items.items()
+             if v["source"] in ids and datetime.fromisoformat(v["first_seen"]) >= keep_after}
     status = {k: v for k, v in status.items() if k in ids}
 
     new_after = now - timedelta(days=NEW_DAYS)
