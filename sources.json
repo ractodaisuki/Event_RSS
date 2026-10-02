@@ -1,0 +1,110 @@
+{
+  "_comment": "type: rss = RSS/Atom フィード / links = ページ内のリンクのうち link_pattern（正規表現）に合うものを新着として拾う / page = ページ本文が変わったら 1 件として知らせる",
+  "sources": [
+    {
+      "id": "gengaten-kinki",
+      "name": "原画展.info 近畿",
+      "genre": "アニメ・マンガ",
+      "type": "links",
+      "url": "https://gengaten.info/kinki/",
+      "link_pattern": "^https://gengaten\\.info/\\d{4}/\\d{2}/\\d+/$"
+    },
+    {
+      "id": "walker-kansai-anime",
+      "name": "ウォーカープラス 関西 アニメ・ゲーム",
+      "genre": "アニメ・マンガ",
+      "type": "links",
+      "url": "https://www.walkerplus.com/event_list/ar0700/eg0127/",
+      "link_pattern": "^https://www\\.walkerplus\\.com/event/ar\\d+e\\d+/$"
+    },
+    {
+      "id": "kyotomm",
+      "name": "京都国際マンガミュージアム",
+      "genre": "アニメ・マンガ",
+      "type": "rss",
+      "url": "https://kyotomm.jp/feed/"
+    },
+    {
+      "id": "happyell",
+      "name": "ハピエル（関西のアニメ展・マンガ展）",
+      "genre": "アニメ・マンガ",
+      "type": "rss",
+      "url": "https://happyell.co.jp/feed/"
+    },
+    {
+      "id": "kcomitia",
+      "name": "関西コミティア",
+      "genre": "アニメ・マンガ",
+      "type": "links",
+      "url": "https://www.k-comitia.com/",
+      "link_pattern": "^https://www\\.k-comitia\\.com/blog/\\d{4}/\\d{2}/\\d+/$"
+    },
+    {
+      "id": "shimeken-osaka",
+      "name": "同人イベントNAVI 大阪府",
+      "genre": "アニメ・マンガ",
+      "type": "links",
+      "url": "https://shimeken.com/events/schedule/%E5%A4%A7%E9%98%AA%E5%BA%9C",
+      "link_pattern": "^https://www\\.akaboo\\.jp/event/item/\\d+\\.html$"
+    },
+    {
+      "id": "intex-osaka",
+      "name": "インテックス大阪 イベント情報",
+      "genre": "アニメ・マンガ",
+      "type": "page",
+      "url": "https://www.intex-osaka.com/jp/event/"
+    },
+    {
+      "id": "kyomaf",
+      "name": "京まふ 公式",
+      "genre": "アニメ・マンガ",
+      "type": "page",
+      "url": "https://kyomaf.kyoto/"
+    },
+    {
+      "id": "kirakukan",
+      "name": "神戸新開地・喜楽館 公演",
+      "genre": "お笑い",
+      "type": "links",
+      "url": "https://kobe-kirakukan.jp/",
+      "link_pattern": "^https://kobe-kirakukan\\.jp/performances/\\d+/$"
+    },
+    {
+      "id": "kintetsu-artkan",
+      "name": "近鉄アート館",
+      "genre": "お笑い",
+      "type": "links",
+      "url": "https://kintetsuartkan.jp/info/",
+      "link_pattern": "^https://kintetsuartkan\\.jp/info/\\d+/$"
+    },
+    {
+      "id": "news-daw90000",
+      "name": "ニュース: ダウ90000",
+      "genre": "お笑い",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=%E3%83%80%E3%82%A690000&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "id": "news-jukyunin",
+      "name": "ニュース: 十九人",
+      "genre": "お笑い",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=%E5%8D%81%E4%B9%9D%E4%BA%BA+%E3%81%8A%E7%AC%91%E3%81%84&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "id": "news-mujinzo",
+      "name": "ニュース: 無尽蔵",
+      "genre": "お笑い",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=%E7%84%A1%E5%B0%BD%E8%94%B5+%E3%81%8A%E7%AC%91%E3%81%84&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "id": "eiga-coming",
+      "name": "映画.com 公開予定",
+      "genre": "映画",
+      "type": "links",
+      "url": "https://eiga.com/coming/",
+      "link_pattern": "^https://eiga\\.com/movie/\\d+/$"
+    }
+  ]
+}
