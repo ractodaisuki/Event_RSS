@@ -110,12 +110,74 @@
       "title_pattern": "(ライブ|公演|単独|チケット|ツアー|開催|出演|イベント|寄席|劇場)"
     },
     {
+      "id": "hanjotei",
+      "name": "天満天神繁昌亭 公演",
+      "genre": "お笑い",
+      "type": "rss",
+      "url": "https://www.hanjotei.jp/feed/"
+    },
+    {
+      "id": "ngk",
+      "name": "なんばグランド花月 お知らせ",
+      "genre": "お笑い",
+      "type": "links",
+      "url": "https://www.yoshimoto.co.jp/ngk/",
+      "link_pattern": "^https://ngk\\.yoshimoto\\.co\\.jp/\\d{4}/\\d{2}/[\\w-]+\\.html$"
+    },
+    {
+      "id": "manzaigekijyo",
+      "name": "よしもと漫才劇場 お知らせ",
+      "genre": "お笑い",
+      "type": "links",
+      "url": "https://manzaigekijyo.yoshimoto.co.jp/",
+      "link_pattern": "^https://manzaigekijyo\\.yoshimoto\\.co\\.jp/\\d{4}/\\d{2}/[\\w-]+\\.html$"
+    },
+    {
+      "id": "walker-kansai-owarai",
+      "name": "ウォーカープラス 関西 伝統芸能・お笑いライブ",
+      "genre": "お笑い",
+      "type": "links",
+      "url": "https://www.walkerplus.com/event_list/ar0700/eg0114/",
+      "link_pattern": "^https://www\\.walkerplus\\.com/event/ar\\d+e\\d+/$"
+    },
+    {
       "id": "eiga-coming",
       "name": "映画.com 公開予定",
       "genre": "映画",
       "type": "links",
       "url": "https://eiga.com/coming/",
       "link_pattern": "^https://eiga\\.com/movie/\\d+/$"
+    },
+    {
+      "id": "demachiza-event",
+      "name": "出町座 イベント（舞台挨拶・トーク）",
+      "genre": "映画",
+      "type": "links",
+      "url": "https://demachiza.com/event",
+      "link_pattern": "^https://demachiza\\.com/event/\\d+$"
+    },
+    {
+      "id": "nanagei",
+      "name": "第七藝術劇場 上映作品・イベント",
+      "genre": "映画",
+      "type": "links",
+      "url": "https://www.nanagei.com/",
+      "link_pattern": "^https?://www\\.nanagei\\.com/(mv/mv|ev/ev)_n\\d+\\.html$"
+    },
+    {
+      "id": "oaff",
+      "name": "大阪アジアン映画祭",
+      "genre": "映画",
+      "type": "rss",
+      "url": "https://oaff.jp/feed/"
+    },
+    {
+      "id": "walker-kansai-movie",
+      "name": "ウォーカープラス 関西 映画イベント",
+      "genre": "映画",
+      "type": "links",
+      "url": "https://www.walkerplus.com/event_list/ar0700/eg0110/",
+      "link_pattern": "^https://www\\.walkerplus\\.com/event/ar\\d+e\\d+/$"
     }
   ]
 }
