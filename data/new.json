@@ -1,7 +1,187 @@
 {
- "generated_at": "2026-10-04T23:44:30+09:00",
+ "generated_at": "2026-10-06T03:18:38+09:00",
  "days": 7,
  "items": [
+  {
+   "id": "walker-kansai-owarai:e8ce1c5cbef9",
+   "source": "walker-kansai-owarai",
+   "source_name": "ウォーカープラス 関西 伝統芸能・お笑いライブ",
+   "genre": "お笑い",
+   "title": "年末恒例！エクラホールに桂文枝登壇！",
+   "url": "https://www.walkerplus.com/event/ar0728e617270/",
+   "published": null,
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "walker-kansai-owarai:07d9fbb3d908",
+   "source": "walker-kansai-owarai",
+   "source_name": "ウォーカープラス 関西 伝統芸能・お笑いライブ",
+   "genre": "お笑い",
+   "title": "平城遷都－「飛鳥・藤原の宮都」から平城へ－",
+   "url": "https://www.walkerplus.com/event/ar0729e616044/",
+   "published": null,
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "walker-kansai-owarai:1cdd888eae6d",
+   "source": "walker-kansai-owarai",
+   "source_name": "ウォーカープラス 関西 伝統芸能・お笑いライブ",
+   "genre": "お笑い",
+   "title": "地元で鑑賞できる本格的な落語会",
+   "url": "https://www.walkerplus.com/event/ar0725e599549/",
+   "published": null,
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "walker-kansai-owarai:6b2e6c1f95b2",
+   "source": "walker-kansai-owarai",
+   "source_name": "ウォーカープラス 関西 伝統芸能・お笑いライブ",
+   "genre": "お笑い",
+   "title": "なんば雲海",
+   "url": "https://www.walkerplus.com/event/ar0727e608654/",
+   "published": null,
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "walker-kansai-movie:07d9fbb3d908",
+   "source": "walker-kansai-movie",
+   "source_name": "ウォーカープラス 関西 映画イベント",
+   "genre": "映画",
+   "title": "平城遷都－「飛鳥・藤原の宮都」から平城へ－",
+   "url": "https://www.walkerplus.com/event/ar0729e616044/",
+   "published": null,
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "walker-kansai-movie:6b2e6c1f95b2",
+   "source": "walker-kansai-movie",
+   "source_name": "ウォーカープラス 関西 映画イベント",
+   "genre": "映画",
+   "title": "なんば雲海",
+   "url": "https://www.walkerplus.com/event/ar0727e608654/",
+   "published": null,
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "walker-kansai-anime:07d9fbb3d908",
+   "source": "walker-kansai-anime",
+   "source_name": "ウォーカープラス 関西 アニメ・ゲーム",
+   "genre": "アニメ・マンガ",
+   "title": "平城遷都－「飛鳥・藤原の宮都」から平城へ－",
+   "url": "https://www.walkerplus.com/event/ar0729e616044/",
+   "published": null,
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-jukyunin-live:6b501bc0d736",
+   "source": "news-jukyunin-live",
+   "source_name": "ニュース: 十九人 の公演",
+   "genre": "お笑い",
+   "title": "（写真）要注目の男女コンビ・十九人、“事務所の伝統”エンタメ感あふれる単独ライブに向けすでに12回の喧嘩勃発！ - クランクイン！",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KZ2RzYWY1UFVtTkI2WFl1QlpUTTNPTFZMY1RJTkYySzVIRGpiNmZCbGRadVczVlZPaVp0NVJ1MjdSWjZkNEFkMUxDeHBBb2pTNk1YUEpEUjJHQ0VIZmliUjRYZ0Y?oc=5",
+   "published": "2026-07-23T20:20:55+09:00",
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-jukyunin-live:060597b98eff",
+   "source": "news-jukyunin-live",
+   "source_name": "ニュース: 十九人 の公演",
+   "genre": "お笑い",
+   "title": "要注目の男女コンビ・十九人、“事務所の伝統”エンタメ感あふれる単独ライブに向けすでに12回の喧嘩勃発！ - クランクイン！",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkMmpPaUFxNGdWZXZUZE43dExzWExQU3VyMGpkMG55c0NJTkRHeXk3OUpfT1pWaWNBdHdxUl96eklxMGxmY0p3SEdXMFlBdHpSaTJUNkkxemxEZw?oc=5",
+   "published": "2026-07-23T16:00:00+09:00",
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-jukyunin-live:ea7410c355b4",
+   "source": "news-jukyunin-live",
+   "source_name": "ニュース: 十九人 の公演",
+   "genre": "お笑い",
+   "title": "11日豊見城でエイサー公演 「しんか」の17人 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wdUhyaUpKR2pJRUFJX28xLVpLLXVDY3JvaEJWY2pROWxxZnVHTXpra3J0MENiT1dJdGNpZDVJMkhEM21FSVJ1MUlyVXZnWGZlY1VOLVZ2OFp4SGpZM2c?oc=5",
+   "published": "2026-10-05T03:57:00+09:00",
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:b73f3d406fde",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "Sundae May Club、ダウ90000の単独ライブ【40000】主題歌「爆音モノローグ」配信リリース決定＆ジャケ写公開 - Billboard JAPAN",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zYVJLbzlZc2JQOFdSdnc3bmd2dGFwdFp1ZVZTWVdmdV9xM3NtQ2pmeGpOTTE5Q2pSSTEyaUJ1Ym1icms4OGJKby1GUnRZOW5sZUh4ZXdlX0NqUWZmQWQ4MGlCTQ?oc=5",
+   "published": "2026-07-18T16:00:00+09:00",
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "nanagei:c081b160cd8f",
+   "source": "nanagei",
+   "source_name": "第七藝術劇場 上映作品・イベント",
+   "genre": "映画",
+   "title": "--> 10/18(日)～23(金) ワンカモ",
+   "url": "https://www.nanagei.com/mv/mv_n2226.html",
+   "published": null,
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "kirakukan:338eb2275d53",
+   "source": "kirakukan",
+   "source_name": "神戸新開地・喜楽館 公演",
+   "genre": "お笑い",
+   "title": "第十一回 桂文我独演会・冬 桂 雪鹿 「開口一番」 桂 文我 「はかり餅」 桂 文我 「命の灯火」 仲入り 桂 三象 「鯛」 桂 文我 「掛取り」 ※喜楽館窓口にてチケット発売（現金のみ） 開演：18時30分（開場18時） 料金：前売 3,500円 当日 4,000円 席種：自由席 お問い合わせ先：桂文我事務局（090‐1414‐9883） 前売ご予約は、郵便振替〔00850 5 67081・桂文我〕で 通信欄に、公演の日時・公演名・枚数を必ずお書き込み下さい。 受領証が、仮チケットになります。 注意事項・その他： ※ 未就学児童の入場はご遠慮ください。 ※ 車椅子の方は事前にお知らせください",
+   "url": "https://kobe-kirakukan.jp/performances/17053/",
+   "published": null,
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "happyell:0117391f4893",
+   "source": "happyell",
+   "source_name": "ハピエル（関西のアニメ展・マンガ展）",
+   "genre": "アニメ・マンガ",
+   "title": "【現地取材】特別展「源氏物語 王朝のかがやき」京都国立博物館の見どころ｜初心者も楽しめる51年ぶりの大展覧会",
+   "url": "https://happyell.co.jp/genji-monogatari-kyoto2026",
+   "published": "2026-10-05T18:47:14+09:00",
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
+  {
+   "id": "happyell:5f5e8a629528",
+   "source": "happyell",
+   "source_name": "ハピエル（関西のアニメ展・マンガ展）",
+   "genre": "アニメ・マンガ",
+   "title": "【USJ】セーラームーン2027！登場キャラクター10戦士・4-D・ハリドリを解説",
+   "url": "https://happyell.co.jp/sailormoon",
+   "published": "2026-10-05T23:40:58+09:00",
+   "first_seen": "2026-10-06T03:18:38+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
+   "baseline": false
+  },
   {
    "id": "walker-kansai-anime:d156f3ffce57",
    "source": "walker-kansai-anime",
@@ -11,7 +191,7 @@
    "url": "https://www.walkerplus.com/event/ar0730e617395/",
    "published": null,
    "first_seen": "2026-10-04T23:44:30+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -35,7 +215,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fV1dmRE1naEdRX0pxOWhBd0lwSEoyQVJpZ2dMMElyRlB3cWE3RzRnQWFKRjFaeVJmUDVNYjdYUUM0aDBwZnlrbmM5ZUg?oc=5",
    "published": "2021-04-18T16:00:00+09:00",
    "first_seen": "2026-10-04T23:44:30+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -47,7 +227,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1aWdZSGU3Yko1aGVuOWIyaG1GVmplcVhHZTAtTXozZVAybGxKOVoxM3JoXzJ5bld0UTd4MWdDeEdFNGdaeXJtbEgxc2RyTGdQWWdvbjVUdksyeUtsX3RCR09IdkdqQlVGTkZlM1VYYm5YRW5NX1c4VmFZVGRETVnSAYcBQVVfeXFMTVNVaDhqa0gwdXdDZFpVcmZnWEs0OVNZejhqZVlITHdpNm1tWVJPMm0zZWRZVWwtWld6VDlPWHJCTTl4R2J5eE1FeVlYSEZPcm5VMG5BV2JqZVU0eXBSa1UyOW42T0F6WVJBMmJ1N0xWVV9sdmZiWUFpa0tpWk9TNjZ1UWs5TEJr?oc=5",
    "published": "2025-07-19T16:00:00+09:00",
    "first_seen": "2026-10-04T23:44:30+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -59,7 +239,7 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0SWJmNGJWd0NXVnd0MXFRTTdDd0RlcnVpYjJLQ2pKQS1tNTE2M2NfcHRkVFY4cUFsRlpRNEJLamhZQzhXRmlPMHI2RXRhVkI1eURtZ0I3QmVjdkhyQXRv?oc=5",
    "published": "2026-07-18T16:00:00+09:00",
    "first_seen": "2026-10-04T23:44:30+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -71,7 +251,7 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3NGp3NW9wQTdGRkk1MGRfUm1CUTRfbExsSHVWc29MYXJnQjVYT3BTV3NDb2FxZFd2Mm9VUkU5RGNZT1lXNHNhTUVEM1VvRVNiQlhVU0JwOG90T3NUSVlMRW4tSURadDNJenZJLUk5TnZZVXR1bmVFVQ?oc=5",
    "published": "2026-09-07T16:00:00+09:00",
    "first_seen": "2026-10-04T23:44:30+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -83,7 +263,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XV04wclVtczZETnhRdlNFUDVTc2V1Mm1XZGU5NDR3Y3ZWOVgtLWRHVXB3cnV6YWdoS0xMUV9FY3Y2VHE1c19xSThqSWpycTY5dkxBNERfYkFRSy1GUTFNOHlR?oc=5",
    "published": "2026-09-07T16:00:00+09:00",
    "first_seen": "2026-10-04T23:44:30+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -95,7 +275,7 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52QUpCei1peFZ0MlVSTmNZSkU0ZF9HX1JneDIzbzhrSnZWX09zVjlCUXprQTA2SktCbXVXX2dfTGtsRXVULUU4WnJZRmgxVjBIbnc?oc=5",
    "published": "2023-12-12T17:00:00+09:00",
    "first_seen": "2026-10-04T23:44:30+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -131,7 +311,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94ZnY4eTg5UUdYNUdiUGJ0VEZRVGV1LUluNWNHWXZaWV9mMERqQmpwZnZFdnF4MDFxM0pjdmh5UWh1MkdQQV9YVUtCLVhiLW41MTZOTHh1VlpvRDFG?oc=5",
    "published": "2025-11-16T17:00:00+09:00",
    "first_seen": "2026-10-04T23:44:30+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -167,7 +347,7 @@
    "url": "https://happyell.co.jp/zenghibli-ishidayuriko",
    "published": "2026-10-04T10:57:28+09:00",
    "first_seen": "2026-10-04T23:44:30+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -179,7 +359,7 @@
    "url": "https://happyell.co.jp/zen-ghibli-zengo",
    "published": "2026-10-04T16:58:58+09:00",
    "first_seen": "2026-10-04T23:44:30+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -191,7 +371,7 @@
    "url": "https://www.walkerplus.com/event/ar0729e612274/",
    "published": null,
    "first_seen": "2026-10-03T23:16:05+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -203,7 +383,7 @@
    "url": "https://www.walkerplus.com/event/ar0728e617590/",
    "published": null,
    "first_seen": "2026-10-03T23:16:05+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -215,7 +395,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQd0VqRWJRV0Z2N1RZbU1PTzRpR2NDaU9fWk9ldDVmRTBDTUpIdWtheTVYQkdlT3VXNGc2VHRNT09zb0pYSkRfQ21lOVJMeTdZM3FRV2YxN3RNcFhXbGc?oc=5",
    "published": "2026-06-10T16:00:00+09:00",
    "first_seen": "2026-10-03T23:16:05+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -227,7 +407,7 @@
    "url": "https://kyotomm.jp/news/20th_anniversary_shelf/",
    "published": "2026-10-03T12:00:08+09:00",
    "first_seen": "2026-10-03T23:16:05+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -239,7 +419,7 @@
    "url": "https://kyotomm.jp/news/takemiya-keiko-60th/",
    "published": "2026-10-03T11:00:23+09:00",
    "first_seen": "2026-10-03T23:16:05+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -251,7 +431,7 @@
    "url": "https://kintetsuartkan.jp/info/1147/",
    "published": null,
    "first_seen": "2026-10-03T23:16:05+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -263,7 +443,7 @@
    "url": "https://happyell.co.jp/zen-ghibli",
    "published": "2026-10-03T10:27:54+09:00",
    "first_seen": "2026-10-03T23:16:05+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -275,7 +455,7 @@
    "url": "https://happyell.co.jp/zen-ghibli2026-suzuki",
    "published": "2026-10-03T06:58:12+09:00",
    "first_seen": "2026-10-03T23:16:05+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -287,7 +467,7 @@
    "url": "https://eiga.com/movie/87201/",
    "published": null,
    "first_seen": "2026-10-03T23:16:05+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -299,7 +479,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6MVJxbXdHeC1SbF9NWDRNZWhFMW9ralpBSFFOUkZXWlQ5REp4RExZTElhR2JzVE5pM2hSbEM0SzRzaHZFb2N5M0hyRXB2UQ?oc=5",
    "published": "2025-11-28T17:00:00+09:00",
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -311,7 +491,7 @@
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYk45SWJDSEpVVktITGxMMzN4MjRESHJLUFB6b1M1ZHA2cVJRVVJCTUhSWXpmZzFqT20xaGYwV09oZ2p5R3N1d1hFbFZQcTdCM0JnQVRzTWhzSjZzQmJMQ0hOaThUTjVWVldCa3RRaDZRX1pHMkl5Rk5tN0RlZGlac0ktLVlwbzBjV1o0aUxR?oc=5",
    "published": "2026-09-30T19:12:13+09:00",
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -323,7 +503,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkSW1Ybmh6eVlfbFVfbmVpV2Q3OFc5aXE0am51eGxzZ2MyMnQxZ1dOWk9STzl1SVl4QXQxUzM2WThwMjM2M1VjN3BURzA?oc=5",
    "published": "2026-09-25T18:40:00+09:00",
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -335,7 +515,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17022/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -347,7 +527,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17021/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -359,7 +539,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17017/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -371,7 +551,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17013/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -383,7 +563,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17020/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -395,7 +575,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17019/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -407,7 +587,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17018/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -419,7 +599,7 @@
    "url": "https://happyell.co.jp/osaka-nightstream",
    "published": "2026-10-02T22:26:59+09:00",
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -431,7 +611,7 @@
    "url": "https://eiga.com/movie/107019/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -443,7 +623,7 @@
    "url": "https://eiga.com/movie/107014/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -455,7 +635,7 @@
    "url": "https://eiga.com/movie/107018/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -467,7 +647,7 @@
    "url": "https://eiga.com/movie/107016/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -479,7 +659,7 @@
    "url": "https://eiga.com/movie/107017/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -491,7 +671,7 @@
    "url": "https://eiga.com/movie/107015/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   },
   {
@@ -503,7 +683,7 @@
    "url": "https://eiga.com/movie/106834/",
    "published": null,
    "first_seen": "2026-10-03T00:43:18+09:00",
-   "last_seen": "2026-10-04T23:44:30+09:00",
+   "last_seen": "2026-10-06T03:18:38+09:00",
    "baseline": false
   }
  ]
