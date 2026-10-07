@@ -4,7 +4,133 @@
     <title>関西イベント新着（Event_RSS）</title>
     <link>https://github.com/ractodaisuki/Event_RSS</link>
     <description>関西のアニメ・お笑い・映画などの情報源から、新しく見つかった項目</description>
-    <lastBuildDate>Wed, 07 Oct 2026 00:50:37 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:20:21 +0900</lastBuildDate>
+    <item>
+      <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] TOTTEI PARK イルミナイト －AUTUMN LEAVES－</title>
+      <link>https://www.walkerplus.com/event/ar0728e612487/</link>
+      <guid isPermaLink="false">walker-kansai-owarai:cc8f13286962</guid>
+      <category>お笑い</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 映画イベント] 映画上映『 editor.O 』＜下鴨中通ブックフェア2026＞</title>
+      <link>https://www.walkerplus.com/event/ar0726e614395/</link>
+      <guid isPermaLink="false">walker-kansai-movie:45720d46e296</guid>
+      <category>映画</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 映画イベント] TOTTEI PARK イルミナイト －AUTUMN LEAVES－</title>
+      <link>https://www.walkerplus.com/event/ar0728e612487/</link>
+      <guid isPermaLink="false">walker-kansai-movie:cc8f13286962</guid>
+      <category>映画</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 アニメ・ゲーム] TOTTEI PARK イルミナイト －AUTUMN LEAVES－</title>
+      <link>https://www.walkerplus.com/event/ar0728e612487/</link>
+      <guid isPermaLink="false">walker-kansai-anime:cc8f13286962</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: 青春38きっぷ（十九人・4000・無尽蔵）] 『斉藤和義 ライブツアー 2024 “青春58きっぷ” ～Trio de Pon～』 放送日時：12月22日（日）21時～22時30分/フジテレビTWO ドラマ・アニメ - USENの音楽情報サイト</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXBsamxRZjc4N0tnOFkxVHRkOTdta2lGTk5vWjA5Z0xQTG05VFBubjgxaW5HRjFtVzZ4azBaamFmYWZxYjJWc0w1X09PQ1NUWWJrbnJKcTE0WjZMazNLbk4yVFBEZWhUNWtVTEcxUzZPd3VXZXZSOUtzc3RYeGx3QnFtMDY?oc=5</link>
+      <guid isPermaLink="false">news-seishun38:7eae372aa758</guid>
+      <category>お笑い</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: ダウ90000 の公演] （写真）ダウ90000蓮見翔が演出のコントライブ『夜衝3』開催決定！ 伊藤修子、ラブレターズ溜口ら出演 - クランクイン！</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBOVFk3ejl3S0I0MzRYZXQ4amh1dUpjbzUwazRJU1RTRGd4U0NtelRzQnh4NzRPUVlvTjhfbHRqWFF0WDV1TWE0UTMxZnZLWVdXX3hsS2k1cnVSbW10VUJuZUp0LVcwSVFwV21IaDZabw?oc=5</link>
+      <guid isPermaLink="false">news-daw90000-live:ff1ffd1fe2d0</guid>
+      <category>お笑い</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: ダウ90000 の公演] ダウ90000蓮見のラジオ「ハスマナ」イベントで1日限り復活 2公演異なる内容 - ナタリー</title>
+      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2SlpfRjF0OFBZaExaT2k4cW9SanVZUmRtdGc4ZWxNek9ScGZMQmpkWm1iVkk0VkJySl9oWG5rdm9weFJ1ZDZrd2M1Z05LUQ?oc=5</link>
+      <guid isPermaLink="false">news-daw90000-live:2ff02b95c68d</guid>
+      <category>お笑い</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: ダウ90000 の公演] ダウ90000の単独イベント「ダウ主総会」が今年も開催！ダウ主総会 2026 - 毎日キレイ</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE01RUZ1cElIeU85d0pTWUJtNUtqWTd4MzVUa3JYQVI5M2hOZW5heUJaLXVZeTF3NFdkS2N3NG5HR1pGOVcyeHZEVnNzTHRxeG9YYW96bEdSQlc3TnpQc1lOVFlFbUlWOTg4Ry15Uml3bC13Z0MtcjdNRDBR?oc=5</link>
+      <guid isPermaLink="false">news-daw90000-live:6b02c19ac127</guid>
+      <category>お笑い</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: ダウ90000 の公演] ダウ90000 蓮見翔 演出 コントライブ 『夜衝3』11月26日〜l ユーロライブ 開催 - ｄメニューニュース</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOSmNfMEhmdF8wMjZJbHh2VFpTeVdTX2tKTVpCZDRadWNjNWkxallKWnd6ZVlNbm53d0laMUhGazFoXzVsNGk2QlR2TURYcFFpT0hlVmtpTnNmUEtROXVkQ1I2SnFneHByWGhnb1dGWHpCX01IaUlaSWtQOUEydEVCaGZjbmpyN2NlalEya2MwTGJXOHZ4X3VFTTRyQ01TZlNY0gGcAUFVX3lxTE85dkptZlZaZExuRHZrMDVLQWZ5Wm0zMThuaXp0RzNENVE5VjEyN0pZQ2g4SnVBcXl5c0hfVjVJMVZIQWt3aHZ0SzZockVxWWthUk9LbEtTRGRkaUV3SWRUQ1pwa3BwSWQwaW96VmtyU3h5ay14S3ZibTIxZk1HT29XdVJxTlMxbVZreFRqR241NC1zR3dWZlRDLXRDbA?oc=5</link>
+      <guid isPermaLink="false">news-daw90000-live:8e3406c6a233</guid>
+      <category>お笑い</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] 幻の豊臣大坂城をVRで体験！「サムライの見た夢～幻の豊臣大坂城～」大阪体験レポ！料金・所要時間</title>
+      <link>https://happyell.co.jp/vr-samurais-dream</link>
+      <guid isPermaLink="false">happyell:e93563977493</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] ディズニークリスマス2026グッズ＆メニュー発表！リルリンリン新作・限定フードまとめ</title>
+      <link>https://happyell.co.jp/disney-christmas2026-goods-menu</link>
+      <guid isPermaLink="false">happyell:3cb988eb1f3a</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] 【2026年10月3連休】関西おすすめイベント12選｜大阪・京都・神戸の子供・展覧会・グルメ・アフター万博</title>
+      <link>https://happyell.co.jp/kansai-october2026-events</link>
+      <guid isPermaLink="false">happyell:e260fcdafeb4</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[天満天神繁昌亭 公演] 枝さんの朝から落語会ー枝三郎六百席ー</title>
+      <link>https://www.hanjotei.jp/performances/morning/64421/</link>
+      <guid isPermaLink="false">hanjotei:676df34c0be7</guid>
+      <category>お笑い</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[映画.com 公開予定] 本当にあった話（の話）</title>
+      <link>https://eiga.com/movie/106331/</link>
+      <guid isPermaLink="false">eiga-coming:23c3e3a8d13a</guid>
+      <category>映画</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[映画.com 公開予定] 愛し合ってるかい？ 忌野清志郎が教えてくれた</title>
+      <link>https://eiga.com/movie/104848/</link>
+      <guid isPermaLink="false">eiga-coming:5278d4a0b7f3</guid>
+      <category>映画</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[映画.com 公開予定] ママがもうこの世界にいなくても 私の命の日記</title>
+      <link>https://eiga.com/movie/106044/</link>
+      <guid isPermaLink="false">eiga-coming:dc2b7f91c992</guid>
+      <category>映画</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[映画.com 公開予定] ファーストボイス</title>
+      <link>https://eiga.com/movie/106291/</link>
+      <guid isPermaLink="false">eiga-coming:bc0718ee3648</guid>
+      <category>映画</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[出町座 イベント（舞台挨拶・トーク）] 2026. 10 . 30 ( 金 ) 〜 2026. 11 . 3 ( 火 ) 【イベント4DAYS】『ゆっくり あるく』 【アフタートーク】 10/30 金 ▶︎ ??:??- 崟利子さん 10/31 土 ▶︎ ??:??- 川村浪子さん、崟利子さん 11/1 日 ▶︎ ??:??- 川村浪子さん、崟利子…</title>
+      <link>https://demachiza.com/event/20377</link>
+      <guid isPermaLink="false">demachiza-event:44f90cfbc7f7</guid>
+      <category>映画</category>
+      <pubDate>Thu, 08 Oct 2026 01:20:21 +0900</pubDate>
+    </item>
     <item>
       <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] 講談という伝統芸能の魅力を発信！</title>
       <link>https://www.walkerplus.com/event/ar0727e617315/</link>
