@@ -4,7 +4,91 @@
     <title>関西イベント新着（Event_RSS）</title>
     <link>https://github.com/ractodaisuki/Event_RSS</link>
     <description>関西のアニメ・お笑い・映画などの情報源から、新しく見つかった項目</description>
-    <lastBuildDate>Sat, 17 Oct 2026 21:54:11 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:09:48 +0900</lastBuildDate>
+    <item>
+      <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] 第53回堺まつり</title>
+      <link>https://www.walkerplus.com/event/ar0727e617480/</link>
+      <guid isPermaLink="false">walker-kansai-owarai:42e10f4d6566</guid>
+      <category>お笑い</category>
+      <pubDate>Sun, 18 Oct 2026 22:09:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] PARKLABO By:LOCOMARKET（10月）</title>
+      <link>https://www.walkerplus.com/event/ar0727e615617/</link>
+      <guid isPermaLink="false">walker-kansai-owarai:02a0cda4726d</guid>
+      <category>お笑い</category>
+      <pubDate>Sun, 18 Oct 2026 22:09:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 映画イベント] 第53回堺まつり</title>
+      <link>https://www.walkerplus.com/event/ar0727e617480/</link>
+      <guid isPermaLink="false">walker-kansai-movie:42e10f4d6566</guid>
+      <category>映画</category>
+      <pubDate>Sun, 18 Oct 2026 22:09:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 映画イベント] PARKLABO By:LOCOMARKET（10月）</title>
+      <link>https://www.walkerplus.com/event/ar0727e615617/</link>
+      <guid isPermaLink="false">walker-kansai-movie:02a0cda4726d</guid>
+      <category>映画</category>
+      <pubDate>Sun, 18 Oct 2026 22:09:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 アニメ・ゲーム] 第53回堺まつり</title>
+      <link>https://www.walkerplus.com/event/ar0727e617480/</link>
+      <guid isPermaLink="false">walker-kansai-anime:42e10f4d6566</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sun, 18 Oct 2026 22:09:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 アニメ・ゲーム] PARKLABO By:LOCOMARKET（10月）</title>
+      <link>https://www.walkerplus.com/event/ar0727e615617/</link>
+      <guid isPermaLink="false">walker-kansai-anime:02a0cda4726d</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sun, 18 Oct 2026 22:09:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: 無尽蔵 の公演] 2024年を総決算「K-PROライブアワード」にザ・ギース、ひつじねいり、ママタルトら - ナタリー</title>
+      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Tb3N5VkFtZ1NWT0tVZDJydmEtc1lIOHkyYUE0Qm1MU1hXU29hRzExQ24xMjQyUl96WEl3SGZVUFNjd24xVWRuVExmNWhiUQ?oc=5</link>
+      <guid isPermaLink="false">news-mujinzo-live:7aafedea2307</guid>
+      <category>お笑い</category>
+      <pubDate>Sun, 18 Oct 2026 22:09:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: 十九人 の公演] E-girls11人体制で初ライブ Dream Ayaは涙のラストステージ＜「E.G.family」メモリアルライブセットリスト - モデルプレス</title>
+      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IellOeE5odnRCMGtSUlVadnFGbTUtbVB0VUlOSmZQMmJ5Q2dlTHAyUDB5VkFGTjgzU2Z6cEVFWTlvNTVob3UtMjFJVHg?oc=5</link>
+      <guid isPermaLink="false">news-jukyunin-live:21d5558a34d0</guid>
+      <category>お笑い</category>
+      <pubDate>Sun, 18 Oct 2026 22:09:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>[近鉄アート館] 林幸治郎のちんどん演芸館</title>
+      <link>https://kintetsuartkan.jp/info/1049/</link>
+      <guid isPermaLink="false">kintetsu-artkan:2e1baf2bfec6</guid>
+      <category>お笑い</category>
+      <pubDate>Sun, 18 Oct 2026 22:09:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>[近鉄アート館] 吉田食堂落語会 続続続続続続続続続続続続続続続菊之丞∞変化</title>
+      <link>https://kintetsuartkan.jp/info/1151/</link>
+      <guid isPermaLink="false">kintetsu-artkan:09f9ba1e10b0</guid>
+      <category>お笑い</category>
+      <pubDate>Sun, 18 Oct 2026 22:09:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] エヴァンゲリオン30周年展が大阪・ひらパーで開幕！初号機・セル画・AAAヴンダーの映像も</title>
+      <link>https://happyell.co.jp/all-of-evangelion</link>
+      <guid isPermaLink="false">happyell:a6108eebcf3b</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sun, 18 Oct 2026 22:09:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] 【USJクリスマス2026】食事券はどれだけお得？ホリデー・フード・パスポートとビンゴ特典</title>
+      <link>https://happyell.co.jp/usj-holiday-food-passport2026</link>
+      <guid isPermaLink="false">happyell:84f3e816504c</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sun, 18 Oct 2026 22:09:48 +0900</pubDate>
+    </item>
     <item>
       <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] ロハスフェスタ万博 2026秋</title>
       <link>https://www.walkerplus.com/event/ar0727e412707/</link>
@@ -571,48 +655,6 @@
       <guid isPermaLink="false">gengaten-kinki:cbedc840d9a3</guid>
       <category>アニメ・マンガ</category>
       <pubDate>Mon, 12 Oct 2026 00:33:57 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 十九人 の公演] （写真）要注目の男女コンビ・十九人、“事務所の伝統”エンタメ感あふれる単独ライブに向けすでに12回の喧嘩勃発！ - クランクイン！</title>
-      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UU1pjOW9mbFJXYnNqTktYb2RoNFVCNGlVSE1EQWVSMERrYVkwZWVhdHpuRXVzYzJxcVB4WTZoOGtUQ3dkeE56aV92c1RfeHZQcTR0NFoyelhBUEpDZFJ3Vml3?oc=5</link>
-      <guid isPermaLink="false">news-jukyunin-live:acb407bc4575</guid>
-      <category>お笑い</category>
-      <pubDate>Sun, 11 Oct 2026 00:13:56 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: ダウ90000 の公演] ボブスレー漫才から太田光とのトークまで。『くるま蓮見ペア』第二回開催（チケットぴあ） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5ab0I3R2xzczl6VUtoU21Kb1JYR3hpTVM3aEVtWDM1dEVMZlZNTVpqMmxzUjlOaEF3eXFJVGhsM3NUWGJxeldRQ25fbUZ4Q2t4cklma1hLNlVmSmJuUjRoc0ZZaTM0RURqTDVsRmktdmcwTmFUajdRVG5VS0JiV1U?oc=5</link>
-      <guid isPermaLink="false">news-daw90000-live:95cb9b3be08d</guid>
-      <category>お笑い</category>
-      <pubDate>Sun, 11 Oct 2026 00:13:56 +0900</pubDate>
-    </item>
-    <item>
-      <title>[神戸新開地・喜楽館 公演] 天使・瑞ふたり会～わてら陽気なかしましおなご～ 月亭 天使 露の 瑞 笑福亭 笑音「開口一番」 ゲスト：桂 吉弥 ※10/11（日）よりチケット発売!! 開演：18:時45分（18時15分） 料金：一般 前売 2,500円 当日 3,000円 65歳以下・障がい者 前売 2,000円 当日 2,500円 学生 前売 1,500円 当日 2,000円 座種：自由席（整理番号あり）※整理番号順の入場となります。 お問い合わせ先：三栄企画（06-6631-0659）平日10時～17時半 土日祝は留守電対応 メール yoyaku@saneikikaku.co.jp 三栄企画でのご予約はお席をお選び頂け</title>
-      <link>https://kobe-kirakukan.jp/performances/17056/</link>
-      <guid isPermaLink="false">kirakukan:f2dc93e0f21e</guid>
-      <category>お笑い</category>
-      <pubDate>Sun, 11 Oct 2026 00:13:56 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ハピエル（関西のアニメ展・マンガ展）] ムーミン×神戸ポートタワー｜三原舞依さんがリトルミイに！限定フォトスポット・花火体験【2026】</title>
-      <link>https://happyell.co.jp/moomin-kobeporttower2026</link>
-      <guid isPermaLink="false">happyell:c9c4b58b7e75</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sun, 11 Oct 2026 00:13:56 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ハピエル（関西のアニメ展・マンガ展）] 【落合陽一氏に直接質問】万博のnull²が横浜で進化！「null²ⁿ（ヌルヌルネクサス）」開幕式を取材！万博体験者だけが気づく仕掛けとは？</title>
-      <link>https://happyell.co.jp/null2n-yokohama-landmark</link>
-      <guid isPermaLink="false">happyell:ccb00d194587</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sun, 11 Oct 2026 00:13:56 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ハピエル（関西のアニメ展・マンガ展）] 【アフター万博速報】ミャクミャク初のテーマソング誕生！「ミャクダンス」完成！公式ダンス＆MVも同時公開【大阪・関西万博】</title>
-      <link>https://happyell.co.jp/myakumyaku-myaku-dance2026</link>
-      <guid isPermaLink="false">happyell:b87c7080852f</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sun, 11 Oct 2026 00:13:56 +0900</pubDate>
     </item>
   </channel>
 </rss>
