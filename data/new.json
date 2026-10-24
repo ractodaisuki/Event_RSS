@@ -1,7 +1,367 @@
 {
- "generated_at": "2026-10-24T22:13:08+09:00",
+ "generated_at": "2026-10-24T22:14:53+09:00",
  "days": 7,
  "items": [
+  {
+   "id": "news-horror-immersive-kansai:3f5bd5459579",
+   "source": "news-horror-immersive-kansai",
+   "source_name": "ニュース: 関西の没入型ホラー・考察型謎解き",
+   "genre": "おでかけ",
+   "title": "【あなたがホラー映画の主人公に！】4種類の没入型お化け屋敷「神戸ホラーコレクション2026」が開催｜兵庫県 - OVO [オーヴォ]",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fMjhKUk4xNXpJdXBtbXBGd1lRMzV4Rmw4UmM5Yl9PU2s3TmdPVHl4azBLdzBMczhzOFVjbVV4VmhlX04yS281b2VOQjR0clBuQW5qcXJpaDFMVy1vQ1pqV1EzTFVWdw?oc=5",
+   "published": "2026-07-02T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-evangelion-kansai:07f6ae14dab8",
+   "source": "news-evangelion-kansai",
+   "source_name": "ニュース: 関西のエヴァンゲリオン展示・イベント",
+   "genre": "アニメ・マンガ",
+   "title": "ラオックス道頓堀店で「エヴァンゲリオン展」開催へ 「新劇場版」シリーズの貴重な生原画や設定資料など公開 - osaka style",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xd2lJQmk2VF9TSTc5X1VoSzRRRDRHWXR2WWdtRlpPYWYyaTFYWXRZaFozU1cwZ0lwSGF6WlFtekoxeno2?oc=5",
+   "published": "2020-06-25T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-evangelion-kansai:4d8744aab4e5",
+   "source": "news-evangelion-kansai",
+   "source_name": "ニュース: 関西のエヴァンゲリオン展示・イベント",
+   "genre": "アニメ・マンガ",
+   "title": "「エヴァンゲリオンイラスト展Ⅱ」がBOOK GALLERY KOBUNKANにて4月18日(土)より開催決定！ - エヴァ・インフォメーション",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAtYUprWERzZDlndmg3aUVibkFRQklnNWktX0oyazZweGJfWnFpdkVRREVmRGctVU1EWVBrdjVPT1FQZEU?oc=5",
+   "published": "2026-04-03T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:b00b5b8d870e",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "少年キッズボウイ、ダウ90000単独ライヴのテーマソングを書き下ろし - OTOTOY",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5sQU5oQ21HMHNWckphQ20xRHFfbXU1ZjZIMURvLWZSN1oxVW9jOFRDZnFDV1hjUmNOVl81N3hhUDAzOWs?oc=5",
+   "published": "2024-02-16T17:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:4078054397a3",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "今回はちゃんと100分くらいになりました！ダウ90000の単独ライブ「30000」開幕 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE44dDBQNk4tRHl6ZERUQ2w1eXZxc05uTUUyQzVBUUdQblVybE9USFAyeUpyTVNtanN5RFhzLTFuV0g1M3JVdV95b0k3aWo?oc=5",
+   "published": "2024-03-27T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:034ce1887cc2",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "チケット即完売 平均年齢23.5歳 注目ユニット・ダウ90000 “共感できる笑い” の狙い（2022年10月19日掲載） - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jRHg2M3ZnVVpWMVcyOTRBNXJ2ZEdndzFwNkZmOUxzOU4yeTZzYXRIeXpaNzNkQTFXWFhaOUcxQXozelBDZVh3LVhvOFQ5ZVhwVzNuZmNvaTdQcnJmd1BnVTJXWjUyWUM3MEZRcWZBNVJBN3NwNkJTSlkwQ3I?oc=5",
+   "published": "2022-10-19T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:4874e7487d80",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000本公演「ずっと正月」詳細発表、「とにかく笑ってもらう」90分のコメディ - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03YTZLTmlGWWVsZ3lJQ2NLTG43TmdSenNGaUk3WFFQMWFPMGkzdk42VHFRRGNwM2tZN0VaLWd1TDRoLWhsR0JMdmx4Y1E0dw?oc=5",
+   "published": "2021-11-26T17:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:1445a793274d",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000単独ライブ「30000」詳細発表、テーマソングを少年キッズボウイが担当 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvakVjbFRCcUl4dGZ2TXUyaWZtLXEySENzVklzX3YyZzRmSUFmaUFnc3lFQ250OTlkUWFZUU5xcXk4QWFoMnF2TzVXeTRkdw?oc=5",
+   "published": "2024-02-16T17:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:1f71c8f19331",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000単独ライブ「30000」本多劇場で来春上演 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1aGRScVQ1MUd2cC0wOENaV1EzbDBOcDF1NHBmVFItYTFjUUVRd25vcE51LTROM2w0QmkyVE1QY3VfQUp1SnZ6eEdFanZpQQ?oc=5",
+   "published": "2023-11-19T17:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:c41abd261b7c",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000単独ライブ「30000」 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zck5KeHlIU1AzWlMwRTZsMTJtZk9ZVWh6VHpzdHJzVllHUXByQk9tOHhtdEVLYmNpcGRBeDVhT0l4M0R5Q2pCSg?oc=5",
+   "published": "2024-03-26T12:20:42+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:f7a3f2affb16",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000単独ライブ「20000」スタート、配信も - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wSDROenl1elA1Q0VJcXZCc3lTTC1ScXBBbmdET1dWb2VobEphOTdnM2h0dm1JT2NuVHVZamJMNVlhRXlWUmlUY3d3M1c?oc=5",
+   "published": "2023-11-09T17:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:92bad3372933",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000単独ライブ「20000」スズナリで全18公演開催、先行販売開始 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00ckxHb3JRR3E1VDlJS1I1QlZUbHIxUUhoeXpZVnRzNElLdVQ1aWgxOFpDME1JM0JMTHUyQ0tCdWlRSVFNMzNEVmk4M1IzQQ?oc=5",
+   "published": "2023-09-23T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:30616fbdbc2d",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000単独ライブ「10000」メンバー勢ぞろいのビジュアル公開 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kMm4xSG1NRWoxMi1mSDg0RmlvMlhmdTJUdmxLaHlRSGZjaURTS2RoeXo1Skh6c0s4dndDX0ZIN0lHTmtwWVpsbWtEdFk?oc=5",
+   "published": "2022-04-15T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:baff0fc32aa1",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000単独ライブ「10000」メンバー勢ぞろいのビジュアル公開 - ぴあエンタメ情報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uNXAyRGg4bmprbDNvT0swNDB1MXhmMU1vdWh3MVI3d19WeGFiS2FHWnIxdnhDanh0WnlkMkVsdWEybU5uRlpxUGNRVEJDSTNQYkZpMXFxbVlneWRQQ3Jn?oc=5",
+   "published": "2022-04-15T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:e02c41aa3898",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000初の大阪公演スタート、蓮見翔「大阪楽し！」 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VX1FRRGM0YVNNTkp5M2J5ZkdldnJZdVVLRm0ya1U1Rnh4TTZQOS13YVJ0RTUycjJyU2JrYU9LM1lZMUQtQ0s0OVhsVFM?oc=5",
+   "published": "2024-09-21T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:02f2e626fb7b",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000の演劇公演「旅館じゃないんだからさ」主題歌をBase Ball Bearが担当 蓮見翔&小出祐介からのコメントも - Mikiki by TOWER RECORDS",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1X1ZMNGVTM0Q4OU9NTzQ5cmNfcElNZE1zNW5INzhKcC1PSUJKQy1vWmdMOWZSTDJ1OWhzMlc3TTdjT0NkVUdfRGZPVTR3RWRQMlE?oc=5",
+   "published": "2024-08-09T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:56190afa5c67",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000の新作演劇公演「ロマンス」東京で開幕 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrbEpqdnIxS1RVVHBWUHpOWmtOZTZFdTg1dWN4VXdiV2JPNGxrdk5VMmhZbzNWS0VEejQ4MlYtYU5ZRVNZZFJSTkM1UEw?oc=5",
+   "published": "2025-05-14T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:597a83f630c8",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000の単独ライブ「30000」の詳細が決定 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82X3lramxDNDZOUE9fVEwwX3puTGtKOEo3ZzVOTnQxNGwtc2VXcHZHQUtMSTQwYlR6eTZkUEp3cXV2SlBSQlZ6bFM4SVE?oc=5",
+   "published": "2024-02-16T17:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:401e77baaa1c",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000のYouTube未公開ネタを届けるライブ、ゲストに四千頭身ら（お笑いナタリー） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rdXRuRW85UHFyZVlReGhpbnNuVFFGM0pLZndFbWUxOHZoU1I5N1ZrWGIycXlmTDZjSkVRRi1lanFkZ1RQbGc1blR3dmtUZjZXQjRhcmVnVUo2WTV4TlFpYU5lZ1pDM1pDT3ZkY0owVU1obFNWeDl0Yy1VMHVEcmc?oc=5",
+   "published": "2026-09-29T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:b50039962da1",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000が新作演劇公演「ロマンス」で4都市ツアー、メインビジュアルは魚豊 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3TVhpRDF4Vk84Tkg3VW1BbTl3cG9GZ0g5aHRqZDNvdnJsSXZCLWtaQzVTVHA5WWJHUy01a2wtQWlXMW4yRTlxVEZnN3U?oc=5",
+   "published": "2025-03-22T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:3593275ff428",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000が単独ライブ全16公演完走、次はシアタートップスで演劇公演 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MZUhsbjZrZmFWekFLS1FEVXNBSlozbEJBTTRWd0x5VWU3MXJPRzF2d0NTblJJd21zYVE5a3VYTXRqdC0tZjAxQTRzb3dQUQ?oc=5",
+   "published": "2022-05-30T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:44b8c3034323",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000、第4回演劇公演「いちおう捨てるけどとっておく」抽選先行開始 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTSHYxRmtIdmN2YVRJemRsSVVRS3VqaVVNU2FFS1Rtb3ZhT1lYLUgyem5HYkFGal91OGMxQlQxdTJKeFhJVFlfOG5DQmJUZw?oc=5",
+   "published": "2022-08-12T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:56d7e926af2f",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000、2度目の単独ライブ「20000」開催決定 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UVTRfRXlNbkpsSVdQWjgwMGlCUWxTaE4zbHo4RUoyRUZCT0Vudk9NLVZoWjJyUVZrU3oxUkNnSU5TN0NBbzNheFM2Um94QQ?oc=5",
+   "published": "2023-05-21T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:fbed06509e01",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000 第7回演劇公演「ロマンス」 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92NjJ6SVJJNFUtSXpnMXVieEdYLXNyR0hqZlhKa2w2azVVT3A2cGphaUtoY2w5OW11U1lBU1R2OE5ReTdTcWNEa253?oc=5",
+   "published": "2025-03-22T17:02:35+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:ce3ce3ff8007",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ダウ90000 第6回演劇公演「旅館じゃないんだからさ」 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JTXRZTFp4RHVmVndsNnpsNG1LYzNxcjJCMmVidkoxYlFIWDdkNWlXb3R6TDJYNEhraHp2V250dlRVc2VkTzh4Rw?oc=5",
+   "published": "2024-04-07T16:57:13+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:8636316be2ba",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "ちょっと12000くらいになっちゃったかも、ダウ90000単独コントライブ「10000」開幕 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zNmlfZ0FjcEVsekxQUUpqVHpLTVhVUDhha1ZFNFZYR2I4RC0wUU42dWpYSEhvN2o4VzkxRXlzS1FVdEswRXVzY3IxSjU?oc=5",
+   "published": "2022-05-24T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:4997412fd914",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "【ダウ90000インタビュー】単独チケットが10分で完売する最注目の8人組「ダウ90000」メンバー個別インタビューを敢行 - Steenz(スティーンズ)",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9OYkJlVnV2NU1MLXljVnczeUtaVXFuVHRBSHdkLWRaYkJ3OGRvSF9qS3ROSlZRRWJwa2xj?oc=5",
+   "published": "2022-09-28T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:cf80950845a7",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "『チ。』作者・魚豊さん、ダウ90000公演へのイラスト描き下ろしを報告「光栄の限りです」とコメント - ハフポスト",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMMl9waFFoSk5pWFVVQ2lha09rQ3otZzF4ZFVlUmwwdzhMM3pWX0FXYndDYTRScUdlYmszejBJeGhoRTJ6UFg5Zl9IUkNZMzUwLUxxUTZnNUVsSjR3MElVcmgwV1ZBRnR3bGREbmVCY0F3VjNfRWNhNA?oc=5",
+   "published": "2025-03-24T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:b3dc0f053eda",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "Base Ball Bearが新曲「夏の細部」リリース、ダウ90000公演の主題歌 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YVGZyWkhKblNoWndSVzgwcm1QdV9rWFcyWE9EbjNzb0o1SW1sWW01WTJabExCa2U3QWY3TjlPTnFITnNaQWZBbDF3U1A?oc=5",
+   "published": "2025-08-01T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-daw90000-live:aa2604b3045f",
+   "source": "news-daw90000-live",
+   "source_name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "title": "Base Ball Bear、ダウ90000演劇公演「旅館じゃないんだからさ」の主題歌書き下ろし - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NWGJhOVNfNU5XMjhUUkJqZm9jRGp4elhaWkIzUXd4eWlyVHpKb1d5bWNwWDVEYjl6c0swVFNGVWxDS2JFMWpkVzE1ZWo?oc=5",
+   "published": "2024-08-09T16:00:00+09:00",
+   "first_seen": "2026-10-24T22:14:53+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
+   "baseline": false
+  },
   {
    "id": "walker-kansai-movie:c490f0b99120",
    "source": "walker-kansai-movie",
@@ -11,7 +371,7 @@
    "url": "https://www.walkerplus.com/event/ar0726e621034/",
    "published": null,
    "first_seen": "2026-10-24T22:13:08+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -23,7 +383,7 @@
    "url": "https://ngk.yoshimoto.co.jp/2026/10/109-1.html",
    "published": null,
    "first_seen": "2026-10-24T22:13:08+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -35,7 +395,7 @@
    "url": "https://ngk.yoshimoto.co.jp/2026/10/10.html",
    "published": null,
    "first_seen": "2026-10-24T22:13:08+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -47,7 +407,7 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zTkUyYk4yWVpRMkJTNFBZSDRMdUY3UWI5MmxoQ3p1U3lWYlRZR0dfMWE1R1gxZ3dVZTMzOFpRRUpneUZiVHBYeUxKNy1WRUl1Nm9Fby1FY1hSaE8xMWhxSzd6VElnRnVobFN4RGptR04zcTl4eVE?oc=5",
    "published": "2026-09-14T16:00:00+09:00",
    "first_seen": "2026-10-24T22:13:08+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -71,7 +431,7 @@
    "url": "https://happyell.co.jp/middle-east-arabian-festival2026",
    "published": "2026-10-23T23:19:04+09:00",
    "first_seen": "2026-10-24T22:13:08+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -83,7 +443,7 @@
    "url": "https://happyell.co.jp/toukenranbu-crown-kyoto2026",
    "published": "2026-10-24T18:49:15+09:00",
    "first_seen": "2026-10-24T22:13:08+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -95,7 +455,7 @@
    "url": "https://happyell.co.jp/usj-crowdforecast",
    "published": "2026-10-23T23:00:30+09:00",
    "first_seen": "2026-10-24T22:13:08+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -107,7 +467,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e612248/",
    "published": null,
    "first_seen": "2026-10-23T23:11:10+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -143,7 +503,7 @@
    "url": "https://happyell.co.jp/musinsa-osaka-popup2026",
    "published": "2026-10-23T21:31:46+09:00",
    "first_seen": "2026-10-23T23:11:10+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -155,7 +515,7 @@
    "url": "https://oaff.jp/news/now-showing26-11/",
    "published": "2026-10-22T19:48:45+09:00",
    "first_seen": "2026-10-22T23:28:17+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -167,7 +527,7 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TQk92SnZvVlBrREROVDgwWjJQSXFzQVhSVXVPVTdlS2tpYzJTNmd1TGZLWjM0a0lKUW1SMllEVGJDN1pZcElzYVViWFZKOVl1?oc=5",
    "published": "2019-12-19T17:00:00+09:00",
    "first_seen": "2026-10-22T23:28:17+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -179,7 +539,7 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SOXpOU1d0aU1vLUFUcjI0dXJrdThCZjZqVGlTTHBQYWl1ZnF2VE53T0loRFhSMWNVSzhSZU5mMExWaHJIZFpkNmJFYTRUZzVvWnlhM1lLbw?oc=5",
    "published": "2026-07-21T16:00:00+09:00",
    "first_seen": "2026-10-22T23:28:17+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -215,7 +575,7 @@
    "url": "https://kyotomm.jp/news/maintenance_october2026/",
    "published": "2026-10-22T12:30:18+09:00",
    "first_seen": "2026-10-22T23:28:17+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -227,7 +587,7 @@
    "url": "https://kyotomm.jp/news/kamishibai_november2026/",
    "published": "2026-10-22T15:00:37+09:00",
    "first_seen": "2026-10-22T23:28:17+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -239,7 +599,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17143/",
    "published": null,
    "first_seen": "2026-10-22T23:28:17+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -251,7 +611,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17144/",
    "published": null,
    "first_seen": "2026-10-22T23:28:17+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -263,7 +623,7 @@
    "url": "https://www.k-comitia.com/blog/2026/10/2082/",
    "published": null,
    "first_seen": "2026-10-22T23:28:17+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -275,7 +635,7 @@
    "url": "https://happyell.co.jp/nijojo2026-naked",
    "published": "2026-10-22T20:04:18+09:00",
    "first_seen": "2026-10-22T23:28:17+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -311,7 +671,7 @@
    "url": "https://www.walkerplus.com/event/ar0728e620155/",
    "published": null,
    "first_seen": "2026-10-21T23:26:58+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -323,7 +683,7 @@
    "url": "https://www.walkerplus.com/event/ar0728e620155/",
    "published": null,
    "first_seen": "2026-10-21T23:26:58+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -335,7 +695,7 @@
    "url": "https://www.walkerplus.com/event/ar0728e620155/",
    "published": null,
    "first_seen": "2026-10-21T23:26:58+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -347,7 +707,7 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tOGdJdUFvZVZjZVUtVUxHZFd4bUhQQXNmSVVBenJ1WE1sMjdpdXBYYWhHNEYwRXhzNFBFajJqRU1lcjdEZHpzSGxPeXdETjVZeE5ELW11a0lWbTl5dTJPN191WDZUdFotNnVVRkZfaw?oc=5",
    "published": "2026-09-07T16:00:00+09:00",
    "first_seen": "2026-10-21T23:26:58+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -359,7 +719,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17162/",
    "published": null,
    "first_seen": "2026-10-21T23:26:58+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -371,7 +731,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17163/",
    "published": null,
    "first_seen": "2026-10-21T23:26:58+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -383,7 +743,7 @@
    "url": "https://happyell.co.jp/usj-conan2027",
    "published": "2026-10-20T23:48:54+09:00",
    "first_seen": "2026-10-21T23:26:58+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -419,7 +779,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17149/",
    "published": null,
    "first_seen": "2026-10-20T23:15:05+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -431,7 +791,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17151/",
    "published": null,
    "first_seen": "2026-10-20T23:15:05+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -443,7 +803,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17150/",
    "published": null,
    "first_seen": "2026-10-20T23:15:05+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -455,7 +815,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e610615/",
    "published": null,
    "first_seen": "2026-10-20T01:24:39+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -467,7 +827,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lbktZMlZfdER6TTdWeVoxNVhLX2M2Tm9JbjJmVVljaUJGd2dBZl8wWllFelUxdlZQTTNYVVZ0ekU4Z0Y5a3lxbThtYzd4QQ?oc=5",
    "published": "2026-10-19T18:00:00+09:00",
    "first_seen": "2026-10-20T01:24:39+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -479,7 +839,7 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtSGp3MFFQZnFJb1pFMWVRSUk0bFkxTGRkbktFMlh4NFdiMkhFTm5TU1c1bDFOU2JIYi1mWVcwVGp0aG5qNi1oVE92dW5OcERvQkEtTE9ZbHdnNnVNZXFz?oc=5",
    "published": "2026-09-11T16:00:00+09:00",
    "first_seen": "2026-10-20T01:24:39+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -503,7 +863,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17119/",
    "published": null,
    "first_seen": "2026-10-20T01:24:39+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -515,7 +875,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17116/",
    "published": null,
    "first_seen": "2026-10-20T01:24:39+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -527,7 +887,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17118/",
    "published": null,
    "first_seen": "2026-10-20T01:24:39+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -539,7 +899,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17117/",
    "published": null,
    "first_seen": "2026-10-20T01:24:39+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -551,7 +911,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17114/",
    "published": null,
    "first_seen": "2026-10-20T01:24:39+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -563,7 +923,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17115/",
    "published": null,
    "first_seen": "2026-10-20T01:24:39+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -575,7 +935,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17120/",
    "published": null,
    "first_seen": "2026-10-20T01:24:39+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -587,7 +947,7 @@
    "url": "https://happyell.co.jp/allofevangelion-osaka2026goods",
    "published": "2026-10-19T22:33:06+09:00",
    "first_seen": "2026-10-20T01:24:39+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -695,7 +1055,7 @@
    "url": "https://kintetsuartkan.jp/info/1049/",
    "published": null,
    "first_seen": "2026-10-18T22:09:48+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -707,7 +1067,7 @@
    "url": "https://kintetsuartkan.jp/info/1151/",
    "published": null,
    "first_seen": "2026-10-18T22:09:48+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -719,7 +1079,7 @@
    "url": "https://happyell.co.jp/all-of-evangelion",
    "published": "2026-10-18T12:42:37+09:00",
    "first_seen": "2026-10-18T22:09:48+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   },
   {
@@ -731,7 +1091,7 @@
    "url": "https://happyell.co.jp/usj-holiday-food-passport2026",
    "published": "2026-10-18T16:16:07+09:00",
    "first_seen": "2026-10-18T22:09:48+09:00",
-   "last_seen": "2026-10-24T22:13:08+09:00",
+   "last_seen": "2026-10-24T22:14:53+09:00",
    "baseline": false
   }
  ]
