@@ -19,7 +19,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import quote, urljoin
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
@@ -104,6 +104,27 @@ def parse_page(src, body):
 PARSERS = {"rss": parse_rss, "links": parse_links, "page": parse_page}
 
 
+def news_sources(interests):
+    """interests.json の news を Google ニュース検索 RSS の情報源に変える。"""
+    out = []
+    for n in interests.get("news", []):
+        out.append({
+            "id": n["id"],
+            "name": n.get("name") or "ニュース: " + n["query"],
+            "genre": n.get("genre", ""),
+            "type": "rss",
+            "url": "https://news.google.com/rss/search?q=" + quote(n["query"]) + "&hl=ja&gl=JP&ceid=JP:ja",
+            **({"title_pattern": n["title_pattern"]} if n.get("title_pattern") else {}),
+        })
+    return out
+
+
+def excluded(title, interests):
+    if any(w and w in title for w in interests.get("allow_title", [])):
+        return False
+    return any(w and w in title for w in interests.get("exclude_title", []))
+
+
 def load_json(path, default):
     try:
         return json.loads(path.read_text(encoding="utf-8"))
@@ -136,6 +157,8 @@ def write_feed(new_items, now):
 def main():
     now = datetime.now(JST).replace(microsecond=0)
     sources = json.loads((ROOT / "sources.json").read_text(encoding="utf-8"))["sources"]
+    interests = load_json(ROOT / "interests.json", {})
+    sources = sources + news_sources(interests)
     DATA.mkdir(exist_ok=True)
     items = load_json(DATA / "items.json", {})
     status = load_json(DATA / "status.json", {})
@@ -191,7 +214,9 @@ def main():
 
     new_after = now - timedelta(days=NEW_DAYS)
     new_items = sorted(
-        (v for v in items.values() if not v.get("baseline") and datetime.fromisoformat(v["first_seen"]) >= new_after),
+        (v for v in items.values()
+         if not v.get("baseline") and datetime.fromisoformat(v["first_seen"]) >= new_after
+         and not excluded(v["title"], interests)),
         key=lambda v: (v["first_seen"], v["source"], v["title"]),
         reverse=True,
     )

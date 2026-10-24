@@ -1,0 +1,87 @@
+{
+ "_comment": "興味のある検索ワードをここで管理する。news = collect.py が毎日 Google ニュースの検索 RSS として巡回する / web_search = 休日さがし dot が週 1 回 WebSearch に使う / exclude_title = この語を題名に含む項目は新着に出さない / allow_title = exclude_title より優先して残す",
+ "news": [
+  {
+   "id": "news-daw90000-live",
+   "name": "ニュース: ダウ90000 の公演",
+   "genre": "お笑い",
+   "query": "ダウ90000 (公演 OR ライブ OR 単独 OR チケット OR 大阪)",
+   "title_pattern": "(ライブ|公演|単独|チケット|ツアー|開催|出演|イベント|寄席|劇場)"
+  },
+  {
+   "id": "news-jukyunin-live",
+   "name": "ニュース: 十九人 の公演",
+   "genre": "お笑い",
+   "query": "十九人 (ライブ OR 単独 OR 公演 OR チケット)",
+   "title_pattern": "(ライブ|公演|単独|チケット|ツアー|開催|出演|イベント|寄席|劇場)"
+  },
+  {
+   "id": "news-mujinzo-live",
+   "name": "ニュース: 無尽蔵 の公演",
+   "genre": "お笑い",
+   "query": "無尽蔵 (ライブ OR 単独 OR 公演 OR チケット) お笑い",
+   "title_pattern": "(ライブ|公演|単独|チケット|ツアー|開催|出演|イベント|寄席|劇場)"
+  },
+  {
+   "id": "news-seishun38",
+   "name": "ニュース: 青春38きっぷ（十九人・4000・無尽蔵）",
+   "genre": "お笑い",
+   "query": "\"青春38きっぷ\" ライブ",
+   "title_pattern": "(ライブ|公演|単独|チケット|ツアー|開催|出演|イベント|寄席|劇場)"
+  },
+  {
+   "id": "news-horror-exhibit-kansai",
+   "name": "ニュース: 関西のホラー展示",
+   "genre": "アート・展示",
+   "query": "ホラー (展 OR 展示 OR 展覧会) (大阪 OR 京都 OR 神戸)",
+   "title_pattern": "(展|開催|会場|巡回|上陸)"
+  },
+  {
+   "id": "news-horror-immersive-kansai",
+   "name": "ニュース: 関西の没入型ホラー・考察型謎解き",
+   "genre": "おでかけ",
+   "query": "(没入型 OR 体験型 OR 考察) ホラー (大阪 OR 京都 OR 神戸)",
+   "title_pattern": "(開催|オープン|期間|会場|お化け屋敷|謎解き|脱出)"
+  },
+  {
+   "id": "news-shiraishi-koji",
+   "name": "ニュース: 白石晃士の上映・イベント",
+   "genre": "映画",
+   "query": "白石晃士 (上映 OR 舞台挨拶 OR 特集 OR 公開 OR イベント)",
+   "title_pattern": "(上映|舞台挨拶|特集|公開|イベント|登壇)"
+  },
+  {
+   "id": "news-nashi-horror",
+   "name": "ニュース: 梨（ホラー作家）の展示・イベント",
+   "genre": "アート・展示",
+   "query": "梨 ホラー (展 OR 展示 OR イベント OR 新作)",
+   "title_pattern": "(展|開催|イベント|会場)"
+  },
+  {
+   "id": "news-evangelion-kansai",
+   "name": "ニュース: 関西のエヴァンゲリオン展示・イベント",
+   "genre": "アニメ・マンガ",
+   "query": "エヴァンゲリオン (展 OR 展示 OR イベント) (大阪 OR 京都 OR 神戸 OR 関西)",
+   "title_pattern": "(展|開催|イベント|会場)"
+  }
+ ],
+ "web_search": [
+  {"genre": "お笑い", "query": "ダウ90000 大阪 公演"},
+  {"genre": "お笑い", "query": "十九人 無尽蔵 大阪 ライブ"},
+  {"genre": "お笑い", "query": "コント 単独ライブ 大阪 若手"},
+  {"genre": "アート・展示", "query": "ホラー 展示 大阪 京都 神戸"},
+  {"genre": "おでかけ", "query": "没入型 お化け屋敷 関西"},
+  {"genre": "映画", "query": "フェイクドキュメンタリー 上映 大阪 京都"},
+  {"genre": "アニメ・マンガ", "query": "エヴァンゲリオン 展 関西"}
+ ],
+ "exclude_title": [
+  "コラボカフェ",
+  "コラボレーションカフェ",
+  "ポップアップストア",
+  "POP UP STORE",
+  "POPUP STORE"
+ ],
+ "allow_title": [
+  "エヴァ"
+ ]
+}

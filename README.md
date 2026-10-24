@@ -16,11 +16,22 @@ GitHub Actions が毎日 18:07（JST）に `collect.py` を実行し、結果を
 
 RSS: https://raw.githubusercontent.com/ractodaisuki/Event_RSS/main/feed.xml
 
+## 検索ワード（interests.json）
+
+興味のある検索ワードは `interests.json` で管理する。ここを書き換えれば、次の巡回から反映される。
+
+| キー | 使うところ | 中身 |
+|---|---|---|
+| `news` | collect.py（毎日） | Google ニュースの検索 RSS として巡回する。`query` に検索語、`title_pattern`（任意）で告知らしい題名だけを残す。`id` を変えると新しい情報源として扱われる |
+| `web_search` | 休日さがし dot（週 1 回） | dot が WebSearch に使う検索語。関西の公演・展示を探して台帳に登録する |
+| `exclude_title` | collect.py | この語を題名に含む項目は新着（new.json / feed.xml）に出さない |
+| `allow_title` | collect.py | `exclude_title` より優先して残す語 |
+
 ## 情報源の追加
 
 `sources.json` に 1 件足す。`type` は次の 3 種類。
 
-- `rss`: RSS / Atom フィード。Google ニュースの検索 RSS（`https://news.google.com/rss/search?q=...&hl=ja&gl=JP&ceid=JP:ja`）も使える
+- `rss`: RSS / Atom フィード（Google ニュースの検索は interests.json の `news` に書く）
 - `links`: ページ内のリンクのうち、`link_pattern`（正規表現）に合うものを項目として拾う
 - `page`: ページの本文が変わったら「更新されました」を 1 件出す（項目ごとのリンクがないページ向け）
 
