@@ -40,6 +40,20 @@
       "link_pattern": "^https://www\\.k-comitia\\.com/blog/\\d{4}/\\d{2}/\\d+/$"
     },
     {
+      "id": "akaboo-event",
+      "name": "赤ブーブー通信社 イベント一覧（COMIC CITY 大阪など）",
+      "genre": "アニメ・マンガ",
+      "type": "page",
+      "url": "https://www.akaboo.jp/event/"
+    },
+    {
+      "id": "aoboo-comitre",
+      "name": "こみっく☆トレジャー（青ブーブー通信社）",
+      "genre": "アニメ・マンガ",
+      "type": "page",
+      "url": "https://aoboo.jp/"
+    },
+    {
       "id": "shimeken-osaka",
       "name": "同人イベントNAVI 大阪府",
       "genre": "アニメ・マンガ",
