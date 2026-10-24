@@ -22,7 +22,7 @@ RSS: https://raw.githubusercontent.com/ractodaisuki/Event_RSS/main/feed.xml
 
 | キー | 使うところ | 中身 |
 |---|---|---|
-| `news` | collect.py（毎日） | Google ニュースの検索 RSS として巡回する。`query` に検索語、`title_pattern`（任意）で告知らしい題名だけを残す。`id` を変えると新しい情報源として扱われる |
+| `news` | collect.py（毎日） | Google ニュースの検索 RSS として巡回する。`query` に検索語、`title_pattern`（任意）で告知らしい題名だけを残す。公開日が `max_age_days`（省略時 30）日より古い記事は拾わない。`id` を変えると新しい情報源として扱われる |
 | `web_search` | 休日さがし dot（週 1 回） | dot が WebSearch に使う検索語。関西の公演・展示を探して台帳に登録する |
 | `exclude_title` | collect.py | この語を題名に含む項目は新着（new.json / feed.xml）に出さない |
 | `allow_title` | collect.py | `exclude_title` より優先して残す語 |

@@ -115,6 +115,8 @@ def news_sources(interests):
             "type": "rss",
             "url": "https://news.google.com/rss/search?q=" + quote(n["query"]) + "&hl=ja&gl=JP&ceid=JP:ja",
             **({"title_pattern": n["title_pattern"]} if n.get("title_pattern") else {}),
+            # Google ニュースは巡回のたびに返す記事が入れ替わり、古い記事も混ざるので、公開日が新しいものだけ拾う
+            "max_age_days": n.get("max_age_days", 30),
         })
     return out
 
@@ -172,6 +174,9 @@ def main():
             if src.get("title_pattern"):
                 keep = re.compile(src["title_pattern"])
                 found = [f for f in found if keep.search(f["title"])]
+            if src.get("max_age_days"):
+                oldest = now - timedelta(days=src["max_age_days"])
+                found = [f for f in found if f.get("published") and datetime.fromisoformat(f["published"]) >= oldest]
         except Exception as e:  # 1 つの情報源の失敗で全体を止めない
             status[sid] = {**prev, "name": src["name"], "ok": False, "error": f"{type(e).__name__}: {e}"[:300],
                            "checked_at": now.isoformat()}
@@ -210,6 +215,12 @@ def main():
     ids = {s["id"] for s in sources}
     items = {k: v for k, v in items.items()
              if v["source"] in ids and datetime.fromisoformat(v["first_seen"]) >= keep_after}
+    # 公開日に上限がある情報源（ニュース検索）は、古い記事を新着に出さない
+    max_age = {s["id"]: s["max_age_days"] for s in sources if s.get("max_age_days")}
+    for v in items.values():
+        if v["source"] in max_age and not v.get("baseline"):
+            if not v.get("published") or datetime.fromisoformat(v["published"]) < now - timedelta(days=max_age[v["source"]]):
+                v["baseline"] = True
     status = {k: v for k, v in status.items() if k in ids}
 
     new_after = now - timedelta(days=NEW_DAYS)
