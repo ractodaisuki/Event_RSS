@@ -4,7 +4,63 @@
     <title>関西イベント新着（Event_RSS）</title>
     <link>https://github.com/ractodaisuki/Event_RSS</link>
     <description>関西のアニメ・お笑い・映画などの情報源から、新しく見つかった項目</description>
-    <lastBuildDate>Fri, 23 Oct 2026 23:11:10 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 22:13:08 +0900</lastBuildDate>
+    <item>
+      <title>[ウォーカープラス 関西 映画イベント] 映画「富士山と、コーヒーと、しあわせの数式」上映会</title>
+      <link>https://www.walkerplus.com/event/ar0726e621034/</link>
+      <guid isPermaLink="false">walker-kansai-movie:c490f0b99120</guid>
+      <category>映画</category>
+      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>[なんばグランド花月 お知らせ] 2026年10月24日 お詫び 10/24（土）本公演④回目 木村祐一 休演のお知らせ</title>
+      <link>https://ngk.yoshimoto.co.jp/2026/10/109-1.html</link>
+      <guid isPermaLink="false">ngk:3ed48b622472</guid>
+      <category>お笑い</category>
+      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>[なんばグランド花月 お知らせ] 2026年10月24日 1月本公演 発売情報</title>
+      <link>https://ngk.yoshimoto.co.jp/2026/10/10.html</link>
+      <guid isPermaLink="false">ngk:b4c745bf8d3e</guid>
+      <category>お笑い</category>
+      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: 十九人 の公演] TIGET主催お笑いライブ「#チゲコメ vol.3」全出演者決定！ヤーレンズ、ラパルフェ、サンタモニカ、リニア、徳原旅行の出演を発表 - MANTANWEB</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5zTkUyYk4yWVpRMkJTNFBZSDRMdUY3UWI5MmxoQ3p1U3lWYlRZR0dfMWE1R1gxZ3dVZTMzOFpRRUpneUZiVHBYeUxKNy1WRUl1Nm9Fby1FY1hSaE8xMWhxSzd6VElnRnVobFN4RGptR04zcTl4eVE?oc=5</link>
+      <guid isPermaLink="false">news-jukyunin-live:6d910c7c846a</guid>
+      <category>お笑い</category>
+      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: ダウ90000 の公演] ダウ90000蓮見翔が演出のコントライブ『夜衝3』開催決定！ 伊藤修子、ラブレターズ溜口ら出演 - 演劇 - お笑い - クランクイン！</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zU1FUa0tIUHphU1FiQnBYMUtNcXhTV0oxaHl0RWc5WVdHWFNONDNiTGl6dDdwdzdncWxFT0p5VExZNE8wa0huVU56QnN5TS1YUGFzZ0RLaw?oc=5</link>
+      <guid isPermaLink="false">news-daw90000-live:8ce078ba41a6</guid>
+      <category>お笑い</category>
+      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] 中東アラビアンフェスティバル2026に行ってきた！砂漠体験や絶品グルメを現地レポ コピー</title>
+      <link>https://happyell.co.jp/middle-east-arabian-festival2026</link>
+      <guid isPermaLink="false">happyell:89375799ae59</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] 【刀剣乱舞×トヨタ】三日月宗近の特別なクラウンが京都駅に！実車レポ＆制作秘話</title>
+      <link>https://happyell.co.jp/toukenranbu-crown-kyoto2026</link>
+      <guid isPermaLink="false">happyell:323e13ff1048</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] USJ混雑予想カレンダー2026｜今日・明日・空いている日を毎日更新</title>
+      <link>https://happyell.co.jp/usj-crowdforecast</link>
+      <guid isPermaLink="false">happyell:ecddc48a4267</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
+    </item>
     <item>
       <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] 見なきゃ損損、笑わにゃ損損。</title>
       <link>https://www.walkerplus.com/event/ar0727e612248/</link>
@@ -375,83 +431,6 @@
       <guid isPermaLink="false">happyell:84f3e816504c</guid>
       <category>アニメ・マンガ</category>
       <pubDate>Sun, 18 Oct 2026 22:09:48 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] ロハスフェスタ万博 2026秋</title>
-      <link>https://www.walkerplus.com/event/ar0727e412707/</link>
-      <guid isPermaLink="false">walker-kansai-owarai:1164d844449b</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 17 Oct 2026 21:54:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ウォーカープラス 関西 映画イベント] 優秀映画鑑賞推進事業 いばらきプレイバック映画祭</title>
-      <link>https://www.walkerplus.com/event/ar0727e619206/</link>
-      <guid isPermaLink="false">walker-kansai-movie:29e3fe44e603</guid>
-      <category>映画</category>
-      <pubDate>Sat, 17 Oct 2026 21:54:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ウォーカープラス 関西 映画イベント] ロハスフェスタ万博 2026秋</title>
-      <link>https://www.walkerplus.com/event/ar0727e412707/</link>
-      <guid isPermaLink="false">walker-kansai-movie:1164d844449b</guid>
-      <category>映画</category>
-      <pubDate>Sat, 17 Oct 2026 21:54:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ウォーカープラス 関西 アニメ・ゲーム] ロハスフェスタ万博 2026秋</title>
-      <link>https://www.walkerplus.com/event/ar0727e412707/</link>
-      <guid isPermaLink="false">walker-kansai-anime:1164d844449b</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 17 Oct 2026 21:54:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[なんばグランド花月 お知らせ] 2026年10月17日 お詫び 10/18（日）ミルクボーイ 休演のお知らせ</title>
-      <link>https://ngk.yoshimoto.co.jp/2026/10/1018-1-1.html</link>
-      <guid isPermaLink="false">ngk:167ceddb261a</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 17 Oct 2026 21:54:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 十九人 の公演] AKB48、16期研究生公演が開幕 粒ぞろいの19人に期待＜セットリスト／ゲネプロレポ＞ - モデルプレス</title>
-      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE56ZmNFQ21nWDJ1TllwV0JlYWN4NzFKeTFDRGprbDlrVWhGb1UtaWFtakR0Q3VUUHVwRVlNYkJCNU9DcnVHVWpqZlByVG3SAUhBVV95cUxOYXNmT29sX2RLak5PVVZzVmdLNC1KY25Cb1FYYjUxMDZYenZWVXFtUmRHVlZSeDZKakZRZnFWTEdvcHZXNzBmbXk?oc=5</link>
-      <guid isPermaLink="false">news-jukyunin-live:988a2a696d67</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 17 Oct 2026 21:54:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: ダウ90000 の公演] ダウ90000の単独イベント「ダウ主総会」が今年も開催！ダウ主総会 2026 - ニコニコニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jNERwOUNCOHIwcUxYSzFFZHNqWTdvRW5YOXFSTTBtRU1EQlliWHN2Q3NqS2VnallRcDlHTXJTY2FVVGRCbnR4R3kzMUY4MldJcWFfdw?oc=5</link>
-      <guid isPermaLink="false">news-daw90000-live:01242a7d08d1</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 17 Oct 2026 21:54:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[神戸新開地・喜楽館 公演] ～芸歴40周年記念ウイーク～ 開演前の一席 未定/ 笑福亭 鶴二/桂 八十八/月亭 遊方/ 桂 珍念/仲入り/座談会（出演者全員）/ 桂 きん太郎/月亭 文都 10/17 （土）よりチケット発売開始！！ 注意事項・その他： ※ 未就学児童の入場は遠慮ください。 ※ 車椅子の方は事前にお知らせください。 主催：公益社団法人上方落語協会</title>
-      <link>https://kobe-kirakukan.jp/performances/17108/</link>
-      <guid isPermaLink="false">kirakukan:ff7de936c4b5</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 17 Oct 2026 21:54:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[神戸新開地・喜楽館 公演] ～芸歴40周年記念ウイーク～ 開演前の一席 未定/ 桂 珍念/月亭 文都/笑福亭 鶴二/ 桂 三象/仲入り/座談会（出演者全員）/ 月亭 遊方/笑福亭 恭瓶 10/17 （土）よりチケット発売開始！！ 注意事項・その他： ※ 未就学児童の入場は遠慮ください。 ※ 車椅子の方は事前にお知らせください。 主催：公益社団法人上方落語協会</title>
-      <link>https://kobe-kirakukan.jp/performances/17105/</link>
-      <guid isPermaLink="false">kirakukan:7fa43b3acd33</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 17 Oct 2026 21:54:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[神戸新開地・喜楽館 公演] ～芸歴40周年記念ウイーク～ 開演前の一席 未定/ 桂 三象/笑福亭 鶴二/桂 きん太郎/ 月亭 遊方/仲入り/座談会（出演者全員）/ 笑福亭 恭瓶/桂 珍念 10/17 （土）よりチケット発売開始！！ 注意事項・その他： ※ 未就学児童の入場は遠慮ください。 ※ 車椅子の方は事前にお知らせください。 主催：公益社団法人上方落語協会</title>
-      <link>https://kobe-kirakukan.jp/performances/17106/</link>
-      <guid isPermaLink="false">kirakukan:9bbd0a5d66b0</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 17 Oct 2026 21:54:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ハピエル（関西のアニメ展・マンガ展）] 踊る大捜査線 THE MUSEUM大阪・ATCを取材！青島コート、湾岸署の小道具と本広監督＆亀山Pの制作秘話</title>
-      <link>https://happyell.co.jp/odoru-museum-osaka2026</link>
-      <guid isPermaLink="false">happyell:fcd93ddaf6ab</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 17 Oct 2026 21:54:11 +0900</pubDate>
     </item>
   </channel>
 </rss>

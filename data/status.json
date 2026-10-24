@@ -3,8 +3,8 @@
   "name": "出町座 イベント（舞台挨拶・トーク）",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 40,
   "added": 0
  },
@@ -12,17 +12,17 @@
   "name": "映画.com 公開予定",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
-  "found": 44,
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
+  "found": 39,
   "added": 0
  },
  "gengaten-kinki": {
   "name": "原画展.info 近畿",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 23,
   "added": 0
  },
@@ -30,8 +30,8 @@
   "name": "天満天神繁昌亭 公演",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 10,
   "added": 0
  },
@@ -39,17 +39,17 @@
   "name": "ハピエル（関西のアニメ展・マンガ展）",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 10,
-  "added": 1
+  "added": 3
  },
  "intex-osaka": {
   "name": "インテックス大阪 イベント情報",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 1,
   "added": 0
  },
@@ -57,8 +57,8 @@
   "name": "関西コミティア",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 5,
   "added": 0
  },
@@ -66,8 +66,8 @@
   "name": "近鉄アート館",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 50,
   "added": 0
  },
@@ -75,16 +75,16 @@
   "name": "神戸新開地・喜楽館 公演",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
-  "found": 116,
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
+  "found": 114,
   "added": 0
  },
  "kyomaf": {
   "name": "京まふ 公式",
   "ok": false,
   "error": "HTTPError: HTTP Error 503: Service Unavailable",
-  "checked_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
   "last_ok_at": "2026-10-20T23:15:05+09:00",
   "found": 1,
   "added": 0
@@ -93,8 +93,8 @@
   "name": "京都国際マンガミュージアム",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 10,
   "added": 0
  },
@@ -102,8 +102,8 @@
   "name": "よしもと漫才劇場 お知らせ",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 9,
   "added": 0
  },
@@ -111,62 +111,107 @@
   "name": "第七藝術劇場 上映作品・イベント",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
-  "found": 33,
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
+  "found": 29,
   "added": 0
  },
  "news-daw90000-live": {
   "name": "ニュース: ダウ90000 の公演",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 53,
-  "added": 2
+  "added": 1
+ },
+ "news-evangelion-kansai": {
+  "name": "ニュース: 関西のエヴァンゲリオン展示・イベント",
+  "ok": true,
+  "error": null,
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
+  "found": 71,
+  "added": 71
+ },
+ "news-horror-exhibit-kansai": {
+  "name": "ニュース: 関西のホラー展示",
+  "ok": true,
+  "error": null,
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
+  "found": 79,
+  "added": 79
+ },
+ "news-horror-immersive-kansai": {
+  "name": "ニュース: 関西の没入型ホラー・考察型謎解き",
+  "ok": true,
+  "error": null,
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
+  "found": 36,
+  "added": 36
  },
  "news-jukyunin-live": {
   "name": "ニュース: 十九人 の公演",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
-  "found": 75,
-  "added": 0
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
+  "found": 74,
+  "added": 1
  },
  "news-mujinzo-live": {
   "name": "ニュース: 無尽蔵 の公演",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
-  "found": 21,
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
+  "found": 19,
   "added": 0
+ },
+ "news-nashi-horror": {
+  "name": "ニュース: 梨（ホラー作家）の展示・イベント",
+  "ok": true,
+  "error": null,
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
+  "found": 67,
+  "added": 67
  },
  "news-seishun38": {
   "name": "ニュース: 青春38きっぷ（十九人・4000・無尽蔵）",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 6,
   "added": 0
+ },
+ "news-shiraishi-koji": {
+  "name": "ニュース: 白石晃士の上映・イベント",
+  "ok": true,
+  "error": null,
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
+  "found": 49,
+  "added": 49
  },
  "ngk": {
   "name": "なんばグランド花月 お知らせ",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 9,
-  "added": 0
+  "added": 2
  },
  "oaff": {
   "name": "大阪アジアン映画祭",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 10,
   "added": 0
  },
@@ -174,8 +219,8 @@
   "name": "同人イベントNAVI 大阪府",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 20,
   "added": 0
  },
@@ -183,8 +228,8 @@
   "name": "ウォーカープラス 関西 アニメ・ゲーム",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 9,
   "added": 0
  },
@@ -192,18 +237,18 @@
   "name": "ウォーカープラス 関西 映画イベント",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 15,
-  "added": 0
+  "added": 1
  },
  "walker-kansai-owarai": {
   "name": "ウォーカープラス 関西 伝統芸能・お笑いライブ",
   "ok": true,
   "error": null,
-  "checked_at": "2026-10-23T23:11:10+09:00",
-  "last_ok_at": "2026-10-23T23:11:10+09:00",
+  "checked_at": "2026-10-24T22:13:08+09:00",
+  "last_ok_at": "2026-10-24T22:13:08+09:00",
   "found": 15,
-  "added": 1
+  "added": 0
  }
 }
