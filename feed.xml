@@ -4,7 +4,105 @@
     <title>関西イベント新着（Event_RSS）</title>
     <link>https://github.com/ractodaisuki/Event_RSS</link>
     <description>関西のアニメ・お笑い・映画などの情報源から、新しく見つかった項目</description>
-    <lastBuildDate>Sat, 31 Oct 2026 00:49:32 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 00:15:17 +0900</lastBuildDate>
+    <item>
+      <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] 出会える西宮の文化財2026</title>
+      <link>https://www.walkerplus.com/event/ar0728e621427/</link>
+      <guid isPermaLink="false">walker-kansai-owarai:21108765b12b</guid>
+      <category>お笑い</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 映画イベント] 出会える西宮の文化財2026</title>
+      <link>https://www.walkerplus.com/event/ar0728e621427/</link>
+      <guid isPermaLink="false">walker-kansai-movie:21108765b12b</guid>
+      <category>映画</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 映画イベント] シアター上映会2026「愛宕山と砥石 つながる・ひろがる砥石の世界」</title>
+      <link>https://www.walkerplus.com/event/ar0726e621632/</link>
+      <guid isPermaLink="false">walker-kansai-movie:9c1d36ebd50f</guid>
+      <category>映画</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 アニメ・ゲーム] 出会える西宮の文化財2026</title>
+      <link>https://www.walkerplus.com/event/ar0728e621427/</link>
+      <guid isPermaLink="false">walker-kansai-anime:21108765b12b</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
+    <item>
+      <title>[なんばグランド花月 お知らせ] 2026年10月31日 お詫び 11/1（日） 本公演③回目 ラフ次元 休演のお知らせ</title>
+      <link>https://ngk.yoshimoto.co.jp/2026/10/1030-2.html</link>
+      <guid isPermaLink="false">ngk:96ae672bc58d</guid>
+      <category>お笑い</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
+    <item>
+      <title>[なんばグランド花月 お知らせ] 2026年10月31日 お詫び 11/1(日) ネルソンズ 岸健之助 休演のお知らせ</title>
+      <link>https://ngk.yoshimoto.co.jp/2026/10/1030-1.html</link>
+      <guid isPermaLink="false">ngk:e738dff08fcd</guid>
+      <category>お笑い</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: 関西の没入型ホラー・考察型謎解き] 本物の廃車でゾンビの襲撃に耐える…京都の公園が“ゾンビ徘徊する危険区域”に変貌、没入型ホラーイベント・ハロウィンゾンビナイト開催 - 東奥日報社</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VcVlKM09MMlIxMEVZZ0Q4dWQ4STJDMlNnVHVIRkF3R1UwMlFUQ0Y1VElCZndXMEpILXdTQndVN0JfQUxDaVE5MnM5czVqeVA5NHZENjBZUTI?oc=5</link>
+      <guid isPermaLink="false">news-horror-immersive-kansai:62cbb8faa40d</guid>
+      <category>おでかけ</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
+    <item>
+      <title>[近鉄アート館] 旭堂南鈴独演会2026</title>
+      <link>https://kintetsuartkan.jp/info/1159/</link>
+      <guid isPermaLink="false">kintetsu-artkan:1fb63a8cf1d0</guid>
+      <category>お笑い</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
+    <item>
+      <title>[近鉄アート館] 2026年10月31日</title>
+      <link>https://kintetsuartkan.jp/info/1186/</link>
+      <guid isPermaLink="false">kintetsu-artkan:0d38dd3abeba</guid>
+      <category>お笑い</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] 園芸文化館「いろはにわ」展示内容・場所【GREEN×EXPO 2027】</title>
+      <link>https://happyell.co.jp/expo2027-irohaniwa</link>
+      <guid isPermaLink="false">happyell:60e09ae52604</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] トゥンクトゥンク・GREEN×EXPO 2027グッズ</title>
+      <link>https://happyell.co.jp/tunk-tunk-goods</link>
+      <guid isPermaLink="false">happyell:c82a95f3e617</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] GREEN×EXPO 2027「はなめぐり」の展示と見どころ！大阪万博の建築が横浜に</title>
+      <link>https://happyell.co.jp/expo2027-hanameguri</link>
+      <guid isPermaLink="false">happyell:23b2aa361508</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
+    <item>
+      <title>[出町座 イベント（舞台挨拶・トーク）] 2026. 11 . 8 ( 日 ) 【舞台挨拶】『男ともだち』三島有紀子監督 2026/11/8 日 ▶︎ 15:00- 作品上映 &gt; アフタートーク 【舞台挨拶】 登壇：三島有紀子監督 *舞台挨拶終了後にパンフレットサイン会を行います。 *本編上映後にイベントを行います。 *実施1週間前…</title>
+      <link>https://demachiza.com/event/20500</link>
+      <guid isPermaLink="false">demachiza-event:7894f01f2351</guid>
+      <category>映画</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
+    <item>
+      <title>[出町座 イベント（舞台挨拶・トーク）] 2026. 11 . 22 ( 日 ) 【アフタートーク】《記録映像作家･映像民俗学者 姫田忠義特集》 【アフタートーク】 11/29 日 ▶︎ 12:20-【B】上映回 登壇：本間智希さん（建築史家）、姫田蘭さん（民映研） 12/1 火 ▶︎ 13:05-【G】上映回 登壇：遠藤協さん（映像民俗学/『軍服を着た神様』監督） 1…</title>
+      <link>https://demachiza.com/event/20569</link>
+      <guid isPermaLink="false">demachiza-event:b73620bff1ef</guid>
+      <category>映画</category>
+      <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
+    </item>
     <item>
       <title>[なんばグランド花月 お知らせ] 2026年10月30日 お詫び 10/30（金） ビスケットブラザーズ 休演のお知らせ</title>
       <link>https://ngk.yoshimoto.co.jp/2026/10/1030.html</link>
@@ -410,55 +508,6 @@
       <guid isPermaLink="false">happyell:4f6e6f183aa5</guid>
       <category>アニメ・マンガ</category>
       <pubDate>Sun, 25 Oct 2026 22:40:23 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ウォーカープラス 関西 映画イベント] 映画「富士山と、コーヒーと、しあわせの数式」上映会</title>
-      <link>https://www.walkerplus.com/event/ar0726e621034/</link>
-      <guid isPermaLink="false">walker-kansai-movie:c490f0b99120</guid>
-      <category>映画</category>
-      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
-    </item>
-    <item>
-      <title>[なんばグランド花月 お知らせ] 2026年10月24日 お詫び 10/24（土）本公演④回目 木村祐一 休演のお知らせ</title>
-      <link>https://ngk.yoshimoto.co.jp/2026/10/109-1.html</link>
-      <guid isPermaLink="false">ngk:3ed48b622472</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
-    </item>
-    <item>
-      <title>[なんばグランド花月 お知らせ] 2026年10月24日 1月本公演 発売情報</title>
-      <link>https://ngk.yoshimoto.co.jp/2026/10/10.html</link>
-      <guid isPermaLink="false">ngk:b4c745bf8d3e</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: ダウ90000 の公演] ダウ90000蓮見翔が演出のコントライブ『夜衝3』開催決定！ 伊藤修子、ラブレターズ溜口ら出演 - 演劇 - お笑い - クランクイン！</title>
-      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zU1FUa0tIUHphU1FiQnBYMUtNcXhTV0oxaHl0RWc5WVdHWFNONDNiTGl6dDdwdzdncWxFT0p5VExZNE8wa0huVU56QnN5TS1YUGFzZ0RLaw?oc=5</link>
-      <guid isPermaLink="false">news-daw90000-live:8ce078ba41a6</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ハピエル（関西のアニメ展・マンガ展）] 中東アラビアンフェスティバル2026に行ってきた！砂漠体験や絶品グルメを現地レポ コピー</title>
-      <link>https://happyell.co.jp/middle-east-arabian-festival2026</link>
-      <guid isPermaLink="false">happyell:89375799ae59</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ハピエル（関西のアニメ展・マンガ展）] 【刀剣乱舞×トヨタ】三日月宗近の特別なクラウンが京都駅に！実車レポ＆制作秘話</title>
-      <link>https://happyell.co.jp/toukenranbu-crown-kyoto2026</link>
-      <guid isPermaLink="false">happyell:323e13ff1048</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ハピエル（関西のアニメ展・マンガ展）] USJ混雑予想カレンダー2026｜今日・明日・空いている日を毎日更新</title>
-      <link>https://happyell.co.jp/usj-crowdforecast</link>
-      <guid isPermaLink="false">happyell:ecddc48a4267</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 24 Oct 2026 22:13:08 +0900</pubDate>
     </item>
   </channel>
 </rss>
