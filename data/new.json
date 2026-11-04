@@ -1,7 +1,199 @@
 {
- "generated_at": "2026-11-04T01:57:54+09:00",
+ "generated_at": "2026-11-05T02:04:30+09:00",
  "days": 7,
  "items": [
+  {
+   "id": "walker-kansai-owarai:63f7a4190d59",
+   "source": "walker-kansai-owarai",
+   "source_name": "ウォーカープラス 関西 伝統芸能・お笑いライブ",
+   "genre": "お笑い",
+   "title": "坂東玉三郎が語り、舞う特別なひととき",
+   "url": "https://www.walkerplus.com/event/ar0729e621382/",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "walker-kansai-owarai:14439636e7d2",
+   "source": "walker-kansai-owarai",
+   "source_name": "ウォーカープラス 関西 伝統芸能・お笑いライブ",
+   "genre": "お笑い",
+   "title": "スワップミート in 花博公園スペシャル（11月）",
+   "url": "https://www.walkerplus.com/event/ar0727e610536/",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "walker-kansai-movie:538ed02ea12c",
+   "source": "walker-kansai-movie",
+   "source_name": "ウォーカープラス 関西 映画イベント",
+   "genre": "映画",
+   "title": "茨木WAM映画祭 〜考えよう！性のこと、生のこと〜",
+   "url": "https://www.walkerplus.com/event/ar0727e621892/",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "walker-kansai-movie:14439636e7d2",
+   "source": "walker-kansai-movie",
+   "source_name": "ウォーカープラス 関西 映画イベント",
+   "genre": "映画",
+   "title": "スワップミート in 花博公園スペシャル（11月）",
+   "url": "https://www.walkerplus.com/event/ar0727e610536/",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "walker-kansai-anime:14439636e7d2",
+   "source": "walker-kansai-anime",
+   "source_name": "ウォーカープラス 関西 アニメ・ゲーム",
+   "genre": "アニメ・マンガ",
+   "title": "スワップミート in 花博公園スペシャル（11月）",
+   "url": "https://www.walkerplus.com/event/ar0727e610536/",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "nanagei:65f317ed85b1",
+   "source": "nanagei",
+   "source_name": "第七藝術劇場 上映作品・イベント",
+   "genre": "映画",
+   "title": "11/14(土)～ 2126年、海の星をさがして",
+   "url": "https://www.nanagei.com/mv/mv_n2223.html",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "nanagei:98f16b64352a",
+   "source": "nanagei",
+   "source_name": "第七藝術劇場 上映作品・イベント",
+   "genre": "映画",
+   "title": "--> 上映予定 巡る世界、巡る言葉",
+   "url": "https://www.nanagei.com/mv/mv_n2228.html",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "nanagei:d46f4f647ffa",
+   "source": "nanagei",
+   "source_name": "第七藝術劇場 上映作品・イベント",
+   "genre": "映画",
+   "title": "--> 12/5(土)～ ある精肉店のはなし〈アンコール上映〉",
+   "url": "https://www.nanagei.com/mv/mv_n2229.html",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "nanagei:67ee4e84750d",
+   "source": "nanagei",
+   "source_name": "第七藝術劇場 上映作品・イベント",
+   "genre": "映画",
+   "title": "--> 1/2(土)～ 特集上映「タル・ベーラ 凝視せよ､抵抗せよ」",
+   "url": "https://www.nanagei.com/mv/mv_n2230.html",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "kirakukan:288cee2f4b3a",
+   "source": "kirakukan",
+   "source_name": "神戸新開地・喜楽館 公演",
+   "genre": "お笑い",
+   "title": "～兵庫県神戸県民センターpresents 笑ってがんばろう！防災ウイーク～ 開演前の一席 未定/ 笑福亭 喬明/桂 阿か枝/桂 三ノ助 桂 三若/仲入り/防災トーク（桂 福丸）/ 桂 福丸/桂 米團治 11/14（土）よりチケット発売開始！！ 1月4日（月）より喜楽館昼席料金を改定をいたしました。 一般前売：2，300円 → 2,600円 当日：2,800円 → 3,000円 65歳以上前売：2,300円 → 2,500円 当日：2,300円 → 2,600円 タニマチ：2,000円 → 2,300円（前売・当日共） ※障がい者、学生、小中学生料金の変更はございません。 注意事項・その他： ※",
+   "url": "https://kobe-kirakukan.jp/performances/17245/",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "kirakukan:8b4a0b0dfb5e",
+   "source": "kirakukan",
+   "source_name": "神戸新開地・喜楽館 公演",
+   "genre": "お笑い",
+   "title": "～兵庫県神戸県民センターpresents 笑ってがんばろう！防災ウイーク～ 開演前の一席 未定/ 笑福亭 喬明/桂 阿か枝/桂 三ノ助 桂 三若/仲入り/防災トーク（司会：伊藤史隆）/ 桂 咲之輔/笑福亭 銀瓶 11/14（土）よりチケット発売開始！！ 1月4日（月）より喜楽館昼席料金を改定をいたしました。 一般前売：2，300円 → 2,600円 当日：2,800円 → 3,000円 65歳以上前売：2,300円 → 2,500円 当日：2,300円 → 2,600円 タニマチ：2,000円 → 2,300円（前売・当日共） ※障がい者、学生、小中学生料金の変更はございません。 注意事項・そ",
+   "url": "https://kobe-kirakukan.jp/performances/17244/",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "kirakukan:9f8f7b3248e2",
+   "source": "kirakukan",
+   "source_name": "神戸新開地・喜楽館 公演",
+   "genre": "お笑い",
+   "title": "～兵庫県神戸県民センターpresents 笑ってがんばろう！防災ウイーク～ 開演前の一席 未定/ 笑福亭 喬明/桂 阿か枝/林家 竹丸 桂 三若/仲入り/防災トーク（司会：伊藤史隆）/ 桂 三ノ助/桂 あやめ 11/14（土）よりチケット発売開始！！ 1月4日（月）より喜楽館昼席料金を改定をいたしました。 一般前売：2，300円 → 2,600円 当日：2,800円 → 3,000円 65歳以上前売：2,300円 → 2,500円 当日：2,300円 → 2,600円 タニマチ：2,000円 → 2,300円（前売・当日共） ※障がい者、学生、小中学生料金の変更はございません。 注意事項・その",
+   "url": "https://kobe-kirakukan.jp/performances/17252/",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "kirakukan:2ca369cb4e8d",
+   "source": "kirakukan",
+   "source_name": "神戸新開地・喜楽館 公演",
+   "genre": "お笑い",
+   "title": "～兵庫県神戸県民センターpresents 笑ってがんばろう！防災ウイーク～ 開演前の一席 未定/ 笑福亭 喬明/林家 愛染/桂 三ノ助 桂 あやめ/仲入り/防災トーク（司会：伊藤史隆）/ 桂 咲之輔/桂 三若 11/14（土）よりチケット発売開始！！ 1月4日（月）より喜楽館昼席料金を改定をいたしました。 一般前売：2，300円 → 2,600円 当日：2,800円 → 3,000円 65歳以上前売：2,300円 → 2,500円 当日：2,300円 → 2,600円 タニマチ：2,000円 → 2,300円（前売・当日共） ※障がい者、学生、小中学生料金の変更はございません。 注意事項・その",
+   "url": "https://kobe-kirakukan.jp/performances/17248/",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "kirakukan:a576a6bfffdc",
+   "source": "kirakukan",
+   "source_name": "神戸新開地・喜楽館 公演",
+   "genre": "お笑い",
+   "title": "～兵庫県神戸県民センターpresents 笑ってがんばろう！防災ウイーク～ 開演前の一席 未定/ 笑福亭 喬明/林家 愛染/林家 竹丸 桂 吉弥/仲入り/防災トーク（桂 福丸）/ 桂 福丸/桂 文珍 11/14（土）よりチケット発売開始！！ 1月4日（月）より喜楽館昼席料金を改定をいたしました。 一般前売：2，300円 → 2,600円 当日：2,800円 → 3,000円 65歳以上前売：2,300円 → 2,500円 当日：2,300円 → 2,600円 タニマチ：2,000円 → 2,300円（前売・当日共） ※障がい者、学生、小中学生料金の変更はございません。 注意事項・その他： ※ ",
+   "url": "https://kobe-kirakukan.jp/performances/17249/",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "kirakukan:4e38b27e0859",
+   "source": "kirakukan",
+   "source_name": "神戸新開地・喜楽館 公演",
+   "genre": "お笑い",
+   "title": "～兵庫県神戸県民センターpresents 笑ってがんばろう！防災ウイーク～ 開演前の一席 未定/ 笑福亭 喬明/林家 愛染/林家 竹丸 桂 三若/仲入り/防災トーク（桂 福丸）/ 桂 福丸/笑福亭 福笑 11/14（土）よりチケット発売開始！！ 1月4日（月）より喜楽館昼席料金を改定をいたしました。 一般前売：2，300円 → 2,600円 当日：2,800円 → 3,000円 65歳以上前売：2,300円 → 2,500円 当日：2,300円 → 2,600円 タニマチ：2,000円 → 2,300円（前売・当日共） ※障がい者、学生、小中学生料金の変更はございません。 注意事項・その他： ",
+   "url": "https://kobe-kirakukan.jp/performances/17250/",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
+  {
+   "id": "kirakukan:6047ebfff7dd",
+   "source": "kirakukan",
+   "source_name": "神戸新開地・喜楽館 公演",
+   "genre": "お笑い",
+   "title": "～兵庫県神戸県民センターpresents 笑ってがんばろう！防災ウイーク～ 開演前の一席 未定/ 桂 弥壱/林家 愛染/林家 竹丸 桂 三若/仲入り/防災トーク（桂 福丸）/ 桂 福丸/笑福亭 松喬 11/14（土）よりチケット発売開始！！ 1月4日（月）より喜楽館昼席料金を改定をいたしました。 一般前売：2，300円 → 2,600円 当日：2,800円 → 3,000円 65歳以上前売：2,300円 → 2,500円 当日：2,300円 → 2,600円 タニマチ：2,000円 → 2,300円（前売・当日共） ※障がい者、学生、小中学生料金の変更はございません。 注意事項・その他： ※ ",
+   "url": "https://kobe-kirakukan.jp/performances/17247/",
+   "published": null,
+   "first_seen": "2026-11-05T02:04:30+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
+   "baseline": false
+  },
   {
    "id": "walker-kansai-owarai:807397f0db8d",
    "source": "walker-kansai-owarai",
@@ -23,7 +215,7 @@
    "url": "https://ngk.yoshimoto.co.jp/2026/11/109.html",
    "published": null,
    "first_seen": "2026-11-04T01:57:54+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -47,7 +239,7 @@
    "url": "https://kintetsuartkan.jp/info/1203/",
    "published": null,
    "first_seen": "2026-11-04T01:57:54+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -59,7 +251,7 @@
    "url": "https://kintetsuartkan.jp/info/1223/",
    "published": null,
    "first_seen": "2026-11-04T01:57:54+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -71,7 +263,7 @@
    "url": "https://happyell.co.jp/usj-hagaren-yominotsugai2027",
    "published": "2026-11-03T19:06:48+09:00",
    "first_seen": "2026-11-04T01:57:54+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -83,7 +275,7 @@
    "url": "https://happyell.co.jp/usjxmasgoods2026",
    "published": "2026-11-03T18:44:28+09:00",
    "first_seen": "2026-11-04T01:57:54+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -95,7 +287,7 @@
    "url": "https://happyell.co.jp/expo2027-food",
    "published": "2026-11-03T19:14:40+09:00",
    "first_seen": "2026-11-04T01:57:54+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -107,7 +299,7 @@
    "url": "https://happyell.co.jp/greenexpo2027-access",
    "published": "2026-11-03T16:39:27+09:00",
    "first_seen": "2026-11-04T01:57:54+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -119,7 +311,7 @@
    "url": "https://happyell.co.jp/expo2027-flower",
    "published": "2026-11-03T23:11:07+09:00",
    "first_seen": "2026-11-04T01:57:54+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -131,7 +323,7 @@
    "url": "https://happyell.co.jp/greenexpo2027-meiji-oraga-village",
    "published": "2026-11-03T18:14:22+09:00",
    "first_seen": "2026-11-04T01:57:54+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -143,7 +335,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e561315/",
    "published": null,
    "first_seen": "2026-11-03T04:25:04+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -167,7 +359,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e561315/",
    "published": null,
    "first_seen": "2026-11-03T04:25:04+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -191,7 +383,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e561315/",
    "published": null,
    "first_seen": "2026-11-03T04:25:04+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -215,7 +407,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRUHFJeXVHc012VVBoLTJvYmpvLXhINlZIeFc5Uk5IU2dIQnJtcUtOdTQ3ejdRcE4xSGR5a0x5bHBKbzViY2JUaHhmbEdVZw?oc=5",
    "published": "2026-10-26T13:45:00+09:00",
    "first_seen": "2026-11-03T04:25:04+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -251,7 +443,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YVlNVc0RVdElBSm1rWU51Z0FnLXNjWXU5VDBwR25oTmQ5a0ZtU09GWmo1eEtWVTFTR2Q4MFoxNkstMzdqUVg1djNhMlJWTnFMS0lnUlVMblpBMk9hUUNtRUJB?oc=5",
    "published": "2026-10-12T16:00:00+09:00",
    "first_seen": "2026-11-03T04:25:04+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -263,7 +455,7 @@
    "url": "https://kyotomm.jp/news/initiatives_yorotakeshi/",
    "published": "2026-11-02T17:35:05+09:00",
    "first_seen": "2026-11-03T04:25:04+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -275,7 +467,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17095/",
    "published": null,
    "first_seen": "2026-11-03T04:25:04+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -287,7 +479,7 @@
    "url": "https://kintetsuartkan.jp/info/1217/",
    "published": null,
    "first_seen": "2026-11-03T04:25:04+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -299,7 +491,7 @@
    "url": "https://www.hanjotei.jp/performances/night/65104/",
    "published": "2027-01-31T23:58:26+09:00",
    "first_seen": "2026-11-03T04:25:04+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -323,7 +515,7 @@
    "url": "https://manzaigekijyo.yoshimoto.co.jp/2026/11/post.html",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -335,7 +527,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17181/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -347,7 +539,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17179/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -359,7 +551,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17180/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -371,7 +563,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17190/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -383,7 +575,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17185/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -395,7 +587,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17187/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -407,7 +599,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17182/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -419,7 +611,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17186/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -431,7 +623,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17191/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -443,7 +635,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17184/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -455,7 +647,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17094/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -467,7 +659,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17055/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -479,7 +671,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17164/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -491,7 +683,7 @@
    "url": "https://kobe-kirakukan.jp/performances/16970/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -503,7 +695,7 @@
    "url": "https://kobe-kirakukan.jp/performances/16956/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -515,7 +707,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17054/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -527,7 +719,7 @@
    "url": "https://kobe-kirakukan.jp/performances/16999/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -539,7 +731,7 @@
    "url": "https://www.k-comitia.com/blog/2026/11/2098/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -551,7 +743,7 @@
    "url": "https://happyell.co.jp/expo2027-macnica",
    "published": "2026-11-01T12:20:37+09:00",
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -563,7 +755,7 @@
    "url": "https://happyell.co.jp/greenexpo2027-blueimpulse",
    "published": "2026-11-01T12:03:08+09:00",
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -575,7 +767,7 @@
    "url": "https://happyell.co.jp/greenexpo2027-ja-group",
    "published": "2026-11-01T16:24:18+09:00",
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -587,7 +779,7 @@
    "url": "https://www.hanjotei.jp/performances/morning/64964/",
    "published": "2027-01-31T23:56:41+09:00",
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -599,7 +791,7 @@
    "url": "https://www.hanjotei.jp/performances/morning/64456/",
    "published": "2027-01-30T23:56:45+09:00",
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -611,7 +803,7 @@
    "url": "https://www.hanjotei.jp/performances/day/64771/",
    "published": "2027-01-27T23:57:10+09:00",
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -623,7 +815,7 @@
    "url": "https://www.hanjotei.jp/performances/day/64767/",
    "published": "2027-01-26T23:57:44+09:00",
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -635,7 +827,7 @@
    "url": "https://www.hanjotei.jp/performances/day/64780/",
    "published": "2027-01-30T23:57:11+09:00",
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -659,7 +851,7 @@
    "url": "https://www.hanjotei.jp/performances/day/64774/",
    "published": "2027-01-28T23:57:58+09:00",
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -671,7 +863,7 @@
    "url": "https://www.hanjotei.jp/performances/day/64777/",
    "published": "2027-01-29T23:57:37+09:00",
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -683,7 +875,7 @@
    "url": "https://www.hanjotei.jp/performances/day/64784/",
    "published": "2027-01-31T23:57:43+09:00",
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -695,7 +887,7 @@
    "url": "https://www.hanjotei.jp/performances/night/64261/",
    "published": "2027-01-30T23:58:17+09:00",
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -707,7 +899,7 @@
    "url": "https://eiga.com/movie/106890/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -719,7 +911,7 @@
    "url": "https://eiga.com/movie/96352/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -731,7 +923,7 @@
    "url": "https://eiga.com/movie/105934/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -743,7 +935,7 @@
    "url": "https://eiga.com/movie/106652/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -755,7 +947,7 @@
    "url": "https://eiga.com/movie/106294/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -767,7 +959,7 @@
    "url": "https://eiga.com/movie/106190/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -779,7 +971,7 @@
    "url": "https://eiga.com/movie/91513/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -791,7 +983,7 @@
    "url": "https://eiga.com/movie/107232/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -803,7 +995,7 @@
    "url": "https://eiga.com/movie/107231/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -815,7 +1007,7 @@
    "url": "https://eiga.com/movie/107230/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -827,7 +1019,7 @@
    "url": "https://eiga.com/movie/107229/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -839,7 +1031,7 @@
    "url": "https://eiga.com/movie/107234/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -851,7 +1043,7 @@
    "url": "https://eiga.com/movie/95478/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -863,7 +1055,7 @@
    "url": "https://eiga.com/movie/107233/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -875,7 +1067,7 @@
    "url": "https://eiga.com/movie/99826/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -887,7 +1079,7 @@
    "url": "https://eiga.com/movie/107228/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -899,7 +1091,7 @@
    "url": "https://eiga.com/movie/106857/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -911,7 +1103,7 @@
    "url": "https://eiga.com/movie/106300/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -923,7 +1115,7 @@
    "url": "https://eiga.com/movie/107043/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -935,7 +1127,7 @@
    "url": "https://eiga.com/movie/106744/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -947,7 +1139,7 @@
    "url": "https://eiga.com/movie/101149/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -959,7 +1151,7 @@
    "url": "https://eiga.com/movie/107056/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -971,7 +1163,7 @@
    "url": "https://eiga.com/movie/37882/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -983,7 +1175,7 @@
    "url": "https://eiga.com/movie/106250/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -995,7 +1187,7 @@
    "url": "https://eiga.com/movie/106193/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1007,7 +1199,7 @@
    "url": "https://eiga.com/movie/106891/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1019,7 +1211,7 @@
    "url": "https://eiga.com/movie/106661/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1031,7 +1223,7 @@
    "url": "https://eiga.com/movie/106102/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1043,7 +1235,7 @@
    "url": "https://eiga.com/movie/41989/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1055,7 +1247,7 @@
    "url": "https://eiga.com/movie/106903/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1067,7 +1259,7 @@
    "url": "https://eiga.com/movie/106918/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1079,7 +1271,7 @@
    "url": "https://eiga.com/movie/107119/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1091,7 +1283,7 @@
    "url": "https://eiga.com/movie/105655/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1103,7 +1295,7 @@
    "url": "https://eiga.com/movie/106947/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1115,7 +1307,7 @@
    "url": "https://eiga.com/movie/105501/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1127,7 +1319,7 @@
    "url": "https://eiga.com/movie/54331/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1139,7 +1331,7 @@
    "url": "https://eiga.com/movie/81516/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1151,7 +1343,7 @@
    "url": "https://eiga.com/movie/106875/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1163,7 +1355,7 @@
    "url": "https://eiga.com/movie/106724/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1175,7 +1367,7 @@
    "url": "https://eiga.com/movie/107264/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1187,7 +1379,7 @@
    "url": "https://eiga.com/movie/106579/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1199,7 +1391,7 @@
    "url": "https://eiga.com/movie/1254/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1211,7 +1403,7 @@
    "url": "https://eiga.com/movie/107154/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1223,7 +1415,7 @@
    "url": "https://eiga.com/movie/106624/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1235,7 +1427,7 @@
    "url": "https://eiga.com/movie/106726/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1247,7 +1439,7 @@
    "url": "https://eiga.com/movie/105483/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1259,7 +1451,7 @@
    "url": "https://eiga.com/movie/106835/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1271,7 +1463,7 @@
    "url": "https://eiga.com/movie/105953/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1283,7 +1475,7 @@
    "url": "https://eiga.com/movie/107151/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1295,7 +1487,7 @@
    "url": "https://eiga.com/movie/106034/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1307,7 +1499,7 @@
    "url": "https://eiga.com/movie/107025/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1319,7 +1511,7 @@
    "url": "https://eiga.com/movie/106119/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1331,7 +1523,7 @@
    "url": "https://eiga.com/movie/106383/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1343,7 +1535,7 @@
    "url": "https://eiga.com/movie/106333/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1355,7 +1547,7 @@
    "url": "https://eiga.com/movie/106412/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1367,7 +1559,7 @@
    "url": "https://eiga.com/movie/106644/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1379,7 +1571,7 @@
    "url": "https://eiga.com/movie/106801/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1391,7 +1583,7 @@
    "url": "https://eiga.com/movie/106809/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1403,7 +1595,7 @@
    "url": "https://eiga.com/movie/105618/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1415,7 +1607,7 @@
    "url": "https://eiga.com/movie/107012/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1427,7 +1619,7 @@
    "url": "https://eiga.com/movie/106069/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1439,7 +1631,7 @@
    "url": "https://eiga.com/movie/106523/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1451,7 +1643,7 @@
    "url": "https://eiga.com/movie/106782/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1463,7 +1655,7 @@
    "url": "https://eiga.com/movie/104404/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1475,7 +1667,7 @@
    "url": "https://eiga.com/movie/104090/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1487,7 +1679,7 @@
    "url": "https://eiga.com/movie/106382/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1499,7 +1691,7 @@
    "url": "https://eiga.com/movie/106799/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1511,7 +1703,7 @@
    "url": "https://eiga.com/movie/107020/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1523,7 +1715,7 @@
    "url": "https://eiga.com/movie/105283/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1535,7 +1727,7 @@
    "url": "https://eiga.com/movie/106868/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1547,7 +1739,7 @@
    "url": "https://eiga.com/movie/21389/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1559,7 +1751,7 @@
    "url": "https://eiga.com/movie/106771/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1571,7 +1763,7 @@
    "url": "https://eiga.com/movie/106883/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1583,7 +1775,7 @@
    "url": "https://eiga.com/movie/106917/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1595,7 +1787,7 @@
    "url": "https://eiga.com/movie/105282/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1607,7 +1799,7 @@
    "url": "https://eiga.com/movie/81223/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1619,7 +1811,7 @@
    "url": "https://eiga.com/movie/106246/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1631,7 +1823,7 @@
    "url": "https://eiga.com/movie/107152/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1643,7 +1835,7 @@
    "url": "https://eiga.com/movie/107270/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1655,7 +1847,7 @@
    "url": "https://eiga.com/movie/107064/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1667,7 +1859,7 @@
    "url": "https://eiga.com/movie/106773/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1679,7 +1871,7 @@
    "url": "https://eiga.com/movie/106873/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1691,7 +1883,7 @@
    "url": "https://eiga.com/movie/106794/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1703,7 +1895,7 @@
    "url": "https://eiga.com/movie/107112/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1727,7 +1919,7 @@
    "url": "https://eiga.com/movie/102826/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1739,7 +1931,7 @@
    "url": "https://eiga.com/movie/107113/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1751,7 +1943,7 @@
    "url": "https://eiga.com/movie/106524/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1763,7 +1955,7 @@
    "url": "https://eiga.com/movie/107153/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1775,7 +1967,7 @@
    "url": "https://eiga.com/movie/106556/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1787,7 +1979,7 @@
    "url": "https://eiga.com/movie/66221/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1799,7 +1991,7 @@
    "url": "https://eiga.com/movie/106800/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1811,7 +2003,7 @@
    "url": "https://eiga.com/movie/107057/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1823,7 +2015,7 @@
    "url": "https://eiga.com/movie/51482/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1835,7 +2027,7 @@
    "url": "https://eiga.com/movie/107150/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1847,7 +2039,7 @@
    "url": "https://eiga.com/movie/106825/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1859,7 +2051,7 @@
    "url": "https://eiga.com/movie/106962/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1871,7 +2063,7 @@
    "url": "https://eiga.com/movie/106888/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1883,7 +2075,7 @@
    "url": "https://eiga.com/movie/105604/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1895,7 +2087,7 @@
    "url": "https://eiga.com/movie/106979/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1907,7 +2099,7 @@
    "url": "https://eiga.com/movie/106819/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1919,7 +2111,7 @@
    "url": "https://eiga.com/movie/106798/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1931,7 +2123,7 @@
    "url": "https://eiga.com/movie/106849/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1943,7 +2135,7 @@
    "url": "https://eiga.com/movie/106770/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1955,7 +2147,7 @@
    "url": "https://eiga.com/movie/103471/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1967,7 +2159,7 @@
    "url": "https://eiga.com/movie/102390/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1979,7 +2171,7 @@
    "url": "https://eiga.com/movie/106848/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -1991,7 +2183,7 @@
    "url": "https://eiga.com/movie/106693/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2003,7 +2195,7 @@
    "url": "https://eiga.com/movie/106648/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2015,7 +2207,7 @@
    "url": "https://eiga.com/movie/34601/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2027,7 +2219,7 @@
    "url": "https://eiga.com/movie/106501/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2039,7 +2231,7 @@
    "url": "https://eiga.com/movie/106199/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2051,7 +2243,7 @@
    "url": "https://eiga.com/movie/104508/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2063,7 +2255,7 @@
    "url": "https://eiga.com/movie/106208/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2075,7 +2267,7 @@
    "url": "https://eiga.com/movie/106955/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2087,7 +2279,7 @@
    "url": "https://eiga.com/movie/102527/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2099,7 +2291,7 @@
    "url": "https://eiga.com/movie/104828/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2111,7 +2303,7 @@
    "url": "https://eiga.com/movie/106576/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2123,7 +2315,7 @@
    "url": "https://eiga.com/movie/105938/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2135,7 +2327,7 @@
    "url": "https://eiga.com/movie/106500/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2147,7 +2339,7 @@
    "url": "https://eiga.com/movie/107109/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2159,7 +2351,7 @@
    "url": "https://eiga.com/movie/106680/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2171,7 +2363,7 @@
    "url": "https://eiga.com/movie/106924/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2183,7 +2375,7 @@
    "url": "https://eiga.com/movie/106950/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2195,7 +2387,7 @@
    "url": "https://eiga.com/movie/106925/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2207,7 +2399,7 @@
    "url": "https://eiga.com/movie/106926/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2219,7 +2411,7 @@
    "url": "https://eiga.com/movie/106915/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2231,7 +2423,7 @@
    "url": "https://eiga.com/movie/106337/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2243,7 +2435,7 @@
    "url": "https://eiga.com/movie/92855/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2255,7 +2447,7 @@
    "url": "https://eiga.com/movie/106951/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2267,7 +2459,7 @@
    "url": "https://eiga.com/movie/106884/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2279,7 +2471,7 @@
    "url": "https://eiga.com/movie/104218/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2291,7 +2483,7 @@
    "url": "https://eiga.com/movie/106927/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2303,7 +2495,7 @@
    "url": "https://eiga.com/movie/106949/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2315,7 +2507,7 @@
    "url": "https://eiga.com/movie/106805/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2327,7 +2519,7 @@
    "url": "https://eiga.com/movie/106601/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2339,7 +2531,7 @@
    "url": "https://eiga.com/movie/106869/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2351,7 +2543,7 @@
    "url": "https://eiga.com/movie/106315/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2363,7 +2555,7 @@
    "url": "https://eiga.com/movie/106216/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2375,7 +2567,7 @@
    "url": "https://eiga.com/movie/105277/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2387,7 +2579,7 @@
    "url": "https://eiga.com/movie/106820/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2399,7 +2591,7 @@
    "url": "https://eiga.com/movie/106712/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2411,7 +2603,7 @@
    "url": "https://eiga.com/movie/105856/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2423,7 +2615,7 @@
    "url": "https://eiga.com/movie/104815/",
    "published": null,
    "first_seen": "2026-11-02T00:56:27+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2435,7 +2627,7 @@
    "url": "https://www.walkerplus.com/event/ar0728e621427/",
    "published": null,
    "first_seen": "2026-11-01T00:15:17+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2447,7 +2639,7 @@
    "url": "https://www.walkerplus.com/event/ar0728e621427/",
    "published": null,
    "first_seen": "2026-11-01T00:15:17+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2459,7 +2651,7 @@
    "url": "https://www.walkerplus.com/event/ar0726e621632/",
    "published": null,
    "first_seen": "2026-11-01T00:15:17+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2471,7 +2663,7 @@
    "url": "https://www.walkerplus.com/event/ar0728e621427/",
    "published": null,
    "first_seen": "2026-11-01T00:15:17+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2483,7 +2675,7 @@
    "url": "https://ngk.yoshimoto.co.jp/2026/10/1030-2.html",
    "published": null,
    "first_seen": "2026-11-01T00:15:17+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2495,7 +2687,7 @@
    "url": "https://ngk.yoshimoto.co.jp/2026/10/1030-1.html",
    "published": null,
    "first_seen": "2026-11-01T00:15:17+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2507,7 +2699,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VcVlKM09MMlIxMEVZZ0Q4dWQ4STJDMlNnVHVIRkF3R1UwMlFUQ0Y1VElCZndXMEpILXdTQndVN0JfQUxDaVE5MnM5czVqeVA5NHZENjBZUTI?oc=5",
    "published": "2026-10-20T14:40:00+09:00",
    "first_seen": "2026-11-01T00:15:17+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2519,7 +2711,7 @@
    "url": "https://kintetsuartkan.jp/info/1159/",
    "published": null,
    "first_seen": "2026-11-01T00:15:17+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2531,7 +2723,7 @@
    "url": "https://kintetsuartkan.jp/info/1186/",
    "published": null,
    "first_seen": "2026-11-01T00:15:17+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2567,7 +2759,7 @@
    "url": "https://happyell.co.jp/expo2027-hanameguri",
    "published": "2026-10-31T23:23:02+09:00",
    "first_seen": "2026-11-01T00:15:17+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2579,7 +2771,7 @@
    "url": "https://demachiza.com/event/20500",
    "published": null,
    "first_seen": "2026-11-01T00:15:17+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2591,7 +2783,7 @@
    "url": "https://demachiza.com/event/20569",
    "published": null,
    "first_seen": "2026-11-01T00:15:17+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2603,7 +2795,7 @@
    "url": "https://ngk.yoshimoto.co.jp/2026/10/1030.html",
    "published": null,
    "first_seen": "2026-10-31T00:49:32+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2651,7 +2843,7 @@
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwcDRJLXRTVEtiRW5LMmcxdWF0WTkwSjlELVAtLUFWTjd0NTI3NzRkeG9yUXFpOWxlMVlDbFppZkUwb1RSSHc?oc=5",
    "published": "2026-10-18T16:00:00+09:00",
    "first_seen": "2026-10-31T00:49:32+09:00",
-   "last_seen": "2026-11-03T04:25:04+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2675,7 +2867,7 @@
    "url": "https://kintetsuartkan.jp/info/1199/",
    "published": null,
    "first_seen": "2026-10-31T00:49:32+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2699,7 +2891,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e618309/",
    "published": null,
    "first_seen": "2026-10-30T00:59:54+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2711,7 +2903,7 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jclpaQnQ3TXdzLS1kRTFXWW5Zek5hQnBOMmltSlcwRm9EVmxFUlF5WU9ub3l0cjNLVTFiajNIeTdDU1BwQzVycmFRWF8tNlhGYVZqTXEwbmRINEFpQ18xZ2lydzJSR2VH?oc=5",
    "published": "2026-10-29T16:54:22+09:00",
    "first_seen": "2026-10-30T00:59:54+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   },
   {
@@ -2759,187 +2951,7 @@
    "url": "https://demachiza.com/event/20517",
    "published": null,
    "first_seen": "2026-10-30T00:59:54+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
-   "baseline": false
-  },
-  {
-   "id": "walker-kansai-movie:dc41b6387b28",
-   "source": "walker-kansai-movie",
-   "source_name": "ウォーカープラス 関西 映画イベント",
-   "genre": "映画",
-   "title": "こども劇場 みんなのクリスマス★スペシャルシネマ －サンタのひみつの映画会ー",
-   "url": "https://www.walkerplus.com/event/ar0727e621220/",
-   "published": null,
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
-   "baseline": false
-  },
-  {
-   "id": "ngk:7cef0cdf7eb0",
-   "source": "ngk",
-   "source_name": "なんばグランド花月 お知らせ",
-   "genre": "お笑い",
-   "title": "2026年10月28日 お詫び シャンプーハット 休演のお知らせ",
-   "url": "https://ngk.yoshimoto.co.jp/2026/10/109-3.html",
-   "published": null,
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-11-03T04:25:04+09:00",
-   "baseline": false
-  },
-  {
-   "id": "ngk:df22827e21a2",
-   "source": "ngk",
-   "source_name": "なんばグランド花月 お知らせ",
-   "genre": "お笑い",
-   "title": "2026年10月28日 お詫び 11/4（水） しゃかりき 休演のお知らせ",
-   "url": "https://ngk.yoshimoto.co.jp/2026/10/1018-1-2.html",
-   "published": null,
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
-   "baseline": false
-  },
-  {
-   "id": "ngk:c44d703d63a7",
-   "source": "ngk",
-   "source_name": "なんばグランド花月 お知らせ",
-   "genre": "お笑い",
-   "title": "2026年10月28日 お詫び 10/28（水）たくろう 休演のお知らせ",
-   "url": "https://ngk.yoshimoto.co.jp/2026/10/109-2.html",
-   "published": null,
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-10-31T00:49:32+09:00",
-   "baseline": false
-  },
-  {
-   "id": "news-horror-immersive-kansai:84c790077fba",
-   "source": "news-horror-immersive-kansai",
-   "source_name": "ニュース: 関西の没入型ホラー・考察型謎解き",
-   "genre": "おでかけ",
-   "title": "本物の廃車でゾンビの襲撃に耐える…京都の公園が“ゾンビ徘徊する危険区域”に変貌、没入型ホラーイベント・ハロウィンゾンビナイト開催 - オリコンニュース",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12bVFIWVJVTVcwVmNrZW5lT3kxM2NvM2pMZzRLMEloYmNVQjVhbHRlWVRCQzJtc0ZjNGt5SU8xdklKVWZlWUVJTkoxME1xLVBNZFRDUlhR?oc=5",
-   "published": "2026-10-20T14:40:00+09:00",
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-10-31T00:49:32+09:00",
-   "baseline": false
-  },
-  {
-   "id": "news-horror-exhibit-kansai:7583c5ab494b",
-   "source": "news-horror-exhibit-kansai",
-   "source_name": "ニュース: 関西のホラー展示",
-   "genre": "アート・展示",
-   "title": "【レポート】京都・北山で5日間のハロウィンイベント開催！昼・夜で違った楽しみ方ができるホラーコンテンツを用意 - ニコニコニュース",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RVUlsNXJBWUhBd2xOMzFQVnNnd3doX2dwR09pQkNSUmhVdnowVU5KUjBoNmNidzl6VWRRUUpRMXhrMGp2eHg3cmctYU9UM2lHbC1tdlRYTTBFenlpaWZUSmdPSm1vaThxLUJlTVNsSVBVc2F2eXVEbVpfQQ?oc=5",
-   "published": "2026-10-28T23:51:20+09:00",
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-10-29T00:54:51+09:00",
-   "baseline": false
-  },
-  {
-   "id": "nanagei:d2e450ffc621",
-   "source": "nanagei",
-   "source_name": "第七藝術劇場 上映作品・イベント",
-   "genre": "映画",
-   "title": "11/21(土) 「夜の映画館プチツアーin 第七藝術劇場」",
-   "url": "https://www.nanagei.com/ev/ev_n261121.html",
-   "published": null,
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
-   "baseline": false
-  },
-  {
-   "id": "kintetsu-artkan:036877375d7e",
-   "source": "kintetsu-artkan",
-   "source_name": "近鉄アート館",
-   "genre": "お笑い",
-   "title": "演劇企画あすぼくらへシリーズ・オブ・ジャック・ザ・カッター 第2章『色相X の不在照明』",
-   "url": "https://kintetsuartkan.jp/info/1153/",
-   "published": null,
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
-   "baseline": false
-  },
-  {
-   "id": "kintetsu-artkan:bf3fe8890baa",
-   "source": "kintetsu-artkan",
-   "source_name": "近鉄アート館",
-   "genre": "お笑い",
-   "title": "吉田食堂落語会 小痴楽フルスロットル15",
-   "url": "https://kintetsuartkan.jp/info/1157/",
-   "published": null,
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
-   "baseline": false
-  },
-  {
-   "id": "kintetsu-artkan:c4d4a36703fa",
-   "source": "kintetsu-artkan",
-   "source_name": "近鉄アート館",
-   "genre": "お笑い",
-   "title": "Nana Produce20周年公演 第5弾 Nana Produce Vol.30「まだ終わってないよ」",
-   "url": "https://kintetsuartkan.jp/info/1180/",
-   "published": null,
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
-   "baseline": false
-  },
-  {
-   "id": "kintetsu-artkan:1ecf3d6f4582",
-   "source": "kintetsu-artkan",
-   "source_name": "近鉄アート館",
-   "genre": "お笑い",
-   "title": "2026年10月28日",
-   "url": "https://kintetsuartkan.jp/info/1149/",
-   "published": null,
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
-   "baseline": false
-  },
-  {
-   "id": "intex-osaka:6f6f3b881106",
-   "source": "intex-osaka",
-   "source_name": "インテックス大阪 イベント情報",
-   "genre": "アニメ・マンガ",
-   "title": "インテックス大阪 イベント情報 のページが更新されました",
-   "url": "https://www.intex-osaka.com/jp/event/",
-   "published": null,
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
-   "baseline": false
-  },
-  {
-   "id": "happyell:8adf9c4a52b0",
-   "source": "happyell",
-   "source_name": "ハピエル（関西のアニメ展・マンガ展）",
-   "genre": "アニメ・マンガ",
-   "title": "大阪「細田守の原点/展」現地レポ！時をかける少女・サマーウォーズの見どころと料金",
-   "url": "https://happyell.co.jp/hosoda-genten-osaka2026-exhibition",
-   "published": "2026-10-28T08:58:17+09:00",
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-11-03T04:25:04+09:00",
-   "baseline": false
-  },
-  {
-   "id": "demachiza-event:8fab1a3f6baa",
-   "source": "demachiza-event",
-   "source_name": "出町座 イベント（舞台挨拶・トーク）",
-   "genre": "映画",
-   "title": "2026. 11 . 8 ( 日 ) 【先行上映イベント】『済州島 声たち』チ･へウォン監督 ▶︎ 13:15- 作品上映 > アフタートーク（15:45終了予定） 【アフタートーク】 登壇：チ･へウォン監督 *本編上映後にイベントを行います。 *実施1週間前（11/1）AM10:30から電話予約を受付。…",
-   "url": "https://demachiza.com/event/20499",
-   "published": null,
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
-   "baseline": false
-  },
-  {
-   "id": "akaboo-event:d96a168ede2f",
-   "source": "akaboo-event",
-   "source_name": "赤ブーブー通信社 イベント一覧（COMIC CITY 大阪など）",
-   "genre": "アニメ・マンガ",
-   "title": "赤ブーブー通信社 イベント一覧（COMIC CITY 大阪など） のページが更新されました",
-   "url": "https://www.akaboo.jp/event/",
-   "published": null,
-   "first_seen": "2026-10-29T00:54:51+09:00",
-   "last_seen": "2026-11-04T01:57:54+09:00",
+   "last_seen": "2026-11-05T02:04:30+09:00",
    "baseline": false
   }
  ]
