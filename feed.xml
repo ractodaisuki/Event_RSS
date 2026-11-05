@@ -4,7 +4,56 @@
     <title>関西イベント新着（Event_RSS）</title>
     <link>https://github.com/ractodaisuki/Event_RSS</link>
     <description>関西のアニメ・お笑い・映画などの情報源から、新しく見つかった項目</description>
-    <lastBuildDate>Thu, 05 Nov 2026 02:04:30 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 02:18:49 +0900</lastBuildDate>
+    <item>
+      <title>[ウォーカープラス 関西 映画イベント] ウィークエンド・シネマ12月「NHKスペシャル ふたりの贖罪～日本とアメリカ・憎しみを越えて～」</title>
+      <link>https://www.walkerplus.com/event/ar0727e622242/</link>
+      <guid isPermaLink="false">walker-kansai-movie:90bf0b0a0a30</guid>
+      <category>映画</category>
+      <pubDate>Fri, 06 Nov 2026 02:18:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] 【大阪・南堀江】真夜中の宇宙博物館からの脱出を体験！動き出す展示物の謎を解き明かせ！リアル脱出ゲーム体験レポート</title>
+      <link>https://happyell.co.jp/space-museum-escape-osaka2026</link>
+      <guid isPermaLink="false">happyell:ebbfbf703926</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Fri, 06 Nov 2026 02:18:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>[映画.com 公開予定] ヴィセンチーナは謝罪する</title>
+      <link>https://eiga.com/movie/107334/</link>
+      <guid isPermaLink="false">eiga-coming:ae10d80ba885</guid>
+      <category>映画</category>
+      <pubDate>Fri, 06 Nov 2026 02:18:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>[映画.com 公開予定] ロブ・ロウ アウトサイダー</title>
+      <link>https://eiga.com/movie/107335/</link>
+      <guid isPermaLink="false">eiga-coming:0b94b7f67a69</guid>
+      <category>映画</category>
+      <pubDate>Fri, 06 Nov 2026 02:18:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>[映画.com 公開予定] グッド・ロイヤー</title>
+      <link>https://eiga.com/movie/107332/</link>
+      <guid isPermaLink="false">eiga-coming:279eaea5f76d</guid>
+      <category>映画</category>
+      <pubDate>Fri, 06 Nov 2026 02:18:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>[映画.com 公開予定] クリサダ・パラダイス</title>
+      <link>https://eiga.com/movie/107333/</link>
+      <guid isPermaLink="false">eiga-coming:a2c8ff1b146c</guid>
+      <category>映画</category>
+      <pubDate>Fri, 06 Nov 2026 02:18:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>[映画.com 公開予定] カジモド、パリの魂</title>
+      <link>https://eiga.com/movie/107336/</link>
+      <guid isPermaLink="false">eiga-coming:4c338f0884e5</guid>
+      <category>映画</category>
+      <pubDate>Fri, 06 Nov 2026 02:18:49 +0900</pubDate>
+    </item>
     <item>
       <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] 坂東玉三郎が語り、舞う特別なひととき</title>
       <link>https://www.walkerplus.com/event/ar0729e621382/</link>
@@ -1665,13 +1714,6 @@
       <pubDate>Sat, 31 Oct 2026 00:49:32 +0900</pubDate>
     </item>
     <item>
-      <title>[ニュース: ダウ90000 の公演] コントライブ「夜衝」第3弾開催決定、作演出の蓮見「最初にやった時はまだバイトしながら…」（お笑いナタリー） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE8zaktBSHpKOTJnSk5ha1FYazhvNVF3dXhZUlRjQm1TTmtzbXhLRlRhSnpGSjl0YmNWcXNKUUEwZTQzLUhzQUNHeEVwNi1BYS01eDZIX1R3YWtqNF9QQmRUWV9Sbms5bjVqT28yXzBFbURMNUpYbDllNWNONHl6emM?oc=5</link>
-      <guid isPermaLink="false">news-daw90000-live:044fc5482073</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 31 Oct 2026 00:49:32 +0900</pubDate>
-    </item>
-    <item>
       <title>[近鉄アート館] ［ハルカス寄席 １２月］</title>
       <link>https://kintetsuartkan.jp/info/1199/</link>
       <guid isPermaLink="false">kintetsu-artkan:18c265c10a4c</guid>
@@ -1684,48 +1726,6 @@
       <guid isPermaLink="false">happyell:95813354e62e</guid>
       <category>アニメ・マンガ</category>
       <pubDate>Sat, 31 Oct 2026 00:49:32 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ウォーカープラス 関西 アニメ・ゲーム] TVアニメ『涼宮ハルヒの憂鬱』20周年記念「SOS(エスオーエス)展〜世界を大いに盛り上げた涼宮ハルヒの展〜」(大阪)</title>
-      <link>https://www.walkerplus.com/event/ar0727e618309/</link>
-      <guid isPermaLink="false">walker-kansai-anime:bd890062d945</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Fri, 30 Oct 2026 00:59:54 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 関西の没入型ホラー・考察型謎解き] 誓約書必須の最恐お化け屋敷も！11月まで続く恐怖の5日間『ハロウィンゾンビナイト2026』／Re.Nova北 - Leaf KYOTO</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jclpaQnQ3TXdzLS1kRTFXWW5Zek5hQnBOMmltSlcwRm9EVmxFUlF5WU9ub3l0cjNLVTFiajNIeTdDU1BwQzVycmFRWF8tNlhGYVZqTXEwbmRINEFpQ18xZ2lydzJSR2VH?oc=5</link>
-      <guid isPermaLink="false">news-horror-immersive-kansai:94de3c19c184</guid>
-      <category>おでかけ</category>
-      <pubDate>Fri, 30 Oct 2026 00:59:54 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 関西のホラー展示] 【レポート】京都・北山で5日間のハロウィンイベント開催！昼・夜で違った楽しみ方ができるホラーコンテンツを用意 - ニコニコニュース</title>
-      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTFAxcHZhaTlZZzExRWJNQ0l4T1FBRGhWbW1EY2dKNG9weWhlejVrNjJCcFlhcGdaNWVybXlPcWc1dHJlU011R1RBdlNIYXgwbVVOR1FtOC1odEZEOENHVkF0VTdIdDZreXNiVzROem54cU5WY1E?oc=5</link>
-      <guid isPermaLink="false">news-horror-exhibit-kansai:76920eca7f04</guid>
-      <category>アート・展示</category>
-      <pubDate>Fri, 30 Oct 2026 00:59:54 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ハピエル（関西のアニメ展・マンガ展）] ひらかたパークのイルミネーション2026-2027｜光の遊園地の見どころ・料金・点灯時間</title>
-      <link>https://happyell.co.jp/hirakata-park-illumination2026</link>
-      <guid isPermaLink="false">happyell:f612f241e331</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Fri, 30 Oct 2026 00:59:54 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ハピエル（関西のアニメ展・マンガ展）] 【京都ハロウィン2026】本物の廃車に閉じ込められる恐怖！「Re.Nova北山 ハロウィンゾンビナイト2026」開催 ゾンビ50体＆360度ホラーライブ</title>
-      <link>https://happyell.co.jp/renova-kitayama-zombie2026</link>
-      <guid isPermaLink="false">happyell:31a81613d9f2</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Fri, 30 Oct 2026 00:59:54 +0900</pubDate>
-    </item>
-    <item>
-      <title>[出町座 イベント（舞台挨拶・トーク）] 2026. 11 . 22 ( 日 ) 【舞台挨拶】『みらいしのほこう』羽蚋拓未監督 【舞台挨拶】 11/22 日 ▶︎ 17:25-上映回 登壇：羽蚋拓未（はぶとたくみ）監督 *本編上映後にイベントを行います。 *実施1週間前（11/15）AM10:30から電話予約を受付。券売と座…</title>
-      <link>https://demachiza.com/event/20517</link>
-      <guid isPermaLink="false">demachiza-event:7c98ecdfe2dd</guid>
-      <category>映画</category>
-      <pubDate>Fri, 30 Oct 2026 00:59:54 +0900</pubDate>
     </item>
   </channel>
 </rss>
