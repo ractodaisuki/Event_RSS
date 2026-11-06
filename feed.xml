@@ -4,7 +4,91 @@
     <title>関西イベント新着（Event_RSS）</title>
     <link>https://github.com/ractodaisuki/Event_RSS</link>
     <description>関西のアニメ・お笑い・映画などの情報源から、新しく見つかった項目</description>
-    <lastBuildDate>Fri, 06 Nov 2026 02:18:49 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 01:41:44 +0900</lastBuildDate>
+    <item>
+      <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] 瑠璃光院の紅葉</title>
+      <link>https://www.walkerplus.com/event/ar0726e416761/</link>
+      <guid isPermaLink="false">walker-kansai-owarai:244e5a9bc3e4</guid>
+      <category>お笑い</category>
+      <pubDate>Sat, 07 Nov 2026 01:41:44 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 映画イベント] 瑠璃光院の紅葉</title>
+      <link>https://www.walkerplus.com/event/ar0726e416761/</link>
+      <guid isPermaLink="false">walker-kansai-movie:244e5a9bc3e4</guid>
+      <category>映画</category>
+      <pubDate>Sat, 07 Nov 2026 01:41:44 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 アニメ・ゲーム] 瑠璃光院の紅葉</title>
+      <link>https://www.walkerplus.com/event/ar0726e416761/</link>
+      <guid isPermaLink="false">walker-kansai-anime:244e5a9bc3e4</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sat, 07 Nov 2026 01:41:44 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: 青春38きっぷ（十九人・4000・無尽蔵）] 斉藤和義 ライブツアー2024「青春58きっぷ」〜Trio de Pon〜 セットリストまとめ - もとりょこblog -</title>
+      <link>https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oR0d4b0dYOExEODN5Tk85aFNZbVBSNnhBb0hKaGRYYVAyRVZsV1ItQk9JYnU1QWo1ZjNwTFpzejJxbHRsQXVpMC13?oc=5</link>
+      <guid isPermaLink="false">news-seishun38:df8fc12181bb</guid>
+      <category>お笑い</category>
+      <pubDate>Sat, 07 Nov 2026 01:41:44 +0900</pubDate>
+    </item>
+    <item>
+      <title>[京都国際マンガミュージアム] 京都文化博物館・不滅の力 永井豪展 との連動企画について</title>
+      <link>https://kyotomm.jp/news/bunnpaku_nagaigo_collabo/</link>
+      <guid isPermaLink="false">kyotomm:2f62f1098e0b</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sat, 07 Nov 2026 01:41:44 +0900</pubDate>
+    </item>
+    <item>
+      <title>[京都国際マンガミュージアム] 京都文化博物館・ジミー大西「ホームタウン」京都展 との連動企画について</title>
+      <link>https://kyotomm.jp/news/bunnpaku_jimmy-onishi_collabo/</link>
+      <guid isPermaLink="false">kyotomm:d8b646809ad0</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sat, 07 Nov 2026 01:41:44 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] ご当地ミャクミャク！日本ミャク景とは？47都道府県の新グッズ3冊の発売日・値段・購入先</title>
+      <link>https://happyell.co.jp/gotouchi-myakumyaku</link>
+      <guid isPermaLink="false">happyell:e1180176cb1e</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sat, 07 Nov 2026 01:41:44 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] 【横浜花博2027】開幕前から楽しめる！トゥンクトゥンクと巡る新体験が1月スタート</title>
+      <link>https://happyell.co.jp/greenexpo2027-green-tech-journey</link>
+      <guid isPermaLink="false">happyell:83fd76f08551</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sat, 07 Nov 2026 01:41:44 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] USJ『薬屋のひとりごと』2027年開幕！映画『亡妃の秘宝』と連動</title>
+      <link>https://happyell.co.jp/usj-kusuriyanohitorigoto2027</link>
+      <guid isPermaLink="false">happyell:f07a4a8d395d</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sat, 07 Nov 2026 01:41:44 +0900</pubDate>
+    </item>
+    <item>
+      <title>[映画.com 公開予定] 息子の鑑</title>
+      <link>https://eiga.com/movie/106867/</link>
+      <guid isPermaLink="false">eiga-coming:f88f3a11bb21</guid>
+      <category>映画</category>
+      <pubDate>Sat, 07 Nov 2026 01:41:44 +0900</pubDate>
+    </item>
+    <item>
+      <title>[出町座 イベント（舞台挨拶・トーク）] 2026. 11 . 15 ( 日 ) 【アフタートーク】『済州島 声たち』チョ･ジョンヒさん､ホ･ヨンソンさん､伊地知紀子さん 2026/11/15 日 ▶︎ 16:35- 作品上映 &gt; アフタートーク（19:10終了予定） 【アフタートーク】 登壇：チョ･ジョンヒさん（済州4･3研究所 研究員／『済州島 声たち』出演） ホ･ヨンソンさん（詩人／…</title>
+      <link>https://demachiza.com/event/20584</link>
+      <guid isPermaLink="false">demachiza-event:417611e584c1</guid>
+      <category>映画</category>
+      <pubDate>Sat, 07 Nov 2026 01:41:44 +0900</pubDate>
+    </item>
+    <item>
+      <title>[こみっく☆トレジャー（青ブーブー通信社）] こみっく☆トレジャー（青ブーブー通信社） のページが更新されました</title>
+      <link>https://aoboo.jp/</link>
+      <guid isPermaLink="false">aoboo-comitre:eba20cb0e114</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Sat, 07 Nov 2026 01:41:44 +0900</pubDate>
+    </item>
     <item>
       <title>[ウォーカープラス 関西 映画イベント] ウィークエンド・シネマ12月「NHKスペシャル ふたりの贖罪～日本とアメリカ・憎しみを越えて～」</title>
       <link>https://www.walkerplus.com/event/ar0727e622242/</link>
@@ -1677,55 +1761,6 @@
       <guid isPermaLink="false">demachiza-event:b73620bff1ef</guid>
       <category>映画</category>
       <pubDate>Sun, 01 Nov 2026 00:15:17 +0900</pubDate>
-    </item>
-    <item>
-      <title>[なんばグランド花月 お知らせ] 2026年10月30日 お詫び 10/30（金） ビスケットブラザーズ 休演のお知らせ</title>
-      <link>https://ngk.yoshimoto.co.jp/2026/10/1030.html</link>
-      <guid isPermaLink="false">ngk:a60c249cceda</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 31 Oct 2026 00:49:32 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 関西のホラー展示] この秋、関西で1番！？の没入型ホラー体験！『Re.Nova北山ハロウィンゾンビナイト2026』開催決定（PR TIMES） - 毎日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Hb1d0ZkJaQ1UwZGI1MFhZQjM0QUNsYVZjXzRualA0bUFpMTBkc2MwdjJ1OUdvVzN2bGVSdU10RDBMeVRZdEplaXBITFY4YWE4WUxwT01CYWJxMW1vX2ZzSERVOU8xX21o?oc=5</link>
-      <guid isPermaLink="false">news-horror-exhibit-kansai:b1e64e665684</guid>
-      <category>アート・展示</category>
-      <pubDate>Sat, 31 Oct 2026 00:49:32 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 関西のホラー展示] あまりの恐怖に「誓約書」が必要です 京都市左京区でハロウィーンの「ホラーイベント」開催へ - 京都新聞デジタル</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0QzlGdFVVcURTeEFZeW55N1lJakJhMnBvVzRBMWJuWHdkeUpGX2FzMUo2WFFmYVhnZGxXM3NFZTR1WUVaaU1iclVYbUw3TjJMaHU3Q3IxS0w?oc=5</link>
-      <guid isPermaLink="false">news-horror-exhibit-kansai:982a5c39dc4c</guid>
-      <category>アート・展示</category>
-      <pubDate>Sat, 31 Oct 2026 00:49:32 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 関西のホラー展示] 【レポート】京都・北山で5日間のハロウィンイベント開催！昼・夜で違った楽しみ方ができるホラーコンテンツを用意 - ｄメニューニュース</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPUE5ydTB6cDVfXzc4T2cxWEJucGVKWlBaSVJESDZOQWFIdm1PRmFPMUtNQXNLQVNZaTlUcG1GTUxXRFctRFZ1TnlYcTR5X2FBWW1fSmhIMXViZzVucXpjYjl0S21FRkloell3Z052Ym5xRkNhWnBUYnlWTTlBS1BVTWF0U3A1aHPSAYwBQVVfeXFMTWV4TlI1REU3eWNfQnlNYnRtX21VSjRFajdFcVBEQjRRQTBhQXNuVGFjMkJvdUhBSFZKN0FoTzhPVWhHTldTVHRBbG9MNjlPWGkwWHJWVGxGQWpVRWpOMWswd05MLUVock9ZRFZlVlpoWXQ0dHI4ZVFfM2E2MjJTanJ6eWVFc1hBRGFvMHE?oc=5</link>
-      <guid isPermaLink="false">news-horror-exhibit-kansai:c35efd4bfc5c</guid>
-      <category>アート・展示</category>
-      <pubDate>Sat, 31 Oct 2026 00:49:32 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 関西のエヴァンゲリオン展示・イベント] ひらかたパークで「エヴァンゲリオン」30周年記念展 設定資料やセル画など展示 - osaka style</title>
-      <link>https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwcDRJLXRTVEtiRW5LMmcxdWF0WTkwSjlELVAtLUFWTjd0NTI3NzRkeG9yUXFpOWxlMVlDbFppZkUwb1RSSHc?oc=5</link>
-      <guid isPermaLink="false">news-evangelion-kansai:1152c6ec90aa</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 31 Oct 2026 00:49:32 +0900</pubDate>
-    </item>
-    <item>
-      <title>[近鉄アート館] ［ハルカス寄席 １２月］</title>
-      <link>https://kintetsuartkan.jp/info/1199/</link>
-      <guid isPermaLink="false">kintetsu-artkan:18c265c10a4c</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 31 Oct 2026 00:49:32 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ハピエル（関西のアニメ展・マンガ展）] 【先行内覧会レポ】バイオハザード30周年展が渋谷で開幕！世界初の大型展覧会で歴代作品の恐怖を追体験！等身大のレオンや限定グルメも</title>
-      <link>https://happyell.co.jp/biohazard30th-exhibition2026</link>
-      <guid isPermaLink="false">happyell:95813354e62e</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 31 Oct 2026 00:49:32 +0900</pubDate>
     </item>
   </channel>
 </rss>
