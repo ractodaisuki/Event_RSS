@@ -1,7 +1,55 @@
 {
- "generated_at": "2026-11-11T01:57:55+09:00",
+ "generated_at": "2026-11-12T02:02:02+09:00",
  "days": 7,
  "items": [
+  {
+   "id": "news-horror-immersive-kansai:6ff797144adf",
+   "source": "news-horror-immersive-kansai",
+   "source_name": "ニュース: 関西の没入型ホラー・考察型謎解き",
+   "genre": "おでかけ",
+   "title": "この秋、関⻄で1番！？の没⼊型ホラー体験！『Re.Nova北⼭ハロウィンゾンビナイト2026』開催決定 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BWkdVMDBpaE9LX2VDdTNUczZCR2h6TUhHYzJwRjdBVk5Kcm0xOHNPYnRGUGxVQ3JQY1ZYdkRWbVZ1V3lIWU5EVEpMNy1zMmticHRTU2RjRy0xWlZBWVJXN2RjeG1TbURzUWc?oc=5",
+   "published": "2026-10-19T16:00:00+09:00",
+   "first_seen": "2026-11-12T02:02:02+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
+   "baseline": false
+  },
+  {
+   "id": "nanagei:fb8bba32e36a",
+   "source": "nanagei",
+   "source_name": "第七藝術劇場 上映作品・イベント",
+   "genre": "映画",
+   "title": "11/14(土)～ さよなら、私のロシア",
+   "url": "https://www.nanagei.com/mv/mv_n2227.html",
+   "published": null,
+   "first_seen": "2026-11-12T02:02:02+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
+   "baseline": false
+  },
+  {
+   "id": "happyell:02fe2204a835",
+   "source": "happyell",
+   "source_name": "ハピエル（関西のアニメ展・マンガ展）",
+   "genre": "アニメ・マンガ",
+   "title": "【USJ入場券完売】11月14日は来場者多数の予想によりチケット販売が終了",
+   "url": "https://happyell.co.jp/usj20261114",
+   "published": "2026-11-11T23:57:52+09:00",
+   "first_seen": "2026-11-12T02:02:02+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
+   "baseline": false
+  },
+  {
+   "id": "demachiza-event:6229efe6a038",
+   "source": "demachiza-event",
+   "source_name": "出町座 イベント（舞台挨拶・トーク）",
+   "genre": "映画",
+   "title": "2026. 11 . 20 ( 金 ) 〜 2026. 11 . 23 ( 月 ) 【イベント】『健康ちえのわトランポリン教室』 【アフタートーク】 11/21 土 ▶︎ 18:45-回 登壇：田野真悠さん（結依役）、香賀隆乃さん（先生役）、石川皓一監督 11/22 日 ▶︎ 18:45-回 登壇：雪だるまプロ（京都大学）の学生さん、石川皓一監督、宮沢大…",
+   "url": "https://demachiza.com/event/20607",
+   "published": null,
+   "first_seen": "2026-11-12T02:02:02+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
+   "baseline": false
+  },
   {
    "id": "walker-kansai-owarai:fa1dd4dae498",
    "source": "walker-kansai-owarai",
@@ -11,7 +59,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e608142/",
    "published": null,
    "first_seen": "2026-11-11T01:57:55+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -23,7 +71,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e614671/",
    "published": null,
    "first_seen": "2026-11-11T01:57:55+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -35,7 +83,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e608142/",
    "published": null,
    "first_seen": "2026-11-11T01:57:55+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -47,7 +95,7 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YN0RzWkkzM0ExNngta2xNN0FrSHM2Q2VtTk55bEZpZzRoVFRQbERjcmtaQWJIYVdoaEh3TnluaHhCWWlKNk01S18wMkpwUWNINXh4TkxuN2NpLVhOeGFn?oc=5",
    "published": "2026-11-10T18:28:21+09:00",
    "first_seen": "2026-11-11T01:57:55+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -59,7 +107,7 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52cWZ1TlhKRTQ0d0hBR3ZwMHdZLTVGRkszMzJqSmtNRTRZOUZ5aTZxMFdDWGdqSkNPRzJFOWtuNVZtTVAybGxLc0VndkNLNW1SZk5Z?oc=5",
    "published": "2026-11-10T15:25:00+09:00",
    "first_seen": "2026-11-11T01:57:55+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -71,7 +119,7 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12cWx1TXVod2U3OFpCUE1WdWNSUlJVNEo4T1BWY2M2TEUwRUZOQ0dHLWVBQnk2TjhuTjNFUHppR0JQdThsUXZkRXNsbUhoS0xiMzVNbjJBbGp0TGpUeGNrVXBXQ2JqMmhkOVZmdXBn?oc=5",
    "published": "2026-11-10T18:28:19+09:00",
    "first_seen": "2026-11-11T01:57:55+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -83,7 +131,7 @@
    "url": "https://www.nanagei.com/mv/mv_n2231.html",
    "published": null,
    "first_seen": "2026-11-11T01:57:55+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -95,7 +143,7 @@
    "url": "https://kyotomm.jp/news/kansaibunkanohi2026/",
    "published": "2026-11-10T14:00:15+09:00",
    "first_seen": "2026-11-11T01:57:55+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -107,7 +155,7 @@
    "url": "https://kyotomm.jp/news/portrait_december2026/",
    "published": "2026-11-10T13:00:32+09:00",
    "first_seen": "2026-11-11T01:57:55+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -119,7 +167,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17282/",
    "published": null,
    "first_seen": "2026-11-11T01:57:55+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -131,7 +179,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17281/",
    "published": null,
    "first_seen": "2026-11-11T01:57:55+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -143,7 +191,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17283/",
    "published": null,
    "first_seen": "2026-11-11T01:57:55+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -155,7 +203,7 @@
    "url": "https://eiga.com/movie/104264/",
    "published": null,
    "first_seen": "2026-11-11T01:57:55+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -191,7 +239,7 @@
    "url": "https://manzaigekijyo.yoshimoto.co.jp/2026/11/post-459.html",
    "published": null,
    "first_seen": "2026-11-10T04:43:29+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -203,7 +251,7 @@
    "url": "https://kyotomm.jp/news/20th-anniversary-events/",
    "published": "2026-11-09T15:58:31+09:00",
    "first_seen": "2026-11-10T04:43:29+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -215,7 +263,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17200/",
    "published": null,
    "first_seen": "2026-11-10T04:43:29+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -227,7 +275,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e622406/",
    "published": null,
    "first_seen": "2026-11-09T00:54:32+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -239,7 +287,7 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFZzUzLVZXTDM2dmZZSEdHVUQzWHhlTDFUa1RYaVFsWDlpeGNISTNEbFBHUm9vT2ducEllcnVZN2FsZDRTODZDWUZtenlERzlNeFhoZXBCVlYyWDlyRDhVdUstOA?oc=5",
    "published": "2026-11-06T19:00:00+09:00",
    "first_seen": "2026-11-09T00:54:32+09:00",
-   "last_seen": "2026-11-10T04:43:29+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -263,7 +311,7 @@
    "url": "https://happyell.co.jp/takuroexpo2026",
    "published": "2026-11-08T10:26:52+09:00",
    "first_seen": "2026-11-09T00:54:32+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -275,7 +323,7 @@
    "url": "https://www.hanjotei.jp/performances/night/65229/",
    "published": "2027-01-28T23:58:10+09:00",
    "first_seen": "2026-11-09T00:54:32+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -287,7 +335,7 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGaVA3UGxqck1BX2pKSFRxMEFtcGpjUEJBUDRQN0FTeUs5WWR1Z2ZCYTduRUc3c2xOZjZBWUI4S1R2Q1ZlLUphTXluNkZqNElGT2NvU2NORQ?oc=5",
    "published": "2026-11-07T10:12:21+09:00",
    "first_seen": "2026-11-08T00:36:42+09:00",
-   "last_seen": "2026-11-10T04:43:29+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -299,7 +347,7 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtT3Uwc3Iydk43bDlpVE8wNEM1NG5yVldKQUItam44cUdXbVNWeEJncmV6Vk5ub0FpbW9kUC0zWlVZR0VwSVpiRkctM2VBcW1XWWd6TVRJV2pwWE9OY2J0Z2JXQVZQYXBSZlE?oc=5",
    "published": "2026-11-06T19:00:01+09:00",
    "first_seen": "2026-11-08T00:36:42+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -323,7 +371,7 @@
    "url": "https://kintetsuartkan.jp/info/1228/",
    "published": null,
    "first_seen": "2026-11-08T00:36:42+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -335,7 +383,7 @@
    "url": "https://kintetsuartkan.jp/info/1182/",
    "published": null,
    "first_seen": "2026-11-08T00:36:42+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -347,7 +395,7 @@
    "url": "https://happyell.co.jp/greenexpo2027-parkandride",
    "published": "2026-11-07T10:49:29+09:00",
    "first_seen": "2026-11-08T00:36:42+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -359,7 +407,7 @@
    "url": "https://www.walkerplus.com/event/ar0726e416761/",
    "published": null,
    "first_seen": "2026-11-07T01:41:44+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -371,7 +419,7 @@
    "url": "https://www.walkerplus.com/event/ar0726e416761/",
    "published": null,
    "first_seen": "2026-11-07T01:41:44+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -383,7 +431,7 @@
    "url": "https://www.walkerplus.com/event/ar0726e416761/",
    "published": null,
    "first_seen": "2026-11-07T01:41:44+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -395,7 +443,7 @@
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oR0d4b0dYOExEODN5Tk85aFNZbVBSNnhBb0hKaGRYYVAyRVZsV1ItQk9JYnU1QWo1ZjNwTFpzejJxbHRsQXVpMC13?oc=5",
    "published": "2026-11-03T16:04:13+09:00",
    "first_seen": "2026-11-07T01:41:44+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -407,7 +455,7 @@
    "url": "https://kyotomm.jp/news/bunnpaku_nagaigo_collabo/",
    "published": "2026-11-06T11:21:17+09:00",
    "first_seen": "2026-11-07T01:41:44+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -419,7 +467,7 @@
    "url": "https://kyotomm.jp/news/bunnpaku_jimmy-onishi_collabo/",
    "published": "2026-11-06T11:25:03+09:00",
    "first_seen": "2026-11-07T01:41:44+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -431,7 +479,7 @@
    "url": "https://happyell.co.jp/gotouchi-myakumyaku",
    "published": "2026-11-06T12:07:00+09:00",
    "first_seen": "2026-11-07T01:41:44+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -443,7 +491,7 @@
    "url": "https://happyell.co.jp/greenexpo2027-green-tech-journey",
    "published": "2026-11-06T22:34:37+09:00",
    "first_seen": "2026-11-07T01:41:44+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -455,7 +503,7 @@
    "url": "https://happyell.co.jp/usj-kusuriyanohitorigoto2027",
    "published": "2026-11-06T19:16:43+09:00",
    "first_seen": "2026-11-07T01:41:44+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -467,7 +515,7 @@
    "url": "https://eiga.com/movie/106867/",
    "published": null,
    "first_seen": "2026-11-07T01:41:44+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -479,7 +527,7 @@
    "url": "https://demachiza.com/event/20584",
    "published": null,
    "first_seen": "2026-11-07T01:41:44+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -491,7 +539,7 @@
    "url": "https://aoboo.jp/",
    "published": null,
    "first_seen": "2026-11-07T01:41:44+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -503,7 +551,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e622242/",
    "published": null,
    "first_seen": "2026-11-06T02:18:49+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -515,7 +563,7 @@
    "url": "https://happyell.co.jp/space-museum-escape-osaka2026",
    "published": "2026-11-05T07:00:57+09:00",
    "first_seen": "2026-11-06T02:18:49+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -527,7 +575,7 @@
    "url": "https://eiga.com/movie/107334/",
    "published": null,
    "first_seen": "2026-11-06T02:18:49+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -539,7 +587,7 @@
    "url": "https://eiga.com/movie/107335/",
    "published": null,
    "first_seen": "2026-11-06T02:18:49+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -563,7 +611,7 @@
    "url": "https://eiga.com/movie/107333/",
    "published": null,
    "first_seen": "2026-11-06T02:18:49+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -575,7 +623,7 @@
    "url": "https://eiga.com/movie/107336/",
    "published": null,
    "first_seen": "2026-11-06T02:18:49+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -611,7 +659,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e621892/",
    "published": null,
    "first_seen": "2026-11-05T02:04:30+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -647,7 +695,7 @@
    "url": "https://www.nanagei.com/mv/mv_n2223.html",
    "published": null,
    "first_seen": "2026-11-05T02:04:30+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -659,7 +707,7 @@
    "url": "https://www.nanagei.com/mv/mv_n2228.html",
    "published": null,
    "first_seen": "2026-11-05T02:04:30+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -671,7 +719,7 @@
    "url": "https://www.nanagei.com/mv/mv_n2229.html",
    "published": null,
    "first_seen": "2026-11-05T02:04:30+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -683,7 +731,7 @@
    "url": "https://www.nanagei.com/mv/mv_n2230.html",
    "published": null,
    "first_seen": "2026-11-05T02:04:30+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -695,7 +743,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17245/",
    "published": null,
    "first_seen": "2026-11-05T02:04:30+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -707,7 +755,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17244/",
    "published": null,
    "first_seen": "2026-11-05T02:04:30+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -719,7 +767,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17252/",
    "published": null,
    "first_seen": "2026-11-05T02:04:30+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -731,7 +779,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17248/",
    "published": null,
    "first_seen": "2026-11-05T02:04:30+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -743,7 +791,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17249/",
    "published": null,
    "first_seen": "2026-11-05T02:04:30+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -755,7 +803,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17250/",
    "published": null,
    "first_seen": "2026-11-05T02:04:30+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   },
   {
@@ -767,7 +815,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17247/",
    "published": null,
    "first_seen": "2026-11-05T02:04:30+09:00",
-   "last_seen": "2026-11-11T01:57:55+09:00",
+   "last_seen": "2026-11-12T02:02:02+09:00",
    "baseline": false
   }
  ]
