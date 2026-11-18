@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-11-18T03:25:44+09:00",
+ "generated_at": "2026-11-19T02:56:40+09:00",
  "days": 7,
  "items": [
+  {
+   "id": "ngk:009bc0c4b848",
+   "source": "ngk",
+   "source_name": "なんばグランド花月 お知らせ",
+   "genre": "お笑い",
+   "title": "2026年11月18日 年末年始特別興行 販売情報",
+   "url": "https://ngk.yoshimoto.co.jp/2026/11/10.html",
+   "published": null,
+   "first_seen": "2026-11-19T02:56:40+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
+   "baseline": false
+  },
+  {
+   "id": "news-evangelion-kansai:0a28b80ffd0a",
+   "source": "news-evangelion-kansai",
+   "source_name": "ニュース: 関西のエヴァンゲリオン展示・イベント",
+   "genre": "アニメ・マンガ",
+   "title": "【大阪】『エヴァンゲリオン』前田真宏氏が描いた巨大壁面画、ひらパーで初公開へ 「30周年記念展」追加情報 - オリコンニュース",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rWkVxekZkVHRkVnpvbVhlaGJlN2c5YmtNbTdTQVE5ZFNuczczb21ZYTBveDdWa0h0MUEyVnJtNFROY1hxUXowdGdWRW41bGNKYXZqYktB?oc=5",
+   "published": "2026-11-18T16:26:00+09:00",
+   "first_seen": "2026-11-19T02:56:40+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
+   "baseline": false
+  },
+  {
+   "id": "kirakukan:28ac413a8228",
+   "source": "kirakukan",
+   "source_name": "神戸新開地・喜楽館 公演",
+   "genre": "お笑い",
+   "title": "吉弥うぇ～ぶ じゃにゅありー 桂 吉弥 桂 弥太郎 桂 弥っこ 桂 弥壱 ※11/11（水）12：00より「チケットぴあ」でのチケット発売開始！ 開演：10時（開場9時30分） 料金：前売 2,000円 当日 2,300円 席種：指定席 お問い合わせ先：吉弥うぇ～ぶ事務局（さかいひろこworks内）（080-6675-3949）平日10:00～17:30 留守電対応の場合あり。 注意事項・その他： ※ 未就学児童の入場はご遠慮ください。 ※ 車椅子の方は事前にお知らせください。 神戸新開地・喜楽館にお越し下さるお客様へのお知らせとお願い（https://kobe-kirakukan.jp/ne",
+   "url": "https://kobe-kirakukan.jp/performances/17335/",
+   "published": null,
+   "first_seen": "2026-11-19T02:56:40+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
+   "baseline": false
+  },
+  {
+   "id": "kirakukan:30248f03c1a4",
+   "source": "kirakukan",
+   "source_name": "神戸新開地・喜楽館 公演",
+   "genre": "お笑い",
+   "title": "吉弥×由瓶 ふたり会 2027 桂 吉弥（2席） 笑福亭 由瓶（2席） 桂 源太（開口一番） ※11/22（日）12時よりチケット発売開始！！ 開演：18 時00分（開場17時30分） 料金：前売 3,000円 当日 3,500円 座種：自由席（整理番号あり） 予約・お問い合わせ先：由瓶落語会事務局(090-5167-2665） 注意事項・その他： ※ 未就学児童の入場はご遠慮ください。 ※ 車椅子の方は事前にお知らせください。 神戸新開地・喜楽館にお越し下さるお客様へのお知らせとお願い（https://kobe-kirakukan.jp/news/857/）",
+   "url": "https://kobe-kirakukan.jp/performances/17327/",
+   "published": null,
+   "first_seen": "2026-11-19T02:56:40+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
+   "baseline": false
+  },
+  {
+   "id": "demachiza-event:7d0ca1f477a0",
+   "source": "demachiza-event",
+   "source_name": "出町座 イベント（舞台挨拶・トーク）",
+   "genre": "映画",
+   "title": "2026. 12 . 4 ( 金 ) 〜 2026. 12 . 6 ( 日 ) 【舞台挨拶】『長浜』 【舞台挨拶】*上映は連日 ▶︎ 12:15- 12/4 金 谷口未央監督 12/5 土 岩井小紫さん（歌舞伎振付師/本作出演）、谷口未央監督 12/6 日 瑛蓮さん（本作出演）、谷口未央監督 *本編上映後に舞台挨…",
+   "url": "https://demachiza.com/event/20612",
+   "published": null,
+   "first_seen": "2026-11-19T02:56:40+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
+   "baseline": false
+  },
   {
    "id": "walker-kansai-owarai:c82aa480ce0a",
    "source": "walker-kansai-owarai",
@@ -11,7 +71,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e20240/",
    "published": null,
    "first_seen": "2026-11-17T04:29:45+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -35,7 +95,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e20240/",
    "published": null,
    "first_seen": "2026-11-17T04:29:45+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -71,7 +131,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e20240/",
    "published": null,
    "first_seen": "2026-11-17T04:29:45+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -95,7 +155,7 @@
    "url": "https://ngk.yoshimoto.co.jp/2026/11/1114-14-1.html",
    "published": null,
    "first_seen": "2026-11-17T04:29:45+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -107,7 +167,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZeWxseWhyOUtmQnNnTVBSNG5KTWszZTZEM2IzdFdrWnJvYS0tZU5yYzFiekh2UDVCZ1h4a2pTVkxBWkxuTmhveTZFV0xNWGtxSmVEa3NPX09CdHo1Ujk0c0pXOWVENk5sQmZnelZ2RXFzWlVkWVRSZjV6TzlwMkE?oc=5",
    "published": "2026-11-16T11:09:00+09:00",
    "first_seen": "2026-11-17T04:29:45+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -119,7 +179,7 @@
    "url": "https://kyotomm.jp/news/20th-posters-and-flyers/",
    "published": "2026-11-16T11:30:47+09:00",
    "first_seen": "2026-11-17T04:29:45+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -131,7 +191,7 @@
    "url": "https://happyell.co.jp/lucua-south-open2026",
    "published": "2026-11-16T07:01:49+09:00",
    "first_seen": "2026-11-17T04:29:45+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -143,7 +203,7 @@
    "url": "https://happyell.co.jp/ishiguro-future-of-life2026",
    "published": "2026-11-16T08:42:20+09:00",
    "first_seen": "2026-11-17T04:29:45+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -155,7 +215,7 @@
    "url": "https://gengaten.info/2026/10/11203/",
    "published": null,
    "first_seen": "2026-11-17T04:29:45+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -167,7 +227,7 @@
    "url": "https://demachiza.com/event/20615",
    "published": null,
    "first_seen": "2026-11-17T04:29:45+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -179,7 +239,7 @@
    "url": "https://demachiza.com/event/20621",
    "published": null,
    "first_seen": "2026-11-17T04:29:45+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -203,7 +263,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e613246/",
    "published": null,
    "first_seen": "2026-11-16T01:15:36+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -239,7 +299,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17315/",
    "published": null,
    "first_seen": "2026-11-16T01:15:36+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -299,7 +359,7 @@
    "url": "https://ngk.yoshimoto.co.jp/2026/11/1114-14.html",
    "published": null,
    "first_seen": "2026-11-15T00:43:39+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -311,7 +371,7 @@
    "url": "http://www.nanagei.com/mv/mv_n2217.html",
    "published": null,
    "first_seen": "2026-11-15T00:43:39+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -323,7 +383,7 @@
    "url": "http://www.nanagei.com/mv/mv_n2224.html",
    "published": null,
    "first_seen": "2026-11-15T00:43:39+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -335,7 +395,7 @@
    "url": "https://kyotomm.jp/news/thankyou_chibatetsuya/",
    "published": "2026-11-14T11:44:28+09:00",
    "first_seen": "2026-11-15T00:43:39+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -347,7 +407,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17201/",
    "published": null,
    "first_seen": "2026-11-15T00:43:39+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -359,7 +419,7 @@
    "url": "https://happyell.co.jp/monster-hunter-now-carnival2026osaka",
    "published": "2026-11-14T19:22:08+09:00",
    "first_seen": "2026-11-15T00:43:39+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -371,7 +431,7 @@
    "url": "https://happyell.co.jp/kyoto-botanical-nightgarden2026report",
    "published": "2026-11-14T21:32:38+09:00",
    "first_seen": "2026-11-15T00:43:39+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -383,7 +443,7 @@
    "url": "https://www.walkerplus.com/event/ar0727e623232/",
    "published": null,
    "first_seen": "2026-11-14T02:07:18+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -395,7 +455,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvc3lwbDEybEVqZVZYRWNlMkJtVUJTRjdFX3g1TlBYOVFrSXVkSzFmQjlQNnlFanY4aGJiX2FwVlYzY1FLX2pVS0ZnaDE2aC04VVYwY1VpcFByRklqNXBzU216M041dWV5bEt4Zy10VklPbG42bVVXU05tdUtmekU?oc=5",
    "published": "2026-11-11T19:53:11+09:00",
    "first_seen": "2026-11-14T02:07:18+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -407,7 +467,7 @@
    "url": "https://happyell.co.jp/lito-leafart-umeda2026",
    "published": "2026-11-13T23:36:57+09:00",
    "first_seen": "2026-11-14T02:07:18+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -419,7 +479,7 @@
    "url": "https://www.hanjotei.jp/performances/night/65435/",
    "published": "2027-01-29T23:58:53+09:00",
    "first_seen": "2026-11-14T02:07:18+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -431,7 +491,7 @@
    "url": "https://eiga.com/movie/107358/",
    "published": null,
    "first_seen": "2026-11-14T02:07:18+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -443,7 +503,7 @@
    "url": "https://www.walkerplus.com/event/ar0726e622611/",
    "published": null,
    "first_seen": "2026-11-13T02:30:27+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -479,7 +539,7 @@
    "url": "https://kobe-kirakukan.jp/performances/17268/",
    "published": null,
    "first_seen": "2026-11-13T02:30:27+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -491,7 +551,7 @@
    "url": "https://happyell.co.jp/gundam-osaka",
    "published": "2026-11-12T11:32:37+09:00",
    "first_seen": "2026-11-13T02:30:27+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   },
   {
@@ -503,55 +563,7 @@
    "url": "https://eiga.com/movie/107359/",
    "published": null,
    "first_seen": "2026-11-13T02:30:27+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
-   "baseline": false
-  },
-  {
-   "id": "news-horror-immersive-kansai:6ff797144adf",
-   "source": "news-horror-immersive-kansai",
-   "source_name": "ニュース: 関西の没入型ホラー・考察型謎解き",
-   "genre": "おでかけ",
-   "title": "この秋、関⻄で1番！？の没⼊型ホラー体験！『Re.Nova北⼭ハロウィンゾンビナイト2026』開催決定 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BWkdVMDBpaE9LX2VDdTNUczZCR2h6TUhHYzJwRjdBVk5Kcm0xOHNPYnRGUGxVQ3JQY1ZYdkRWbVZ1V3lIWU5EVEpMNy1zMmticHRTU2RjRy0xWlZBWVJXN2RjeG1TbURzUWc?oc=5",
-   "published": "2026-10-19T16:00:00+09:00",
-   "first_seen": "2026-11-12T02:02:02+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
-   "baseline": false
-  },
-  {
-   "id": "nanagei:fb8bba32e36a",
-   "source": "nanagei",
-   "source_name": "第七藝術劇場 上映作品・イベント",
-   "genre": "映画",
-   "title": "11/14(土)～ さよなら、私のロシア",
-   "url": "https://www.nanagei.com/mv/mv_n2227.html",
-   "published": null,
-   "first_seen": "2026-11-12T02:02:02+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
-   "baseline": false
-  },
-  {
-   "id": "happyell:02fe2204a835",
-   "source": "happyell",
-   "source_name": "ハピエル（関西のアニメ展・マンガ展）",
-   "genre": "アニメ・マンガ",
-   "title": "【USJ入場券完売】11月14日は来場者多数の予想によりチケット販売が終了",
-   "url": "https://happyell.co.jp/usj20261114",
-   "published": "2026-11-11T23:57:52+09:00",
-   "first_seen": "2026-11-12T02:02:02+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
-   "baseline": false
-  },
-  {
-   "id": "demachiza-event:6229efe6a038",
-   "source": "demachiza-event",
-   "source_name": "出町座 イベント（舞台挨拶・トーク）",
-   "genre": "映画",
-   "title": "2026. 11 . 20 ( 金 ) 〜 2026. 11 . 23 ( 月 ) 【イベント】『健康ちえのわトランポリン教室』 【アフタートーク】 11/21 土 ▶︎ 18:45-回 登壇：田野真悠さん（結依役）、香賀隆乃さん（先生役）、石川皓一監督 11/22 日 ▶︎ 18:45-回 登壇：雪だるまプロ（京都大学）の学生さん、石川皓一監督、宮沢大…",
-   "url": "https://demachiza.com/event/20607",
-   "published": null,
-   "first_seen": "2026-11-12T02:02:02+09:00",
-   "last_seen": "2026-11-18T03:25:44+09:00",
+   "last_seen": "2026-11-19T02:56:40+09:00",
    "baseline": false
   }
  ]
