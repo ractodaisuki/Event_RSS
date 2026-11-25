@@ -4,7 +4,91 @@
     <title>関西イベント新着（Event_RSS）</title>
     <link>https://github.com/ractodaisuki/Event_RSS</link>
     <description>関西のアニメ・お笑い・映画などの情報源から、新しく見つかった項目</description>
-    <lastBuildDate>Wed, 25 Nov 2026 05:05:30 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:07:39 +0900</lastBuildDate>
+    <item>
+      <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] 泉州地域で伝統文化が鑑賞できる。</title>
+      <link>https://www.walkerplus.com/event/ar0727e621361/</link>
+      <guid isPermaLink="false">walker-kansai-owarai:668fc083b757</guid>
+      <category>お笑い</category>
+      <pubDate>Thu, 26 Nov 2026 04:07:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] ガチャガチャ展 in 大阪</title>
+      <link>https://www.walkerplus.com/event/ar0727e620734/</link>
+      <guid isPermaLink="false">walker-kansai-owarai:cdf7587a6147</guid>
+      <category>お笑い</category>
+      <pubDate>Thu, 26 Nov 2026 04:07:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 映画イベント] ガチャガチャ展 in 大阪</title>
+      <link>https://www.walkerplus.com/event/ar0727e620734/</link>
+      <guid isPermaLink="false">walker-kansai-movie:cdf7587a6147</guid>
+      <category>映画</category>
+      <pubDate>Thu, 26 Nov 2026 04:07:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 アニメ・ゲーム] ガチャガチャ展 in 大阪</title>
+      <link>https://www.walkerplus.com/event/ar0727e620734/</link>
+      <guid isPermaLink="false">walker-kansai-anime:cdf7587a6147</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Thu, 26 Nov 2026 04:07:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[なんばグランド花月 お知らせ] 2026年11月24日 12月1日(火)～7日(月) 年末ジャンボ 吉本新喜劇オリジナル公演</title>
+      <link>https://ngk.yoshimoto.co.jp/2026/11/1217.html</link>
+      <guid isPermaLink="false">ngk:3bcc8b217f5f</guid>
+      <category>お笑い</category>
+      <pubDate>Thu, 26 Nov 2026 04:07:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: 関西のエヴァンゲリオン展示・イベント] エヴァインフォ公式イベントレポート「新EVANGELION STORE OSAKAレポート！」 - エヴァ・インフォメーション</title>
+      <link>https://news.google.com/rss/articles/CBMiQ0FVX3lxTE83TE8zV0xCSGF0YTFZQUZoY1ZHQWgyWVlWZjBIVEpWQmk3YnNJX0VCYUdPSDJYV0ZnUGtZWWlRenJCc3M?oc=5</link>
+      <guid isPermaLink="false">news-evangelion-kansai:a6c67c152beb</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Thu, 26 Nov 2026 04:07:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: 関西のエヴァンゲリオン展示・イベント] 【大阪】『エヴァンゲリオン』前田真宏氏が描いた巨大壁面画、ひらパーで初公開へ 「30周年記念展」追加情報 - 山陽新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RU0lkS2dnd2tXZlFNQmxLaXNZdUpwU2MyV3hKWmk2U3dxeEZOajgybU00eWlQbzhhb0tWSFQwWWFGeGhxbTBMbVpvMnhtQ3ZLcXc?oc=5</link>
+      <guid isPermaLink="false">news-evangelion-kansai:9e1017af8524</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Thu, 26 Nov 2026 04:07:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: 関西のエヴァンゲリオン展示・イベント] 30周年記念展「ALL OF EVANGELION」開催記念！叡山電車にてコラボ車両・パネルが登場＆スタンプラリーで沿線を巡ろう！ - エヴァ・インフォメーション</title>
+      <link>https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0wcEdLZXF3M1BOQjNNRWVoMTQ2MGFORzY3M19DMkt5V0h6OU9wN2J1QUdwcGp1dDJwYy05SW9Va1p4Z2c?oc=5</link>
+      <guid isPermaLink="false">news-evangelion-kansai:ef4f80671a0b</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Thu, 26 Nov 2026 04:07:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] 「ハリー・ポッター マホウドコロ」がLUCUA SOUTHにオープン！魔法の世界を体感できる新店舗</title>
+      <link>https://happyell.co.jp/harrypotter-mahoudokoro-osaka</link>
+      <guid isPermaLink="false">happyell:8cdf4d8e8812</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Thu, 26 Nov 2026 04:07:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] 「スター・ウォーズ」オフィシャルストアの常設店がルクア サウスに！大阪限定グッズや店内をレポート</title>
+      <link>https://happyell.co.jp/starwars-store-osaka</link>
+      <guid isPermaLink="false">happyell:efddc5afac96</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Thu, 26 Nov 2026 04:07:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] ULTRAMAN STORE OSAKA ルクア サウス店へ！新規製作のウルトラマン立像と映像体験を内覧会レポ</title>
+      <link>https://happyell.co.jp/ultraman-store-osaka</link>
+      <guid isPermaLink="false">happyell:175c69c4e47b</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Thu, 26 Nov 2026 04:07:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[映画.com 公開予定] タイソン・フューリー</title>
+      <link>https://eiga.com/movie/107447/</link>
+      <guid isPermaLink="false">eiga-coming:0f7fd0202ad7</guid>
+      <category>映画</category>
+      <pubDate>Thu, 26 Nov 2026 04:07:39 +0900</pubDate>
+    </item>
     <item>
       <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] 蟹 食べ放題と冬のご馳走フェア</title>
       <link>https://www.walkerplus.com/event/ar0728e614234/</link>
@@ -599,41 +683,6 @@
       <guid isPermaLink="false">happyell:921277d0f089</guid>
       <category>アニメ・マンガ</category>
       <pubDate>Fri, 20 Nov 2026 03:09:51 +0900</pubDate>
-    </item>
-    <item>
-      <title>[なんばグランド花月 お知らせ] 2026年11月18日 年末年始特別興行 販売情報</title>
-      <link>https://ngk.yoshimoto.co.jp/2026/11/10.html</link>
-      <guid isPermaLink="false">ngk:009bc0c4b848</guid>
-      <category>お笑い</category>
-      <pubDate>Thu, 19 Nov 2026 02:56:40 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 関西のエヴァンゲリオン展示・イベント] 【大阪】『エヴァンゲリオン』前田真宏氏が描いた巨大壁面画、ひらパーで初公開へ 「30周年記念展」追加情報 - オリコンニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rWkVxekZkVHRkVnpvbVhlaGJlN2c5YmtNbTdTQVE5ZFNuczczb21ZYTBveDdWa0h0MUEyVnJtNFROY1hxUXowdGdWRW41bGNKYXZqYktB?oc=5</link>
-      <guid isPermaLink="false">news-evangelion-kansai:0a28b80ffd0a</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Thu, 19 Nov 2026 02:56:40 +0900</pubDate>
-    </item>
-    <item>
-      <title>[神戸新開地・喜楽館 公演] 吉弥うぇ～ぶ じゃにゅありー 桂 吉弥 桂 弥太郎 桂 弥っこ 桂 弥壱 ※11/11（水）12：00より「チケットぴあ」でのチケット発売開始！ 開演：10時（開場9時30分） 料金：前売 2,000円 当日 2,300円 席種：指定席 お問い合わせ先：吉弥うぇ～ぶ事務局（さかいひろこworks内）（080-6675-3949）平日10:00～17:30 留守電対応の場合あり。 注意事項・その他： ※ 未就学児童の入場はご遠慮ください。 ※ 車椅子の方は事前にお知らせください。 神戸新開地・喜楽館にお越し下さるお客様へのお知らせとお願い（https://kobe-kirakukan.jp/ne</title>
-      <link>https://kobe-kirakukan.jp/performances/17335/</link>
-      <guid isPermaLink="false">kirakukan:28ac413a8228</guid>
-      <category>お笑い</category>
-      <pubDate>Thu, 19 Nov 2026 02:56:40 +0900</pubDate>
-    </item>
-    <item>
-      <title>[神戸新開地・喜楽館 公演] 吉弥×由瓶 ふたり会 2027 桂 吉弥（2席） 笑福亭 由瓶（2席） 桂 源太（開口一番） ※11/22（日）12時よりチケット発売開始！！ 開演：18 時00分（開場17時30分） 料金：前売 3,000円 当日 3,500円 座種：自由席（整理番号あり） 予約・お問い合わせ先：由瓶落語会事務局(090-5167-2665） 注意事項・その他： ※ 未就学児童の入場はご遠慮ください。 ※ 車椅子の方は事前にお知らせください。 神戸新開地・喜楽館にお越し下さるお客様へのお知らせとお願い（https://kobe-kirakukan.jp/news/857/）</title>
-      <link>https://kobe-kirakukan.jp/performances/17327/</link>
-      <guid isPermaLink="false">kirakukan:30248f03c1a4</guid>
-      <category>お笑い</category>
-      <pubDate>Thu, 19 Nov 2026 02:56:40 +0900</pubDate>
-    </item>
-    <item>
-      <title>[出町座 イベント（舞台挨拶・トーク）] 2026. 12 . 4 ( 金 ) 〜 2026. 12 . 6 ( 日 ) 【舞台挨拶】『長浜』 【舞台挨拶】*上映は連日 ▶︎ 12:15- 12/4 金 谷口未央監督 12/5 土 岩井小紫さん（歌舞伎振付師/本作出演）、谷口未央監督 12/6 日 瑛蓮さん（本作出演）、谷口未央監督 *本編上映後に舞台挨…</title>
-      <link>https://demachiza.com/event/20612</link>
-      <guid isPermaLink="false">demachiza-event:7d0ca1f477a0</guid>
-      <category>映画</category>
-      <pubDate>Thu, 19 Nov 2026 02:56:40 +0900</pubDate>
     </item>
   </channel>
 </rss>
