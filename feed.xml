@@ -4,7 +4,112 @@
     <title>関西イベント新着（Event_RSS）</title>
     <link>https://github.com/ractodaisuki/Event_RSS</link>
     <description>関西のアニメ・お笑い・映画などの情報源から、新しく見つかった項目</description>
-    <lastBuildDate>Thu, 26 Nov 2026 04:07:39 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:56:39 +0900</lastBuildDate>
+    <item>
+      <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] 記憶汚染展(大阪)</title>
+      <link>https://www.walkerplus.com/event/ar0727e619806/</link>
+      <guid isPermaLink="false">walker-kansai-owarai:3744fdb37399</guid>
+      <category>お笑い</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 映画イベント] 記憶汚染展(大阪)</title>
+      <link>https://www.walkerplus.com/event/ar0727e619806/</link>
+      <guid isPermaLink="false">walker-kansai-movie:3744fdb37399</guid>
+      <category>映画</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ウォーカープラス 関西 アニメ・ゲーム] 記憶汚染展(大阪)</title>
+      <link>https://www.walkerplus.com/event/ar0727e619806/</link>
+      <guid isPermaLink="false">walker-kansai-anime:3744fdb37399</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: 十九人 の公演] ビスケットブラザーズ、キングオブコント優勝後の苦難を告白！凱旋ライブの観客はわずか19人!? - エンタのおはなし</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1dXhoMGowRnc2N2gtVlBIeG1qVmxBMmRrMmREV2J1X2NrMmMySlo0UnBudzVfMlhwWU1sdnNrT3NZN0xTWG9iODJ3Yw?oc=5</link>
+      <guid isPermaLink="false">news-jukyunin-live:5cf3fe86147a</guid>
+      <category>お笑い</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: 関西のエヴァンゲリオン展示・イベント] 好評開催中の30周年記念展「ALL OF EVANGELION」大阪会場に追加情報！前田真宏氏の巨大壁面画初公開＆松原秀典氏在廊ドローイング作品のグッズを新たに発売 - Infoseek</title>
+      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PYm1CSVFJQmZZQ2Jfb19wa2JOdzIyMUNRc3g0bWVPZUlOWk5QV2VkXzJZWFg3LUZPU21ud0lUMldWZ09XcDFUNGlxNnlQUjBnSGRORm01MVphbmN5UEx2ZA?oc=5</link>
+      <guid isPermaLink="false">news-evangelion-kansai:f06fb13ded74</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: 関西のエヴァンゲリオン展示・イベント] エヴァ30周年記念展「ALL OF - ニコニコニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hNk1nMVRuN1hSbEhZSTJEbGUyYTdsaDVfcVBvOU93QXNNMVFBZ2Y3T1ZwaEU1RTczNWlrUFcwOFN5dWFwM3NhRGYxRjlOSkN1NkpwWQ?oc=5</link>
+      <guid isPermaLink="false">news-evangelion-kansai:26e52c3f1c1a</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: ダウ90000 の公演] １２・１１「タイタンライブ」キンタロー。が初出演 や団、ダウ９００００、ストレッチーズもゲスト - 東スポWEB</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KZTdFWWtVb01tNzAydk9YYjlMTVFoeXZlVnVnZWhRYjRjTEhoNVg1QU9vdDV5R1ZuZ3RNbXJyTmRfMGhDbXJiM0p2VVo4Q2N3Z2ZGSnRsN2FRZ0ht?oc=5</link>
+      <guid isPermaLink="false">news-daw90000-live:24644b5a616a</guid>
+      <category>お笑い</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: ダウ90000 の公演] １２・１１「タイタンライブ」キンタロー。が初出演 や団、ダウ９００００、ストレッチーズもゲスト - Infoseek</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFA1ZmMzWVZ3ZGxtN3pwWEVlejJzbFJrMlpmRmZyS0FVcmxSbE1NWGVSWjVpMGNVUWkycm5BUnBLdExCLUx0SW16VkN3Wlg3TnJHZ1ctcVJrMUV2U1RWMEhUbi12TWZzQlpFZm03dlpKa9IBdEFVX3lxTE81b1NPQ1NsVXozYzBYakYxclFvNmFYbVoycUlJN3RPS1FJcEhjdllxUVFSTHMySmxIYmV4N1pieklMcWU1Y0Z6N0tQVTlnUlRxYzltMnRtbFlBX0YtbldQZ09wUllwUTlFblBCaHNaOTNyS3hJ?oc=5</link>
+      <guid isPermaLink="false">news-daw90000-live:cf977af34a7b</guid>
+      <category>お笑い</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: ダウ90000 の公演] １２・１１「タイタンライブ」キンタロー。が初出演 や団、ダウ９００００、ストレッチーズもゲスト (東スポWEB) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1ZKMG16VnBwWEc2cnFWNmp2aUxFSXIyYWNIUVJSXzZrWXhRODE1bHFYQ0s0Q0lIa2MzWTFUTHJQb1ltcURBUXR2dGxCZEp1QlNCNzd6bTExTE5rZ0QtMnZkbDNGR0JDZW1wMWpmMkJ6WDJwS2duSnBYdVBQU1kyR2hFNW0tVkJlS2hLR0ln?oc=5</link>
+      <guid isPermaLink="false">news-daw90000-live:cb386f6df338</guid>
+      <category>お笑い</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: ダウ90000 の公演] 「タイタンライブ」キンタロー。とや団が初出演 ダウ90000とストレッチーズもゲスト（お笑いナタリー） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBYZmMyejFoYWtleHBwX0xyamMySWsxM2swaFBNTGJ6Ym9iS21Kc3VPMkZYVThDVVVHODRWNjNRX3NsblU0ejJ3LUpLV3M3NGUtc180U1VDeXcyYWlZekJSUVg0QWRfVzNSbDkyejcwUmMyOWl1Y3pYak5tZEpkTUE?oc=5</link>
+      <guid isPermaLink="false">news-daw90000-live:8e881e7bae8e</guid>
+      <category>お笑い</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: ダウ90000 の公演] 「タイタンライブ」キンタロー。とや団が初出演 ダウ90000とストレッチーズもゲスト (お笑いナタリー) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOZEUteldkejlqekI5UG00UzZsY0hMbDluRVdaY3daMFFfYk04RU5semVaVDBWNTRDN3AtaFh5YlNRQWduQnJWckdOX00zcVR4ZDVfaG45WTFWa3QxdXowSXkwVHJJUE1ZbHVDeUdSTjdaVVlnZGpnZUZDd2M5N05QZ2ZGRjBaRXFEZW5ySmF3?oc=5</link>
+      <guid isPermaLink="false">news-daw90000-live:ec3e351560cf</guid>
+      <category>お笑い</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: ダウ90000 の公演] 12・11タイタンライブ や団とキンタロー。が初登場 ダウ90000、ストレッチーズも - 日刊スポーツ</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE85SWFVdW1zTWZIaWVFbzl0RzJBUkpHd29LSFpHaklldjg0MnI4bDhvOW9ZaVZ6M0tpUnpZdy11SFdRUUY1VW1aWmptZFFERWdHN1NucG40VTVRVEw3cGpMUGFlRS12bjhsNG1mSWV2R1YyNzlXMUtv0gF_QVVfeXFMTzJfNjRsdE16YnVoWF9yTlVERzdMcEw1aWZGMU92bHhhRVk1WjFqckpYUzR5Q3VtOE0wZDBGZmQzX3dNYlAwT213ak96cXJlRmJTeWU2WnhBRjkyeG1EU2lsN3lNb0NPSUQ1S1dWYnRweEVzWFhjdkpJeG5oUnRNcw?oc=5</link>
+      <guid isPermaLink="false">news-daw90000-live:fa2dda051351</guid>
+      <category>お笑い</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[よしもと漫才劇場 お知らせ] 2026年11月26日 【公演順入れ替え・公演時間変更のお知らせ】1/27(水)『漫才劇場ワンナイトツー...</title>
+      <link>https://manzaigekijyo.yoshimoto.co.jp/2026/11/127-1.html</link>
+      <guid isPermaLink="false">manzaigekijyo:66255bbfd47c</guid>
+      <category>お笑い</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] 大阪限定ガンダムグッズに注目！STRICT-G ルクアサウス店の内覧会レポート</title>
+      <link>https://happyell.co.jp/strict-g-lucua-osaka2026</link>
+      <guid isPermaLink="false">happyell:d9a5d2e9fa4a</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ハピエル（関西のアニメ展・マンガ展）] 【神戸須磨シーワールド】ひかりのスマシー2026を先行体験！スマホが光るイルカショーや幻想的な夜の水族館へ</title>
+      <link>https://happyell.co.jp/sumasea-christmas2026</link>
+      <guid isPermaLink="false">happyell:4ab53db062a8</guid>
+      <category>アニメ・マンガ</category>
+      <pubDate>Fri, 27 Nov 2026 03:56:39 +0900</pubDate>
+    </item>
     <item>
       <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] 泉州地域で伝統文化が鑑賞できる。</title>
       <link>https://www.walkerplus.com/event/ar0727e621361/</link>
@@ -620,69 +725,6 @@
       <guid isPermaLink="false">happyell:716e0a1edf59</guid>
       <category>アニメ・マンガ</category>
       <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 関西のエヴァンゲリオン展示・イベント] 30周年記念展「ALL OF EVANGELION」大阪会場に追加情報！前田真宏氏の巨大壁面画初公開＆ 松原秀典氏在廊ドローイング作品のグッズを新たに発売！ - エヴァ・インフォメーション</title>
-      <link>https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB0MDB6ci1lVzdBNWRmUnd5N3ppVXVjWjdlblFqbGhmTDhsYktrUGpjVmdQUnNhbmd2NU1FMl9kel9mZ28?oc=5</link>
-      <guid isPermaLink="false">news-evangelion-kansai:ab16ba129b09</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Fri, 20 Nov 2026 03:09:51 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: ダウ90000 の公演] １２・１１「タイタンライブ」キンタロー。が初出演 や団、ダウ９００００、ストレッチーズもゲスト（東スポWEB） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1Yam5PTEFSdjBxNmllM3NzSEJKQ1NFV3RiSnRaa1M5MDc3c2pEelFHVk1yVlFMSjlOdkFXZk5tSmt5cUg5SmM4czYwb29yTExpSlVKT0NlRlNHZUxDc2ZPMU5BQXhYQ3hNWVBpTmU3aWNzbndTTWhoWDNEYVBQdEE?oc=5</link>
-      <guid isPermaLink="false">news-daw90000-live:9810527b79cb</guid>
-      <category>お笑い</category>
-      <pubDate>Fri, 20 Nov 2026 03:09:51 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: ダウ90000 の公演] １２・１１「タイタンライブ」キンタロー。が初出演 や団、ダウ９００００、ストレッチーズもゲスト - Excite エキサイト</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9fRk80Tk5MX3ZpMks1Y0RPQnJDRFFodk5MU1ZXM3JoQXN6dVozTE15RzhidWd0V1FmTmd5TGpKV3NIMnNiS2FxZzE4TXpoUElIOWNOaDBxVzVBUFFWQnJ1RVdjMHd3Y0dVblRna3ktNDhMRzZBekNONQ?oc=5</link>
-      <guid isPermaLink="false">news-daw90000-live:e3248e61e91d</guid>
-      <category>お笑い</category>
-      <pubDate>Fri, 20 Nov 2026 03:09:51 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: ダウ90000 の公演] １２・１１「タイタンライブ」キンタロー。が初出演 や団、ダウ９００００、ストレッチーズもゲスト (2026年11月19日掲載) - ライブドアニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE01dTV1RWZNWU91VEJ5emJub1RwbkFZN3J6bHR1bHh0S253MmI2bjJMYlVrQnVBaXRKN1hESUdwN3VlZEtERGtoNDhiNUw4VzlIYUVNNk8zQWRmcFBHRHc?oc=5</link>
-      <guid isPermaLink="false">news-daw90000-live:3b3d5a73129c</guid>
-      <category>お笑い</category>
-      <pubDate>Fri, 20 Nov 2026 03:09:51 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: ダウ90000 の公演] 「タイタンライブ」キンタロー。とや団が初出演 ダウ90000とストレッチーズもゲスト - ナタリー</title>
-      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zaUhONF9KcTBYd0IzS3lGc19PSl9Vb0ZuSUpaN3U5ZkljdmJ5NzJ0U0RtdUkyTV9lelpFU2ZUdlhXQWJzRUlWSW1tTXQ4UQ?oc=5</link>
-      <guid isPermaLink="false">news-daw90000-live:4adc5809787b</guid>
-      <category>お笑い</category>
-      <pubDate>Fri, 20 Nov 2026 03:09:51 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: ダウ90000 の公演] 12・11タイタンライブ や団とキンタロー。が初登場 ダウ90000、ストレッチーズも（日刊スポーツ） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE84VEVnNXk2dnhtalJvM3h5eTJYZTNhSnNaLWVPRFh5cVFvQTVjaVVreERkV0xlWGdTRjZBbFdENHVuUjJSQi1WTTZzbWVScXRMYnhEOVZ6elBGTlhpM0ZVQ0psdUVLaEI3dWhHampycFRuTWZEOXVfaWkxTWxKUzA?oc=5</link>
-      <guid isPermaLink="false">news-daw90000-live:524add58695c</guid>
-      <category>お笑い</category>
-      <pubDate>Fri, 20 Nov 2026 03:09:51 +0900</pubDate>
-    </item>
-    <item>
-      <title>[京都国際マンガミュージアム] 竹宮惠子氏の館長就任（2027年4月1日～）について</title>
-      <link>https://kyotomm.jp/news/takemiya_keiko_director/</link>
-      <guid isPermaLink="false">kyotomm:1c40e4b07dfb</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Fri, 20 Nov 2026 03:09:51 +0900</pubDate>
-    </item>
-    <item>
-      <title>[京都国際マンガミュージアム] 《マンガ工房》12月 実演カレンダー</title>
-      <link>https://kyotomm.jp/news/mangastudio_december2026/</link>
-      <guid isPermaLink="false">kyotomm:8217bad1d611</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Fri, 20 Nov 2026 03:09:51 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ハピエル（関西のアニメ展・マンガ展）] ちいかわパークストアとナガノマーケット UMEDAへ！かわいいグッズや限定特典を紹介</title>
-      <link>https://happyell.co.jp/lucua-chiikawapark-nagano</link>
-      <guid isPermaLink="false">happyell:921277d0f089</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Fri, 20 Nov 2026 03:09:51 +0900</pubDate>
     </item>
   </channel>
 </rss>
