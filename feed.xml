@@ -4,7 +4,21 @@
     <title>関西イベント新着（Event_RSS）</title>
     <link>https://github.com/ractodaisuki/Event_RSS</link>
     <description>関西のアニメ・お笑い・映画などの情報源から、新しく見つかった項目</description>
-    <lastBuildDate>Fri, 27 Nov 2026 03:56:39 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:50:44 +0900</lastBuildDate>
+    <item>
+      <title>[なんばグランド花月 お知らせ] 2026年11月27日 お詫び ザ・ぼんち 休演のお知らせ</title>
+      <link>https://ngk.yoshimoto.co.jp/2026/11/1114-14-2.html</link>
+      <guid isPermaLink="false">ngk:0c96bf3afc3a</guid>
+      <category>お笑い</category>
+      <pubDate>Sat, 28 Nov 2026 03:50:44 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ニュース: ダウ90000 の公演] タイタンライブにキンタロー。、や団の初出演決定 ダウ９００００やストレッチーズもゲスト １２・１１ - ｄメニューニュース</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxObWxWbUJyclRfcDVGb2dFS2pMNmRPVTZzWG9FWjJ5ajYtSTZ6TEhWSkZtNTVEbGJHOHBDTEJWX3JhVXF0WVZHRFRtekpIbTJSTFdsMjhVNExJdjFmb0FhT2V1aUkxdV90MkxMbzZQdE9rZ2FIVjNUX2JzT25EVEJiY3Z4d9IBiAFBVV95cUxPZUlfZmM2dURMN1d1WTdCeDZkZTFVRF8tVmxwNDltVlVzdklOc041ZlhkQ2h0dENhcTRFRGVYU2VFM05BTDl4NmdtLTZuUkt5Wm83VGhnNV9HQmlMNmx6MVYzRHktVXRKaTZZMkFGWkZOS3F2eVFsWEJ2bGtEaDE3dTVuYlhaSC1w?oc=5</link>
+      <guid isPermaLink="false">news-daw90000-live:aace72f59ac5</guid>
+      <category>お笑い</category>
+      <pubDate>Sat, 28 Nov 2026 03:50:44 +0900</pubDate>
+    </item>
     <item>
       <title>[ウォーカープラス 関西 伝統芸能・お笑いライブ] 記憶汚染展(大阪)</title>
       <link>https://www.walkerplus.com/event/ar0727e619806/</link>
@@ -496,13 +510,6 @@
       <pubDate>Mon, 23 Nov 2026 02:02:57 +0900</pubDate>
     </item>
     <item>
-      <title>[ニュース: 関西のホラー展示] 【レポート】京都・北山で5日間のハロウィンイベント開催！昼・夜で違った楽しみ方ができるホラーコンテンツを用意 - Infoseek</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4cjFpaFBmdkVjVkU1V2NjUkdReW5sS2lYSEFGY3NSTTRwcUlJRzVXRnJzRUxrTEVtbXBoa3BTRzFSUDdYSVl6UXoycGdtMHExY0VHaVhPeURoWVFGdXMycUtkRQ?oc=5</link>
-      <guid isPermaLink="false">news-horror-exhibit-kansai:32715b749197</guid>
-      <category>アート・展示</category>
-      <pubDate>Mon, 23 Nov 2026 02:02:57 +0900</pubDate>
-    </item>
-    <item>
       <title>[ニュース: 関西のエヴァンゲリオン展示・イベント] 「エヴァンゲリオン」30周年記念展、大阪会場に前田真宏の巨大壁面画が登場！松原秀典のドローイング作品もグッズ化 - アニメ！アニメ！</title>
       <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UTkhVWjI0cnlwM0dUVldBdDBYeGNhazRJcEVNMlFXZGVONlZMQ0p4RWxsN2x2bWkxSkhIbV9mWmtVYWZHOUtScEwyTEhZMlZlcHF2TmJzSkJGaGZRMmRNVXVB?oc=5</link>
       <guid isPermaLink="false">news-evangelion-kansai:a7ce52b585b4</guid>
@@ -627,104 +634,6 @@
       <guid isPermaLink="false">kintetsu-artkan:62383694fe16</guid>
       <category>お笑い</category>
       <pubDate>Sun, 22 Nov 2026 01:43:21 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ウォーカープラス 関西 映画イベント] カンテレ祭り！2026 よ～いドン！フェス～人気番組大集合～</title>
-      <link>https://www.walkerplus.com/event/ar0727e568492/</link>
-      <guid isPermaLink="false">walker-kansai-movie:7c5989505d1c</guid>
-      <category>映画</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ウォーカープラス 関西 アニメ・ゲーム] カンテレ祭り！2026 よ～いドン！フェス～人気番組大集合～</title>
-      <link>https://www.walkerplus.com/event/ar0727e568492/</link>
-      <guid isPermaLink="false">walker-kansai-anime:7c5989505d1c</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 十九人 の公演] お笑いライブ#チゲコメ vol.3が日本橋公会堂で開催へ ママタルトら出演 - Dellows News</title>
-      <link>https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OQlctU0xmMnBkYklDWElDOG9TQkM4MTlhT1JsUEtCUFN5LUgzVGVlX3lweUN6YVU2cWdUelMzZ3d5SFhPQVE?oc=5</link>
-      <guid isPermaLink="false">news-jukyunin-live:d65d760d411e</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 関西のエヴァンゲリオン展示・イベント] 画像・写真 | 【大阪】『エヴァンゲリオン』前田真宏氏が描いた巨大壁面画、ひらパーで初公開へ 「30周年記念展」追加情報 2枚目 - オリコンニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1VlNJdEJXZ2p4UC1seTlhMjFVRFJvTkNRcWpWYnBiQnNUaktuenJlVjd3UWt2UE0wMy1YdXN6di1JUHFmbGd6R1NoZ0J2c3JMM3RsUXcxbjA5QQ?oc=5</link>
-      <guid isPermaLink="false">news-evangelion-kansai:b13392d21697</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 関西のエヴァンゲリオン展示・イベント] 画像7 / 11＞【大阪のイベント】今週末は3連休！大阪周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日 - ウォーカープラス</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBvRlZfTkkwdk5uQk8zRnlKTS03ZVhVQ01RaHdSYjBhWnB5Wk90UWp3bDVJNmhWeVpTVXRmRU1NUWZUT19QdjRlTVJ6Sk9zUC1CM2JSMGdxc2UxM3VPcWMxejQwLWZha3R6SEZQZHNB?oc=5</link>
-      <guid isPermaLink="false">news-evangelion-kansai:a0dc7dd1972a</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: 関西のエヴァンゲリオン展示・イベント] 【大阪】『エヴァンゲリオン』前田真宏氏が描いた巨大壁面画、ひらパーで初公開へ 「30周年記念展」追加情報 - 山陽新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0tuR1ExTTdKS05Zajhjd3Nyd2ozNXA1VDNBNF9EbDYzeHNhOE1WczJUQ3g4ODh0WU5nUTBtQzNUSDdYVnZ5MnZoV2w2UnFiT0Yzc2NGMm9mUmhRZklOTlNTTFRXVmE0R3oySE5TWXZMYVM1RnZCZ3FqdTBaQ3pxckxtanVmNGNlN3c?oc=5</link>
-      <guid isPermaLink="false">news-evangelion-kansai:f4886c194e3d</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: ダウ90000 の公演] １２・１１「タイタンライブ」キンタロー。が初出演 や団、ダウ９００００、ストレッチーズもゲスト - 千葉テレビ放送株式会社</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yR3JhZzFHSnFzbEV3MUEzVzY2WVhWcF9FWGRLYTlaS2k4MFFUTEU0N1dfZndvVnhEVFJDRGxMUDF5a3FmNmQwdGNoTHRFNTlPNU9FZVpqeEFUYU12RmZN?oc=5</link>
-      <guid isPermaLink="false">news-daw90000-live:4a7bed9282e0</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: ダウ90000 の公演] タイタンライブにキンタロー。、や団の初出演決定 ダウ９００００やストレッチーズもゲスト １２・１１（デイリースポーツ） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE8yck1YcHJremJ6ZHlrM25fdnd2RTJGTHVjZkx3ckJWenV1QjJvdUdXd1JJYmVQN2JLT2JjbnBQTWdoRWFOVk9lQ1lQT3FfczU5REIwMnpvdklrWElWSW5fM1g4VTZBdHh3c2VBLW9BazNHWENTN0FOR3JpU0h6clk?oc=5</link>
-      <guid isPermaLink="false">news-daw90000-live:6e8f7c26b9ae</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: ダウ90000 の公演] タイタンライブにキンタロー。、や団の初出演決定 ダウ９００００やストレッチーズもゲスト １２・１１ - デイリースポーツ</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9GOVBhbDYtWnlLYmVDM2ZtYlczajhLWlVTTkxGXzk4dndyS3ptV3l5LWRLMlAwYmluRGMxeExja0p3Q182ckhlRTFDQXN2SGstS2FPN0VVXzNLZms2ZXQ5MDB6eWVsOW1ueXc?oc=5</link>
-      <guid isPermaLink="false">news-daw90000-live:4e8edcf0ccf2</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ニュース: ダウ90000 の公演] タイタンライブにキンタロー。、や団の初出演決定 ダウ90000やストレッチーズもゲスト 12.11 - Excite エキサイト</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE9tcnhFOUh5YmJhRGJYb1J6TE1iYThIOTdyYm1yMTNrSDBXUzVlMnVXaDV3QUgwT3lpLXI1UVVPdlM0bThlam5RT2tFbnZISXA1ZFVJalNOZGRxM1ZJQnI1ZVFKZzZOZ19hV2ZXM09HSVk?oc=5</link>
-      <guid isPermaLink="false">news-daw90000-live:c094d56a0fa1</guid>
-      <category>お笑い</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[京都国際マンガミュージアム] メビウス氏のイラストを使用したポスター販売開始日の変更について</title>
-      <link>https://kyotomm.jp/news/poster-sales-date/</link>
-      <guid isPermaLink="false">kyotomm:fa2765699403</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[京都国際マンガミュージアム] 《紙芝居》12月 実演者スケジュール</title>
-      <link>https://kyotomm.jp/news/kamishibai_december2026/</link>
-      <guid isPermaLink="false">kyotomm:5281d130dac2</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ハピエル（関西のアニメ展・マンガ展）] ルクアサウスのエヴァンゲリオンストア大阪を取材！NERV風の店内・等身大レイ・限定グッズ</title>
-      <link>https://happyell.co.jp/evangelion-store-osaka-lucua-south</link>
-      <guid isPermaLink="false">happyell:3177a1911470</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ハピエル（関西のアニメ展・マンガ展）] 【西日本初登場】「PUPPET SUNSUN STORE」がルクア大阪の新館「LUCUA SOUTH」にオープン！限定グッズや特別な店内にも注目</title>
-      <link>https://happyell.co.jp/puppet-sunsun-store-osaka2026</link>
-      <guid isPermaLink="false">happyell:716e0a1edf59</guid>
-      <category>アニメ・マンガ</category>
-      <pubDate>Sat, 21 Nov 2026 02:42:35 +0900</pubDate>
     </item>
   </channel>
 </rss>
